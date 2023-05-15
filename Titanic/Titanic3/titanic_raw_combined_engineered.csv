@@ -4,26 +4,26 @@
 27,75,1.0,3,"Bing, Mr. Lee",male,32.0,0,0,1601,56.4958,not_assigned,S,train,Bing,False,False,1,False,8,True,False,False,5
 38,170,0.0,3,"Ling, Mr. Lee",male,28.0,0,0,1601,56.4958,not_assigned,S,train,Ling,False,False,1,False,8,True,False,False,5
 49,510,1.0,3,"Lang, Mr. Fang",male,26.0,0,0,1601,56.4958,not_assigned,S,train,Lang,False,False,1,False,8,True,False,False,5
-60,644,1.0,3,"Foo, Mr. Choong",male,29.522111111111112,0,0,1601,56.4958,not_assigned,S,train,Foo,False,False,1,False,8,True,False,False,5
-71,693,1.0,3,"Lam, Mr. Ali",male,31.482373015873026,0,0,1601,56.4958,not_assigned,S,train,Lam,False,False,2,True,8,False,False,False,5
-82,827,0.0,3,"Lam, Mr. Len",male,31.482373015873026,0,0,1601,56.4958,not_assigned,S,train,Lam,False,False,2,True,8,False,False,False,5
+60,644,1.0,3,"Foo, Mr. Choong",male,29.538722222222212,0,0,1601,56.4958,not_assigned,S,train,Foo,False,False,1,False,8,True,False,False,5
+71,693,1.0,3,"Lam, Mr. Ali",male,31.397523809523808,0,0,1601,56.4958,not_assigned,S,train,Lam,False,False,2,True,8,False,False,False,5
+82,827,0.0,3,"Lam, Mr. Len",male,31.397523809523808,0,0,1601,56.4958,not_assigned,S,train,Lam,False,False,2,True,8,False,False,False,5
 93,839,1.0,3,"Chip, Mr. Chang",male,32.0,0,0,1601,56.4958,not_assigned,S,train,Chip,False,False,1,False,8,True,False,False,5
 104,427,1.0,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,2003,26.0,not_assigned,S,train,Clarke,False,False,2,True,2,False,False,False,5
 113,835,0.0,3,"Allum, Mr. Owen George",male,18.0,0,0,2223,8.3,not_assigned,S,train,Allum,False,False,1,False,1,False,True,False,3
 125,554,1.0,3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,0,2620,7.225,not_assigned,C,train,Leeni,False,False,1,False,1,False,True,False,4
 138,662,0.0,3,"Badt, Mr. Mohamed",male,40.0,0,0,2623,7.225,not_assigned,C,train,Badt,False,False,1,False,1,False,True,False,6
-149,523,0.0,3,"Lahoud, Mr. Sarkis",male,36.885,0,0,2624,7.225,not_assigned,C,train,Lahoud,False,False,1,False,1,False,True,False,6
+148,523,0.0,3,"Lahoud, Mr. Sarkis",male,34.1,0,0,2624,7.225,not_assigned,C,train,Lahoud,False,False,1,False,1,False,True,False,5
 154,804,1.0,3,"Thomas, Master. Assad Alexander",male,0.42,0,1,2625,8.5167,not_assigned,C,train,Thomas,False,False,2,True,2,False,False,True,0
-170,368,1.0,3,"Moussa, Mrs. (Mantoura Boulos)",female,34.3,0,0,2626,7.2292,not_assigned,C,train,Moussa,False,False,1,False,1,False,True,False,5
+170,368,1.0,3,"Moussa, Mrs. (Mantoura Boulos)",female,32.965,0,0,2626,7.2292,not_assigned,C,train,Moussa,False,False,1,False,1,False,True,False,5
 179,115,0.0,3,"Attalah, Miss. Malake",female,17.0,0,0,2627,14.4583,not_assigned,C,train,Attalah,False,False,1,False,2,True,False,True,3
-192,496,0.0,3,"Yousseff, Mr. Gerious",male,28.046904761904763,0,0,2627,14.4583,not_assigned,C,train,Yousseff,False,False,1,False,2,True,False,False,5
+192,496,0.0,3,"Yousseff, Mr. Gerious",male,29.077500000000004,0,0,2627,14.4583,not_assigned,C,train,Yousseff,False,False,1,False,2,True,False,False,5
 205,204,0.0,3,"Youseff, Mr. Gerious",male,45.5,0,0,2628,7.225,not_assigned,C,train,Youseff,False,False,1,False,1,False,True,False,7
-215,860,0.0,3,"Razi, Mr. Raihed",male,36.79,0,0,2629,7.2292,not_assigned,C,train,Razi,False,False,1,False,1,False,True,False,6
-226,27,0.0,3,"Emir, Mr. Farred Chehab",male,39.98,0,0,2631,7.225,not_assigned,C,train,Emir,False,False,1,False,1,False,True,False,6
-236,532,0.0,3,"Toufik, Mr. Nakli",male,30.13,0,0,2641,7.2292,not_assigned,C,train,Toufik,False,False,1,False,1,False,True,False,5
-247,355,0.0,3,"Yousif, Mr. Wazli",male,31.13,0,0,2647,7.225,not_assigned,C,train,Yousif,False,False,1,False,1,False,True,False,5
+215,860,0.0,3,"Razi, Mr. Raihed",male,35.19,0,0,2629,7.2292,not_assigned,C,train,Razi,False,False,1,False,1,False,True,False,6
+226,27,0.0,3,"Emir, Mr. Farred Chehab",male,38.965,0,0,2631,7.225,not_assigned,C,train,Emir,False,False,1,False,1,False,True,False,6
+236,532,0.0,3,"Toufik, Mr. Nakli",male,29.915,0,0,2641,7.2292,not_assigned,C,train,Toufik,False,False,1,False,1,False,True,False,5
+247,355,0.0,3,"Yousif, Mr. Wazli",male,32.475,0,0,2647,7.225,not_assigned,C,train,Yousif,False,False,1,False,1,False,True,False,5
 257,379,0.0,3,"Betros, Mr. Tannous",male,20.0,0,0,2648,4.0125,not_assigned,C,train,Betros,False,False,1,False,1,False,True,False,4
-269,20,1.0,3,"Masselmani, Mrs. Fatima",female,28.67,0,0,2649,7.225,not_assigned,C,train,Masselmani,False,False,1,False,1,False,True,False,5
+269,20,1.0,3,"Masselmani, Mrs. Fatima",female,31.385,0,0,2649,7.225,not_assigned,C,train,Masselmani,False,False,1,False,1,False,True,False,5
 280,256,1.0,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,2650,15.2458,not_assigned,C,train,Touma,False,False,3,True,3,False,False,False,5
 288,40,1.0,3,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,11.2417,not_assigned,C,train,Nicola-Yarred,False,False,2,True,2,False,False,True,2
 299,126,1.0,3,"Nicola-Yarred, Master. Elias",male,12.0,1,0,2651,11.2417,not_assigned,C,train,Nicola-Yarred,False,False,2,True,2,False,False,True,2
@@ -31,33 +31,33 @@
 323,623,1.0,3,"Nakid, Mr. Sahid",male,20.0,1,1,2653,15.7417,not_assigned,C,train,Nakid,False,False,3,True,3,False,False,False,4
 335,621,0.0,3,"Yasbeck, Mr. Antoni",male,27.0,1,0,2659,14.4542,not_assigned,C,train,Yasbeck,False,False,2,True,2,False,False,False,5
 344,831,1.0,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,2659,14.4542,not_assigned,C,train,Yasbeck,False,False,2,True,2,False,False,False,3
-353,66,1.0,3,"Moubarek, Master. Gerios",male,6.349549999999999,1,1,2661,15.2458,not_assigned,C,train,Moubarek,False,False,3,True,3,False,False,True,1
-364,710,1.0,3,"Moubarek, Master. Halim Gonios (""William George"")",male,6.349549999999999,1,1,2661,15.2458,not_assigned,C,train,Moubarek,False,False,3,True,3,False,False,True,1
-378,49,0.0,3,"Samaan, Mr. Youssef",male,24.947000000000003,2,0,2662,21.6792,not_assigned,C,train,Samaan,False,False,3,True,3,False,False,False,4
+353,66,1.0,3,"Moubarek, Master. Gerios",male,6.039200000000001,1,1,2661,15.2458,not_assigned,C,train,Moubarek,False,False,3,True,3,False,False,True,1
+364,710,1.0,3,"Moubarek, Master. Halim Gonios (""William George"")",male,6.039200000000001,1,1,2661,15.2458,not_assigned,C,train,Moubarek,False,False,3,True,3,False,False,True,1
+379,49,0.0,3,"Samaan, Mr. Youssef",male,25.50671428571429,2,0,2662,21.6792,not_assigned,C,train,Samaan,False,False,3,True,3,False,False,False,5
 389,763,1.0,3,"Barah, Mr. Hanna Assi",male,20.0,0,0,2663,7.2292,not_assigned,C,train,Barah,False,False,1,False,1,False,True,False,4
-400,599,0.0,3,"Boulos, Mr. Hanna",male,22.465,0,0,2664,7.225,not_assigned,C,train,Boulos,False,False,1,False,1,False,True,False,4
+400,599,0.0,3,"Boulos, Mr. Hanna",male,22.905,0,0,2664,7.225,not_assigned,C,train,Boulos,False,False,1,False,1,False,True,False,4
 410,112,0.0,3,"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,not_assigned,C,train,Zabour,False,False,2,True,2,False,False,True,3
-421,241,0.0,3,"Zabour, Miss. Thamine",female,14.885,1,0,2665,14.4542,not_assigned,C,train,Zabour,False,False,2,True,2,False,False,True,3
+421,241,0.0,3,"Zabour, Miss. Thamine",female,14.805,1,0,2665,14.4542,not_assigned,C,train,Zabour,False,False,2,True,2,False,False,True,3
 430,449,1.0,3,"Baclini, Miss. Marie Catherine",female,5.0,2,1,2666,19.2583,not_assigned,C,train,Baclini,False,False,4,True,4,False,False,True,1
 440,470,1.0,3,"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,19.2583,not_assigned,C,train,Baclini,False,False,4,True,4,False,False,True,0
 451,645,1.0,3,"Baclini, Miss. Eugenie",female,0.75,2,1,2666,19.2583,not_assigned,C,train,Baclini,False,False,4,True,4,False,False,True,0
 466,859,1.0,3,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,3,2666,19.2583,not_assigned,C,train,Baclini,False,False,4,True,4,False,False,False,4
 476,876,1.0,3,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,2667,7.225,not_assigned,C,train,Najib,False,False,1,False,1,False,True,True,3
-485,129,1.0,3,"Peter, Miss. Anna",female,3.6798416666666665,1,1,2668,22.3583,F E69,C,train,Peter,False,True,3,True,3,False,False,True,1
-500,534,1.0,3,"Peter, Mrs. Catherine (Catherine Rizk)",female,26.36,0,2,2668,22.3583,not_assigned,C,train,Peter,False,False,3,True,3,False,False,False,5
+485,129,1.0,3,"Peter, Miss. Anna",female,3.9242500000000002,1,1,2668,22.3583,F E69,C,train,Peter,False,True,3,True,3,False,False,True,1
+500,534,1.0,3,"Peter, Mrs. Catherine (Catherine Rizk)",female,26.505,0,2,2668,22.3583,not_assigned,C,train,Peter,False,False,3,True,3,False,False,False,5
 510,61,0.0,3,"Sirayanian, Mr. Orsen",male,22.0,0,0,2669,7.2292,not_assigned,C,train,Sirayanian,False,False,1,False,1,False,True,False,4
-521,833,0.0,3,"Saad, Mr. Amin",male,23.34,0,0,2671,7.2292,not_assigned,C,train,Saad,False,False,1,False,1,False,True,False,4
+521,833,0.0,3,"Saad, Mr. Amin",male,23.22,0,0,2671,7.2292,not_assigned,C,train,Saad,False,False,1,False,1,False,True,False,4
 532,694,0.0,3,"Saad, Mr. Khalil",male,25.0,0,0,2672,7.225,not_assigned,C,train,Saad,False,False,1,False,1,False,True,False,4
-543,774,0.0,3,"Elias, Mr. Dibo",male,24.92,0,0,2674,7.225,not_assigned,C,train,Elias,False,False,1,False,1,False,True,False,4
-554,37,1.0,3,"Mamee, Mr. Hanna",male,21.08,0,0,2677,7.2292,not_assigned,C,train,Mamee,False,False,1,False,1,False,True,False,4
-566,141,0.0,3,"Boulos, Mrs. Joseph (Sultana)",female,28.765,0,2,2678,15.2458,not_assigned,C,train,Boulos,False,False,3,True,3,False,False,False,5
+543,774,0.0,3,"Elias, Mr. Dibo",male,24.945,0,0,2674,7.225,not_assigned,C,train,Elias,False,False,1,False,1,False,True,False,4
+554,37,1.0,3,"Mamee, Mr. Hanna",male,21.16666666666667,0,0,2677,7.2292,not_assigned,C,train,Mamee,False,False,1,False,1,False,True,False,4
+566,141,0.0,3,"Boulos, Mrs. Joseph (Sultana)",female,29.145,0,2,2678,15.2458,not_assigned,C,train,Boulos,False,False,3,True,3,False,False,False,5
 574,853,0.0,3,"Boulos, Miss. Nourelain",female,9.0,1,1,2678,15.2458,not_assigned,C,train,Boulos,False,False,3,True,3,False,False,True,2
 588,74,0.0,3,"Chronopoulos, Mr. Apostolos",male,26.0,1,0,2680,14.4542,not_assigned,C,train,Chronopoulos,False,False,2,True,2,False,False,False,5
 599,844,0.0,3,"Lemberopolous, Mr. Peter L",male,34.5,0,0,2683,6.4375,not_assigned,C,train,Lemberopolous,False,False,1,False,1,False,True,False,5
 610,799,0.0,3,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0,0,2685,7.2292,not_assigned,C,train,Ibrahim Shawah,False,False,1,False,1,False,True,False,5
-621,569,0.0,3,"Doharr, Mr. Tannous",male,27.75,0,0,2686,7.2292,not_assigned,C,train,Doharr,False,False,1,False,1,False,True,False,5
+621,569,0.0,3,"Doharr, Mr. Tannous",male,27.47,0,0,2686,7.2292,not_assigned,C,train,Doharr,False,False,1,False,1,False,True,False,5
 629,781,1.0,3,"Ayoub, Miss. Banoura",female,13.0,0,0,2687,7.2292,not_assigned,C,train,Ayoub,False,False,1,False,1,False,True,True,2
-643,579,0.0,3,"Caram, Mrs. Joseph (Maria Elias)",female,29.673333333333336,1,0,2689,14.4583,not_assigned,C,train,Caram,False,False,2,True,2,False,False,False,5
+643,579,0.0,3,"Caram, Mrs. Joseph (Maria Elias)",female,26.953333333333333,1,0,2689,14.4583,not_assigned,C,train,Caram,False,False,2,True,2,False,False,False,5
 652,533,0.0,3,"Elias, Mr. Joseph Jr",male,17.0,1,1,2690,7.2292,not_assigned,C,train,Elias,False,False,1,False,1,False,True,False,3
 666,363,0.0,3,"Barbara, Mrs. (Catherine David)",female,45.0,0,1,2691,14.4542,not_assigned,C,train,Barbara,False,False,2,True,2,False,False,False,6
 674,703,0.0,3,"Barbara, Miss. Saiide",female,18.0,0,1,2691,14.4542,not_assigned,C,train,Barbara,False,False,2,True,2,False,False,True,3
@@ -67,17 +67,17 @@
 720,58,0.0,3,"Novel, Mr. Mansouer",male,28.5,0,0,2697,7.2292,not_assigned,C,train,Novel,False,False,1,False,1,False,True,False,5
 731,208,1.0,3,"Albimona, Mr. Nassef Cassem",male,26.0,0,0,2699,18.7875,not_assigned,C,train,Albimona,False,False,1,False,2,True,False,False,5
 739,732,0.0,3,"Hassan, Mr. Houssein G N",male,11.0,0,0,2699,18.7875,not_assigned,C,train,Hassan,False,False,1,False,2,True,False,False,2
-752,525,0.0,3,"Kassem, Mr. Fared",male,24.845,0,0,2700,7.2292,not_assigned,C,train,Kassem,False,False,1,False,1,False,True,False,4
+753,525,0.0,3,"Kassem, Mr. Fared",male,25.785,0,0,2700,7.2292,not_assigned,C,train,Kassem,False,False,1,False,1,False,True,False,5
 764,544,1.0,2,"Beane, Mr. Edward",male,32.0,1,0,2908,26.0,not_assigned,S,train,Beane,False,False,2,True,2,False,False,False,5
 774,547,1.0,2,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,0,2908,26.0,not_assigned,S,train,Beane,False,False,2,True,2,False,False,False,4
 786,54,1.0,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,2926,26.0,not_assigned,S,train,Faunthorpe,False,False,2,True,2,False,False,False,5
-797,585,0.0,3,"Paulner, Mr. Uscher",male,34.1625,0,0,3411,8.7125,not_assigned,C,train,Paulner,False,False,1,False,1,False,True,False,5
+797,585,0.0,3,"Paulner, Mr. Uscher",male,32.0,0,0,3411,8.7125,not_assigned,C,train,Paulner,False,False,1,False,1,False,True,False,5
 808,478,0.0,3,"Braund, Mr. Lewis Richard",male,29.0,1,0,3460,7.0458,not_assigned,S,train,Braund,False,False,1,False,1,False,True,False,5
 819,811,0.0,3,"Alexander, Mr. William",male,26.0,0,0,3474,7.8875,not_assigned,S,train,Alexander,False,False,1,False,1,False,True,False,5
-826,177,0.0,3,"Lefebre, Master. Henry Forbes",male,5.19246507936508,3,1,4133,25.4667,not_assigned,S,train,Lefebre,False,False,5,True,5,False,False,True,1
-837,230,0.0,3,"Lefebre, Miss. Mathilde",female,5.065319047619047,3,1,4133,25.4667,not_assigned,S,train,Lefebre,False,False,5,True,5,False,False,True,1
-848,410,0.0,3,"Lefebre, Miss. Ida",female,5.065319047619047,3,1,4133,25.4667,not_assigned,S,train,Lefebre,False,False,5,True,5,False,False,True,1
-859,486,0.0,3,"Lefebre, Miss. Jeannie",female,5.065319047619047,3,1,4133,25.4667,not_assigned,S,train,Lefebre,False,False,5,True,5,False,False,True,1
+826,177,0.0,3,"Lefebre, Master. Henry Forbes",male,5.233713333333332,3,1,4133,25.4667,not_assigned,S,train,Lefebre,False,False,5,True,5,False,False,True,1
+837,230,0.0,3,"Lefebre, Miss. Mathilde",female,5.601627619047618,3,1,4133,25.4667,not_assigned,S,train,Lefebre,False,False,5,True,5,False,False,True,1
+848,410,0.0,3,"Lefebre, Miss. Ida",female,5.601627619047618,3,1,4133,25.4667,not_assigned,S,train,Lefebre,False,False,5,True,5,False,False,True,1
+859,486,0.0,3,"Lefebre, Miss. Jeannie",female,5.601627619047618,3,1,4133,25.4667,not_assigned,S,train,Lefebre,False,False,5,True,5,False,False,True,1
 877,484,1.0,3,"Turkula, Mrs. (Hedwig)",female,63.0,0,0,4134,9.5875,not_assigned,S,train,Turkula,False,False,1,False,1,False,True,False,8
 886,504,0.0,3,"Laitinen, Miss. Kristina Sofia",female,37.0,0,0,4135,9.5875,not_assigned,S,train,Laitinen,False,False,1,False,1,False,True,True,6
 895,114,0.0,3,"Jussila, Miss. Katriina",female,20.0,1,0,4136,9.825,not_assigned,S,train,Jussila,False,False,1,False,1,False,True,True,4
@@ -97,7 +97,7 @@
 1051,339,1.0,3,"Dahl, Mr. Karl Edwart",male,45.0,0,0,7598,8.05,not_assigned,S,train,Dahl,False,False,1,False,1,False,True,False,6
 1061,770,0.0,3,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0,0,8471,8.3625,not_assigned,S,train,Gronnestad,False,False,1,False,1,False,True,False,5
 1071,653,0.0,3,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,8475,8.4333,not_assigned,S,train,Kalvik,False,False,1,False,1,False,True,False,4
-1083,301,1.0,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,30.21,0,0,9234,7.75,not_assigned,Q,train,Kelly,False,False,1,False,1,False,True,True,5
+1083,301,1.0,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,30.96,0,0,9234,7.75,not_assigned,Q,train,Kelly,False,False,1,False,1,False,True,True,5
 1094,42,0.0,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,11668,21.0,not_assigned,S,train,Turpin,False,False,2,True,2,False,False,False,5
 1105,118,0.0,2,"Turpin, Mr. William John Robert",male,29.0,1,0,11668,21.0,not_assigned,S,train,Turpin,False,False,2,True,2,False,False,False,5
 1117,249,1.0,1,"Beckwith, Mr. Richard Leonard",male,37.0,1,1,11751,52.5542,D35,S,train,Beckwith,True,False,2,True,2,False,False,False,6
@@ -110,12 +110,12 @@
 1196,880,1.0,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,11767,83.1583,C50,C,train,Potter,True,False,1,False,3,True,False,False,8
 1206,572,1.0,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,11769,51.4792,C101,S,train,Appleton,True,False,1,False,2,True,False,False,7
 1218,488,0.0,1,"Kent, Mr. Edward Austin",male,58.0,0,0,11771,29.7,B37,C,train,Kent,True,False,1,False,1,False,True,False,8
-1228,840,1.0,1,"Marechal, Mr. Pierre",male,48.01,0,0,11774,29.7,C47,C,train,Marechal,True,False,1,False,1,False,True,False,7
+1228,840,1.0,1,"Marechal, Mr. Pierre",male,48.83214285714286,0,0,11774,29.7,C47,C,train,Marechal,True,False,1,False,1,False,True,False,7
 1237,219,1.0,1,"Bazzani, Miss. Albina",female,32.0,0,0,11813,76.2917,D15,C,train,Bazzani,True,False,1,False,2,True,False,True,5
 1247,292,1.0,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,11967,91.0792,B49,C,train,Bishop,True,False,2,True,2,False,False,False,4
 1258,485,1.0,1,"Bishop, Mr. Dickinson H",male,25.0,1,0,11967,91.0792,B49,C,train,Bishop,True,False,2,True,2,False,False,False,4
 1270,723,0.0,2,"Gillespie, Mr. William Henry",male,34.0,0,0,12233,13.0,not_assigned,S,train,Gillespie,False,False,1,False,1,False,True,False,5
-1282,791,0.0,3,"Keane, Mr. Andrew ""Andy""",male,35.395,0,0,12460,7.75,not_assigned,Q,train,Keane,False,False,1,False,1,False,True,False,6
+1281,791,0.0,3,"Keane, Mr. Andrew ""Andy""",male,32.75,0,0,12460,7.75,not_assigned,Q,train,Keane,False,False,1,False,1,False,True,False,5
 1292,521,1.0,1,"Perreault, Miss. Anne",female,30.0,0,0,12749,93.5,B73,S,train,Perreault,True,False,1,False,4,True,False,True,5
 1305,821,1.0,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,12749,93.5,B69,S,train,Hays,True,False,2,True,4,False,False,False,7
 1315,584,0.0,1,"Ross, Mr. John Hugo",male,36.0,0,0,13049,40.125,A10,C,train,Ross,True,False,1,False,1,False,True,False,6
@@ -129,21 +129,21 @@
 1405,457,0.0,1,"Millet, Mr. Francis Davis",male,65.0,0,0,13509,26.55,E38,S,train,Millet,True,False,1,False,1,False,True,False,8
 1416,588,1.0,1,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,13567,79.2,B41,C,train,Frolicher-Stehli,True,False,2,True,2,False,False,False,8
 1423,540,1.0,1,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,13568,49.5,B39,C,train,Frolicher,True,False,1,False,1,False,True,True,4
-1435,48,1.0,3,"O'Driscoll, Miss. Bridget",female,25.175,0,0,14311,7.75,not_assigned,Q,train,O'Driscoll,False,False,1,False,1,False,True,True,5
-1446,574,1.0,3,"Kelly, Miss. Mary",female,25.175,0,0,14312,7.75,not_assigned,Q,train,Kelly,False,False,1,False,1,False,True,True,5
-1457,369,1.0,3,"Jermyn, Miss. Annie",female,25.175,0,0,14313,7.75,not_assigned,Q,train,Jermyn,False,False,1,False,1,False,True,True,5
+1435,48,1.0,3,"O'Driscoll, Miss. Bridget",female,25.735,0,0,14311,7.75,not_assigned,Q,train,O'Driscoll,False,False,1,False,1,False,True,True,5
+1446,574,1.0,3,"Kelly, Miss. Mary",female,25.735,0,0,14312,7.75,not_assigned,Q,train,Kelly,False,False,1,False,1,False,True,True,5
+1457,369,1.0,3,"Jermyn, Miss. Annie",female,25.735,0,0,14313,7.75,not_assigned,Q,train,Jermyn,False,False,1,False,1,False,True,True,5
 1467,589,0.0,3,"Gilinski, Mr. Eliezer",male,22.0,0,0,14973,8.05,not_assigned,S,train,Gilinski,False,False,1,False,1,False,True,False,4
 1480,320,1.0,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,16966,134.5,E34,C,train,Spedden,True,False,3,True,5,False,False,False,6
 1491,338,1.0,1,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,16966,134.5,E40,C,train,Burns,True,False,1,False,5,True,False,True,6
-1503,741,1.0,1,"Hawksford, Mr. Walter James",male,46.865,0,0,16988,30.0,D45,S,train,Hawksford,True,False,1,False,1,False,True,False,7
-1512,307,1.0,1,"Fleming, Miss. Margaret",female,31.526333333333337,0,0,17421,110.8833,not_assigned,C,train,Fleming,False,False,1,False,4,True,False,True,5
+1503,741,1.0,1,"Hawksford, Mr. Walter James",male,47.765,0,0,16988,30.0,D45,S,train,Hawksford,True,False,1,False,1,False,True,False,7
+1512,307,1.0,1,"Fleming, Miss. Margaret",female,32.75333333333334,0,0,17421,110.8833,not_assigned,C,train,Fleming,False,False,1,False,4,True,False,True,5
 1521,551,1.0,1,"Thayer, Mr. John Borland Jr",male,17.0,0,2,17421,110.8833,C70,C,train,Thayer,True,False,3,True,4,False,False,False,3
 1535,582,1.0,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,17421,110.8833,C68,C,train,Thayer,True,False,3,True,4,False,False,False,6
 1547,699,0.0,1,"Thayer, Mr. John Borland",male,49.0,1,1,17421,110.8833,C68,C,train,Thayer,True,False,3,True,4,False,False,False,7
 1558,454,1.0,1,"Goldenberg, Mr. Samuel L",male,49.0,1,0,17453,89.1042,C92,C,train,Goldenberg,True,False,2,True,2,False,False,False,7
-1568,850,1.0,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,42.79,1,0,17453,89.1042,C92,C,train,Goldenberg,True,False,2,True,2,False,False,False,6
+1568,850,1.0,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,40.95,1,0,17453,89.1042,C92,C,train,Goldenberg,True,False,2,True,2,False,False,False,6
 1580,7,0.0,1,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,51.8625,E46,S,train,McCarthy,True,False,1,False,2,True,False,False,7
-1590,458,1.0,1,"Kenyon, Mrs. Frederick R (Marion)",female,41.58,1,0,17464,51.8625,D21,S,train,Kenyon,True,False,2,True,2,False,False,False,6
+1590,458,1.0,1,"Kenyon, Mrs. Frederick R (Marion)",female,43.53,1,0,17464,51.8625,D21,S,train,Kenyon,True,False,2,True,2,False,False,False,6
 1602,797,1.0,1,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,17465,25.9292,D17,S,train,Leader,True,False,1,False,1,False,True,False,7
 1613,863,1.0,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,17466,25.9292,D17,S,train,Swift,True,False,1,False,1,False,True,False,7
 1622,691,1.0,1,"Dick, Mr. Albert Adrian",male,31.0,1,0,17474,57.0,B20,S,train,Dick,True,False,2,True,2,False,False,False,5
@@ -155,15 +155,15 @@
 1688,413,1.0,1,"Minahan, Miss. Daisy E",female,33.0,1,0,19928,90.0,C78,Q,train,Minahan,True,False,3,True,3,False,False,True,5
 1700,225,1.0,1,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,19943,90.0,C93,S,train,Hoyt,True,False,2,True,2,False,False,False,6
 1710,487,1.0,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,19943,90.0,C93,S,train,Hoyt,True,False,2,True,2,False,False,False,5
-1723,56,1.0,1,"Woolner, Mr. Hugh",male,45.775,0,0,19947,35.5,C52,S,train,Woolner,True,False,1,False,1,False,True,False,7
+1723,56,1.0,1,"Woolner, Mr. Hugh",male,45.83,0,0,19947,35.5,C52,S,train,Woolner,True,False,1,False,1,False,True,False,7
 1731,28,0.0,1,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,263.0,C23 C25 C27,S,train,Fortune,False,True,6,True,6,False,False,False,4
 1742,89,1.0,1,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,263.0,C23 C25 C27,S,train,Fortune,False,True,6,True,6,False,False,True,4
 1753,342,1.0,1,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,263.0,C23 C25 C27,S,train,Fortune,False,True,6,True,6,False,False,True,4
 1768,439,0.0,1,"Fortune, Mr. Mark",male,64.0,1,4,19950,263.0,C23 C25 C27,S,train,Fortune,False,True,6,True,6,False,False,False,8
 1778,461,1.0,1,"Anderson, Mr. Harry",male,48.0,0,0,19952,26.55,E12,S,train,Anderson,True,False,1,False,1,False,True,False,7
 1788,823,0.0,1,"Reuchlin, Jonkheer. John George",male,38.0,0,0,19972,0.0,not_assigned,S,train,Reuchlin,False,False,1,False,1,False,True,False,6
-1800,299,1.0,1,"Saalfeld, Mr. Adolphe",male,47.805,0,0,19988,30.5,C106,S,train,Saalfeld,True,False,1,False,1,False,True,False,7
-1810,670,1.0,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,42.25,1,0,19996,52.0,C126,S,train,Taylor,True,False,2,True,2,False,False,False,6
+1800,299,1.0,1,"Saalfeld, Mr. Adolphe",male,46.64,0,0,19988,30.5,C106,S,train,Saalfeld,True,False,1,False,1,False,True,False,7
+1810,670,1.0,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,42.16,1,0,19996,52.0,C126,S,train,Taylor,True,False,2,True,2,False,False,False,6
 1822,713,1.0,1,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,19996,52.0,C126,S,train,Taylor,True,False,2,True,2,False,False,False,7
 1833,223,0.0,3,"Green, Mr. George Henry",male,51.0,0,0,21440,8.05,not_assigned,S,train,Green,False,False,1,False,1,False,True,False,7
 1840,690,1.0,1,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,24160,211.3375,B5,S,train,Madill,True,False,1,False,4,True,False,True,3
@@ -210,12 +210,12 @@
 2292,103,0.0,1,"White, Mr. Richard Frasar",male,21.0,0,1,35281,77.2875,D26,S,train,White,True,False,2,True,2,False,False,False,4
 2306,125,0.0,1,"White, Mr. Percival Wayland",male,54.0,0,1,35281,77.2875,D26,S,train,White,True,False,2,True,2,False,False,False,7
 2313,157,1.0,3,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,35851,7.7333,not_assigned,Q,train,Gilnagh,False,False,1,False,1,False,True,True,3
-2325,698,1.0,3,"Mullens, Miss. Katherine ""Katie""",female,18.445,0,0,35852,7.7333,not_assigned,Q,train,Mullens,False,False,1,False,1,False,True,True,4
-2337,469,0.0,3,"Scanlan, Mr. James",male,30.485,0,0,36209,7.725,not_assigned,Q,train,Scanlan,False,False,1,False,1,False,True,False,5
-2348,719,0.0,3,"McEvoy, Mr. Michael",male,32.8075,0,0,36568,15.5,not_assigned,Q,train,McEvoy,False,False,1,False,2,True,False,False,5
+2325,698,1.0,3,"Mullens, Miss. Katherine ""Katie""",female,18.29,0,0,35852,7.7333,not_assigned,Q,train,Mullens,False,False,1,False,1,False,True,True,4
+2337,469,0.0,3,"Scanlan, Mr. James",male,30.445,0,0,36209,7.725,not_assigned,Q,train,Scanlan,False,False,1,False,1,False,True,False,5
+2348,719,0.0,3,"McEvoy, Mr. Michael",male,33.575,0,0,36568,15.5,not_assigned,Q,train,McEvoy,False,False,1,False,2,True,False,False,5
 2358,704,0.0,3,"Gallagher, Mr. Martin",male,25.0,0,0,36864,7.7417,not_assigned,Q,train,Gallagher,False,False,1,False,1,False,True,False,4
-2370,779,0.0,3,"Kilgannon, Mr. Thomas J",male,32.125,0,0,36865,7.7375,not_assigned,Q,train,Kilgannon,False,False,1,False,1,False,True,False,5
-2380,728,1.0,3,"Mannion, Miss. Margareth",female,22.125,0,0,36866,7.7375,not_assigned,Q,train,Mannion,False,False,1,False,1,False,True,True,4
+2370,779,0.0,3,"Kilgannon, Mr. Thomas J",male,32.73,0,0,36865,7.7375,not_assigned,Q,train,Kilgannon,False,False,1,False,1,False,True,False,5
+2380,728,1.0,3,"Mannion, Miss. Margareth",female,20.725,0,0,36866,7.7375,not_assigned,Q,train,Mannion,False,False,1,False,1,False,True,True,4
 2392,319,1.0,1,"Wick, Miss. Mary Natalie",female,31.0,0,2,36928,164.8667,C7,S,train,Wick,True,False,3,True,4,False,False,True,5
 2404,857,1.0,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,1,36928,164.8667,not_assigned,S,train,Wick,False,False,3,True,4,False,False,False,6
 2416,497,1.0,1,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,36947,78.2667,D20,C,train,Eustis,True,False,1,False,2,True,False,True,7
@@ -226,9 +226,9 @@
 2469,231,1.0,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,36973,83.475,C83,S,train,Harris,True,False,2,True,2,False,False,False,5
 2479,625,0.0,3,"Bowen, Mr. David John ""Dai""",male,21.0,0,0,54636,16.1,not_assigned,S,train,Bowen,False,False,1,False,2,True,False,False,4
 2491,736,0.0,3,"Williams, Mr. Leslie",male,28.5,0,0,54636,16.1,not_assigned,S,train,Williams,False,False,1,False,2,True,False,False,5
-2502,452,0.0,3,"Hagland, Mr. Ingvald Olai Olsen",male,25.1875,1,0,65303,19.9667,not_assigned,S,train,Hagland,False,False,1,False,1,False,True,False,5
-2513,491,0.0,3,"Hagland, Mr. Konrad Mathias Reiersen",male,25.1575,1,0,65304,19.9667,not_assigned,S,train,Hagland,False,False,1,False,1,False,True,False,5
-2524,445,1.0,3,"Johannesen-Bratthammer, Mr. Bernt",male,32.175,0,0,65306,8.1125,not_assigned,S,train,Johannesen-Bratthammer,False,False,1,False,1,False,True,False,5
+2502,452,0.0,3,"Hagland, Mr. Ingvald Olai Olsen",male,26.42375,1,0,65303,19.9667,not_assigned,S,train,Hagland,False,False,1,False,1,False,True,False,5
+2513,491,0.0,3,"Hagland, Mr. Konrad Mathias Reiersen",male,25.64375,1,0,65304,19.9667,not_assigned,S,train,Hagland,False,False,1,False,1,False,True,False,5
+2524,445,1.0,3,"Johannesen-Bratthammer, Mr. Bernt",male,32.02,0,0,65306,8.1125,not_assigned,S,train,Johannesen-Bratthammer,False,False,1,False,1,False,True,False,5
 2535,258,1.0,1,"Cherry, Miss. Gladys",female,30.0,0,0,110152,86.5,B77,S,train,Cherry,True,False,1,False,3,True,False,True,5
 2544,505,1.0,1,"Maioni, Miss. Roberta",female,16.0,0,0,110152,86.5,B79,S,train,Maioni,True,False,1,False,3,True,False,True,3
 2557,760,1.0,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,110152,86.5,B77,S,train,Rothes,True,False,1,False,3,True,False,False,5
@@ -236,7 +236,7 @@
 2580,559,1.0,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,110413,79.65,E67,S,train,Taussig,True,False,3,True,3,False,False,False,6
 2588,586,1.0,1,"Taussig, Miss. Ruth",female,18.0,0,2,110413,79.65,E68,S,train,Taussig,True,False,3,True,3,False,False,True,3
 2603,111,0.0,1,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,110465,52.0,C110,S,train,Porter,True,False,1,False,2,True,False,False,7
-2613,476,0.0,1,"Clifford, Mr. George Quincy",male,43.53,0,0,110465,52.0,A14,S,train,Clifford,True,False,1,False,2,True,False,False,6
+2613,476,0.0,1,"Clifford, Mr. George Quincy",male,42.02,0,0,110465,52.0,A14,S,train,Clifford,True,False,1,False,2,True,False,False,6
 2623,431,1.0,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,0,110564,26.55,C52,S,train,Bjornstrom-Steffansson,True,False,1,False,1,False,True,False,5
 2637,367,1.0,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,110813,75.25,D37,C,train,Warren,True,False,2,True,2,False,False,False,8
 2648,171,0.0,1,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,111240,33.5,B19,S,train,Van der hoef,True,False,1,False,1,False,True,False,8
@@ -245,28 +245,28 @@
 2679,524,1.0,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,111361,57.9792,B18,C,train,Hippach,True,False,2,True,2,False,False,False,6
 2689,890,1.0,1,"Behr, Mr. Karl Howell",male,26.0,0,0,111369,30.0,C148,C,train,Behr,True,False,1,False,1,False,True,False,5
 2700,605,1.0,1,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,0,111426,26.55,not_assigned,C,train,Homer,False,False,1,False,1,False,True,False,5
-2712,508,1.0,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,41.22,0,0,111427,26.55,not_assigned,S,train,Bradley,False,False,1,False,1,False,True,False,6
+2712,508,1.0,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,41.865,0,0,111427,26.55,not_assigned,S,train,Bradley,False,False,1,False,1,False,True,False,6
 2723,188,1.0,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,111428,26.55,not_assigned,S,train,Romaine,False,False,1,False,1,False,True,False,6
 2734,807,0.0,1,"Andrews, Mr. Thomas Jr",male,39.0,0,0,112050,0.0,A36,S,train,Andrews,True,False,1,False,1,False,True,False,6
-2745,634,0.0,1,"Parr, Mr. William Henry Marsh",male,42.96,0,0,112052,0.0,not_assigned,S,train,Parr,False,False,1,False,1,False,True,False,6
+2745,634,0.0,1,"Parr, Mr. William Henry Marsh",male,43.98,0,0,112052,0.0,not_assigned,S,train,Parr,False,False,1,False,1,False,True,False,6
 2754,888,1.0,1,"Graham, Miss. Margaret Edith",female,19.0,0,0,112053,30.0,B42,S,train,Graham,True,False,1,False,1,False,True,True,4
-2767,816,0.0,1,"Fry, Mr. Richard",male,44.415,0,0,112058,0.0,B102,S,train,Fry,True,False,1,False,2,True,False,False,6
+2768,816,0.0,1,"Fry, Mr. Richard",male,45.57,0,0,112058,0.0,B102,S,train,Fry,True,False,1,False,2,True,False,False,7
 2778,264,0.0,1,"Harrison, Mr. William",male,40.0,0,0,112059,0.0,B94,S,train,Harrison,True,False,1,False,1,False,True,False,6
 2789,210,1.0,1,"Blank, Mr. Henry",male,40.0,0,0,112277,31.0,A31,C,train,Blank,True,False,1,False,1,False,True,False,6
-2800,767,0.0,1,"Brewe, Dr. Arthur Jackson",male,39.431666666666665,0,0,112379,39.6,not_assigned,C,train,Brewe,False,False,1,False,1,False,True,False,6
-2812,712,0.0,1,"Klaber, Mr. Herman",male,45.85,0,0,113028,26.55,C124,S,train,Klaber,True,False,1,False,1,False,True,False,7
+2800,767,0.0,1,"Brewe, Dr. Arthur Jackson",male,42.19214285714286,0,0,112379,39.6,not_assigned,C,train,Brewe,False,False,1,False,1,False,True,False,6
+2811,712,0.0,1,"Klaber, Mr. Herman",male,44.255,0,0,113028,26.55,C124,S,train,Klaber,True,False,1,False,1,False,True,False,6
 2823,332,0.0,1,"Partner, Mr. Austen",male,45.5,0,0,113043,28.5,C124,S,train,Partner,True,False,1,False,1,False,True,False,7
 2833,537,0.0,1,"Butt, Major. Archibald Willingham",male,45.0,0,0,113050,26.55,B38,S,train,Butt,True,False,1,False,1,False,True,False,6
 2843,453,0.0,1,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,113051,27.75,C111,C,train,Foreman,True,False,1,False,1,False,True,False,5
 2856,858,1.0,1,"Daly, Mr. Peter Denis ",male,51.0,0,0,113055,26.55,E17,S,train,Daly,True,False,1,False,1,False,True,False,7
-2867,285,0.0,1,"Smith, Mr. Richard William",male,47.455,0,0,113056,26.0,A19,S,train,Smith,True,False,1,False,1,False,True,False,7
+2867,285,0.0,1,"Smith, Mr. Richard William",male,46.96,0,0,113056,26.0,A19,S,train,Smith,True,False,1,False,1,False,True,False,7
 2876,84,0.0,1,"Carrau, Mr. Francisco M",male,28.0,0,0,113059,47.1,not_assigned,S,train,Carrau,False,False,2,True,2,False,False,False,5
 2887,783,0.0,1,"Long, Mr. Milton Clyde",male,29.0,0,0,113501,30.0,D6,S,train,Long,True,False,1,False,1,False,True,False,5
 2898,378,0.0,1,"Widener, Mr. Harry Elkins",male,27.0,0,2,113503,211.5,C82,C,train,Widener,True,False,3,True,5,False,False,False,5
-2910,167,1.0,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,37.134166666666665,0,1,113505,55.0,E33,S,train,Chibnall,True,False,1,False,2,True,False,False,6
+2910,167,1.0,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,40.005,0,1,113505,55.0,E33,S,train,Chibnall,True,False,1,False,2,True,False,False,6
 2919,357,1.0,1,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,113505,55.0,E33,S,train,Bowerman,True,False,1,False,2,True,False,True,4
 2934,55,0.0,1,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,113509,61.9792,B30,C,train,Ostby,True,False,2,True,2,False,False,False,8
-2944,352,0.0,1,"Williams-Lambert, Mr. Fletcher Fellows",male,46.47,0,0,113510,35.0,C128,S,train,Williams-Lambert,True,False,1,False,1,False,True,False,7
+2944,352,0.0,1,"Williams-Lambert, Mr. Fletcher Fellows",male,45.205,0,0,113510,35.0,C128,S,train,Williams-Lambert,True,False,1,False,1,False,True,False,7
 2956,253,0.0,1,"Stead, Mr. William Thomas",male,62.0,0,0,113514,26.55,C87,S,train,Stead,True,False,1,False,1,False,True,False,8
 2965,62,1.0,1,"Icard, Miss. Amelie",female,38.0,0,0,113572,80.0,B28,Q,train,Icard,True,False,1,False,2,True,False,True,6
 2978,830,1.0,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,0,113572,80.0,B28,Q,train,Stone,True,False,1,False,2,True,False,False,8
@@ -274,7 +274,7 @@
 2994,436,1.0,1,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,120.0,B96 B98,S,train,Carter,False,True,4,True,4,False,False,True,2
 3009,764,1.0,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,113760,120.0,B96 B98,S,train,Carter,False,True,4,True,4,False,False,False,6
 3016,803,1.0,1,"Carter, Master. William Thornton II",male,11.0,1,2,113760,120.0,B96 B98,S,train,Carter,False,True,4,True,4,False,False,True,2
-3031,186,0.0,1,"Rood, Mr. Hugh Roscoe",male,37.465,0,0,113767,50.0,A32,S,train,Rood,True,False,1,False,1,False,True,False,6
+3031,186,0.0,1,"Rood, Mr. Hugh Roscoe",male,39.21,0,0,113767,50.0,A32,S,train,Rood,True,False,1,False,1,False,True,False,6
 3040,749,0.0,1,"Marvin, Mr. Daniel Warner",male,19.0,1,0,113773,53.1,D30,S,train,Marvin,True,False,2,True,2,False,False,False,4
 3051,152,1.0,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,66.6,C2,S,train,Pears,True,False,2,True,2,False,False,False,4
 3063,337,0.0,1,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,66.6,C2,S,train,Pears,True,False,2,True,2,False,False,False,5
@@ -291,8 +291,8 @@
 3184,384,1.0,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,113789,52.0,not_assigned,S,train,Holverson,False,False,2,True,2,False,False,False,5
 3198,468,0.0,1,"Smart, Mr. John Montgomery",male,56.0,0,0,113792,26.55,not_assigned,S,train,Smart,False,False,1,False,1,False,True,False,8
 3206,448,1.0,1,"Seward, Mr. Frederic Kimber",male,34.0,0,0,113794,26.55,not_assigned,S,train,Seward,False,False,1,False,1,False,True,False,5
-3218,603,0.0,1,"Harrington, Mr. Charles H",male,43.29,0,0,113796,42.4,not_assigned,S,train,Harrington,False,False,1,False,2,True,False,False,6
-3229,271,0.0,1,"Cairns, Mr. Alexander",male,40.07,0,0,113798,31.0,not_assigned,S,train,Cairns,False,False,1,False,1,False,True,False,6
+3218,603,0.0,1,"Harrington, Mr. Charles H",male,44.365,0,0,113796,42.4,not_assigned,S,train,Harrington,False,False,1,False,2,True,False,False,6
+3229,271,0.0,1,"Cairns, Mr. Alexander",male,42.2,0,0,113798,31.0,not_assigned,S,train,Cairns,False,False,1,False,1,False,True,False,6
 3239,843,1.0,1,"Serepeca, Miss. Augusta",female,30.0,0,0,113798,31.0,not_assigned,C,train,Serepeca,False,False,1,False,1,False,True,True,5
 3253,695,0.0,1,"Weir, Col. John",male,60.0,0,0,113800,26.55,not_assigned,S,train,Weir,False,False,1,False,1,False,True,False,8
 3261,4,1.0,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,53.1,C123,S,train,Futrelle,True,False,2,True,2,False,False,False,5
@@ -308,7 +308,7 @@
 3370,616,1.0,2,"Herman, Miss. Alice",female,24.0,1,2,220845,65.0,not_assigned,S,train,Herman,False,False,4,True,5,False,False,True,4
 3384,755,1.0,2,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,2,220845,65.0,not_assigned,S,train,Herman,False,False,4,True,5,False,False,False,7
 3394,707,1.0,2,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,0,223596,13.5,not_assigned,S,train,Kelly,False,False,1,False,1,False,True,False,6
-3404,304,1.0,2,"Keane, Miss. Nora A",female,28.938333333333336,0,0,226593,12.35,E101,Q,train,Keane,True,False,1,False,1,False,True,True,5
+3404,304,1.0,2,"Keane, Miss. Nora A",female,29.548333333333332,0,0,226593,12.35,E101,Q,train,Keane,True,False,1,False,1,False,True,True,5
 3416,519,1.0,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,0,226875,26.0,not_assigned,S,train,Angle,False,False,2,True,2,False,False,False,6
 3426,134,1.0,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,228414,26.0,not_assigned,S,train,Weisz,False,False,2,True,2,False,False,False,5
 3438,345,0.0,2,"Fox, Mr. Stanley Hubert",male,36.0,0,0,229236,13.0,not_assigned,S,train,Fox,False,False,1,False,1,False,True,False,6
@@ -340,12 +340,12 @@
 3723,123,0.0,2,"Nasser, Mr. Nicholas",male,32.5,1,0,237736,30.0708,not_assigned,C,train,Nasser,False,False,2,True,2,False,False,False,5
 3733,581,1.0,2,"Christy, Miss. Julie Rachel",female,25.0,1,1,237789,30.0,not_assigned,S,train,Christy,False,False,2,True,2,False,False,True,4
 3746,289,1.0,2,"Hosono, Mr. Masabumi",male,42.0,0,0,237798,13.0,not_assigned,S,train,Hosono,False,False,1,False,1,False,True,False,6
-3757,278,0.0,2,"Parkes, Mr. Francis ""Frank""",male,40.636500000000005,0,0,239853,0.0,not_assigned,S,train,Parkes,False,False,1,False,3,True,False,False,6
-3768,414,0.0,2,"Cunningham, Mr. Alfred Fleming",male,40.636500000000005,0,0,239853,0.0,not_assigned,S,train,Cunningham,False,False,1,False,3,True,False,False,6
-3779,467,0.0,2,"Campbell, Mr. William",male,40.636500000000005,0,0,239853,0.0,not_assigned,S,train,Campbell,False,False,1,False,3,True,False,False,6
-3790,482,0.0,2,"Frost, Mr. Anthony Wood ""Archie""",male,42.25833333333334,0,0,239854,0.0,not_assigned,S,train,Frost,False,False,1,False,1,False,True,False,6
-3801,733,0.0,2,"Knight, Mr. Robert J",male,41.63,0,0,239855,0.0,not_assigned,S,train,Knight,False,False,1,False,1,False,True,False,6
-3812,675,0.0,2,"Watson, Mr. Ennis Hastings",male,41.57,0,0,239856,0.0,not_assigned,S,train,Watson,False,False,1,False,1,False,True,False,6
+3757,278,0.0,2,"Parkes, Mr. Francis ""Frank""",male,36.981,0,0,239853,0.0,not_assigned,S,train,Parkes,False,False,1,False,3,True,False,False,6
+3768,414,0.0,2,"Cunningham, Mr. Alfred Fleming",male,36.981,0,0,239853,0.0,not_assigned,S,train,Cunningham,False,False,1,False,3,True,False,False,6
+3779,467,0.0,2,"Campbell, Mr. William",male,36.981,0,0,239853,0.0,not_assigned,S,train,Campbell,False,False,1,False,3,True,False,False,6
+3790,482,0.0,2,"Frost, Mr. Anthony Wood ""Archie""",male,39.425,0,0,239854,0.0,not_assigned,S,train,Frost,False,False,1,False,1,False,True,False,6
+3801,733,0.0,2,"Knight, Mr. Robert J",male,38.738,0,0,239855,0.0,not_assigned,S,train,Knight,False,False,1,False,1,False,True,False,6
+3812,675,0.0,2,"Watson, Mr. Ennis Hastings",male,38.748000000000005,0,0,239856,0.0,not_assigned,S,train,Watson,False,False,1,False,1,False,True,False,6
 3822,21,0.0,2,"Fynney, Mr. Joseph J",male,35.0,0,0,239865,26.0,not_assigned,S,train,Fynney,False,False,1,False,2,True,False,False,5
 3831,792,0.0,2,"Gaskell, Mr. Alfred",male,16.0,0,0,239865,26.0,not_assigned,S,train,Gaskell,False,False,1,False,2,True,False,False,3
 3844,400,1.0,2,"Trout, Mrs. William H (Jessie L)",female,28.0,0,0,240929,12.65,not_assigned,S,train,Trout,False,False,1,False,1,False,True,False,5
@@ -361,11 +361,11 @@
 3953,344,0.0,2,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,0,244361,13.0,not_assigned,S,train,Sedgwick,False,False,1,False,1,False,True,False,4
 3965,100,0.0,2,"Kantor, Mr. Sinai",male,34.0,1,0,244367,26.0,not_assigned,S,train,Kantor,False,False,2,True,2,False,False,False,5
 3975,317,1.0,2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,244367,26.0,not_assigned,S,train,Kantor,False,False,2,True,2,False,False,False,4
-3987,18,1.0,2,"Williams, Mr. Charles Eugene",male,26.79,0,0,244373,13.0,not_assigned,S,train,Williams,False,False,1,False,1,False,True,False,5
+3987,18,1.0,2,"Williams, Mr. Charles Eugene",male,27.15,0,0,244373,13.0,not_assigned,S,train,Williams,False,False,1,False,1,False,True,False,5
 3998,22,1.0,2,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,13.0,D56,S,train,Beesley,True,False,1,False,1,False,True,False,5
 4011,16,1.0,2,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,248706,16.0,not_assigned,S,train,Hewlett,False,False,1,False,1,False,True,False,7
 4021,809,0.0,2,"Meyer, Mr. August",male,39.0,0,0,248723,13.0,not_assigned,S,train,Meyer,False,False,1,False,1,False,True,False,6
-4030,597,1.0,2,"Leitch, Miss. Jessie Wills",female,21.82416666666667,0,0,248727,33.0,not_assigned,S,train,Leitch,False,False,1,False,3,True,False,True,4
+4030,597,1.0,2,"Leitch, Miss. Jessie Wills",female,23.02,0,0,248727,33.0,not_assigned,S,train,Leitch,False,False,1,False,3,True,False,True,4
 4038,721,1.0,2,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,248727,33.0,not_assigned,S,train,Harper,False,False,2,True,3,False,False,True,1
 4053,849,0.0,2,"Harper, Rev. John",male,28.0,0,1,248727,33.0,not_assigned,S,train,Harper,False,False,2,True,3,False,False,False,5
 4066,696,0.0,2,"Chapman, Mr. Charles Henry",male,52.0,0,0,248731,13.5,not_assigned,S,train,Chapman,False,False,1,False,1,False,True,False,7
@@ -388,10 +388,10 @@
 4251,179,0.0,2,"Hale, Mr. Reginald",male,30.0,0,0,250653,13.0,not_assigned,S,train,Hale,False,False,1,False,1,False,True,False,5
 4261,428,1.0,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,250655,26.0,not_assigned,S,train,Phillips,False,False,1,False,2,True,False,True,4
 4274,706,0.0,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0,0,250655,26.0,not_assigned,S,train,Morley,False,False,1,False,2,True,False,False,6
-4283,108,1.0,3,"Moss, Mr. Albert Johan",male,24.92,0,0,312991,7.775,not_assigned,S,train,Moss,False,False,1,False,1,False,True,False,4
+4284,108,1.0,3,"Moss, Mr. Albert Johan",male,25.85,0,0,312991,7.775,not_assigned,S,train,Moss,False,False,1,False,1,False,True,False,5
 4294,409,0.0,3,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0,0,312992,7.775,not_assigned,S,train,Birkeland,False,False,1,False,1,False,True,False,4
-4305,668,0.0,3,"Rommetvedt, Mr. Knud Paust",male,24.345,0,0,312993,7.775,not_assigned,S,train,Rommetvedt,False,False,1,False,1,False,True,False,4
-4317,159,0.0,3,"Smiljanic, Mr. Mile",male,27.15,0,0,315037,8.6625,not_assigned,S,train,Smiljanic,False,False,1,False,1,False,True,False,5
+4306,668,0.0,3,"Rommetvedt, Mr. Knud Paust",male,25.16,0,0,312993,7.775,not_assigned,S,train,Rommetvedt,False,False,1,False,1,False,True,False,5
+4317,159,0.0,3,"Smiljanic, Mr. Mile",male,27.52,0,0,315037,8.6625,not_assigned,S,train,Smiljanic,False,False,1,False,1,False,True,False,5
 4328,423,0.0,3,"Zimmerman, Mr. Leo",male,29.0,0,0,315082,7.875,not_assigned,S,train,Zimmerman,False,False,1,False,1,False,True,False,5
 4339,535,0.0,3,"Cacic, Miss. Marija",female,30.0,0,0,315084,8.6625,not_assigned,S,train,Cacic,False,False,1,False,1,False,True,True,5
 4348,501,0.0,3,"Calic, Mr. Petar",male,17.0,0,0,315086,8.6625,not_assigned,S,train,Calic,False,False,1,False,1,False,True,False,3
@@ -405,27 +405,27 @@
 4438,822,1.0,3,"Lulic, Mr. Nikola",male,27.0,0,0,315098,8.6625,not_assigned,S,train,Lulic,False,False,1,False,1,False,True,False,5
 4449,70,0.0,3,"Kink, Mr. Vincenz",male,26.0,2,0,315151,8.6625,not_assigned,S,train,Kink,False,False,1,False,1,False,True,False,5
 4456,185,1.0,3,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,315153,22.025,not_assigned,S,train,Kink-Heilmann,False,False,3,True,3,False,False,True,1
-4471,471,0.0,3,"Keefe, Mr. Arthur",male,27.25,0,0,323592,7.25,not_assigned,S,train,Keefe,False,False,1,False,1,False,True,False,5
+4471,471,0.0,3,"Keefe, Mr. Arthur",male,28.725,0,0,323592,7.25,not_assigned,S,train,Keefe,False,False,1,False,1,False,True,False,5
 4481,373,0.0,3,"Beavan, Mr. William Thomas",male,19.0,0,0,323951,8.05,not_assigned,S,train,Beavan,False,False,1,False,1,False,True,False,4
 4492,113,0.0,3,"Barton, Mr. David John",male,22.0,0,0,324669,8.05,not_assigned,S,train,Barton,False,False,1,False,1,False,True,False,4
-4504,6,0.0,3,"Moran, Mr. James",male,27.13,0,0,330877,8.4583,not_assigned,Q,train,Moran,False,False,1,False,1,False,True,False,5
-4514,503,0.0,3,"O'Sullivan, Miss. Bridget Mary",female,24.26,0,0,330909,7.6292,not_assigned,Q,train,O'Sullivan,False,False,1,False,1,False,True,True,4
-4525,654,1.0,3,"O'Leary, Miss. Hanora ""Norah""",female,21.17,0,0,330919,7.8292,not_assigned,Q,train,O'Leary,False,False,1,False,1,False,True,True,4
+4504,6,0.0,3,"Moran, Mr. James",male,26.775,0,0,330877,8.4583,not_assigned,Q,train,Moran,False,False,1,False,1,False,True,False,5
+4514,503,0.0,3,"O'Sullivan, Miss. Bridget Mary",female,24.145,0,0,330909,7.6292,not_assigned,Q,train,O'Sullivan,False,False,1,False,1,False,True,True,4
+4525,654,1.0,3,"O'Leary, Miss. Hanora ""Norah""",female,21.525,0,0,330919,7.8292,not_assigned,Q,train,O'Leary,False,False,1,False,1,False,True,True,4
 4535,23,1.0,3,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,8.0292,not_assigned,Q,train,McGowan,False,False,1,False,1,False,True,True,3
-4547,359,1.0,3,"McGovern, Miss. Mary",female,18.285,0,0,330931,7.8792,not_assigned,Q,train,McGovern,False,False,1,False,1,False,True,True,4
-4558,83,1.0,3,"McDermott, Miss. Brigdet Delia",female,19.315,0,0,330932,7.7875,not_assigned,Q,train,McDermott,False,False,1,False,1,False,True,True,4
-4568,681,0.0,3,"Peters, Miss. Katie",female,17.78,0,0,330935,8.1375,not_assigned,Q,train,Peters,False,False,1,False,1,False,True,True,3
+4547,359,1.0,3,"McGovern, Miss. Mary",female,18.59,0,0,330931,7.8792,not_assigned,Q,train,McGovern,False,False,1,False,1,False,True,True,4
+4558,83,1.0,3,"McDermott, Miss. Brigdet Delia",female,19.98,0,0,330932,7.7875,not_assigned,Q,train,McDermott,False,False,1,False,1,False,True,True,4
+4569,681,0.0,3,"Peters, Miss. Katie",female,18.08,0,0,330935,8.1375,not_assigned,Q,train,Peters,False,False,1,False,1,False,True,True,4
 4580,45,1.0,3,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,7.8792,not_assigned,Q,train,Devaney,False,False,1,False,1,False,True,True,4
-4591,29,1.0,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,19.06,0,0,330959,7.8792,not_assigned,Q,train,O'Dwyer,False,False,1,False,1,False,True,True,4
-4603,553,0.0,3,"O'Brien, Mr. Timothy",male,31.89,0,0,330979,7.8292,not_assigned,Q,train,O'Brien,False,False,1,False,1,False,True,False,5
-4613,360,1.0,3,"Mockler, Miss. Helen Mary ""Ellie""",female,20.22,0,0,330980,7.8792,not_assigned,Q,train,Mockler,False,False,1,False,1,False,True,True,4
-4625,630,0.0,3,"O'Connell, Mr. Patrick D",male,34.675,0,0,334912,7.7333,not_assigned,Q,train,O'Connell,False,False,1,False,1,False,True,False,5
+4591,29,1.0,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,19.59,0,0,330959,7.8792,not_assigned,Q,train,O'Dwyer,False,False,1,False,1,False,True,True,4
+4603,553,0.0,3,"O'Brien, Mr. Timothy",male,32.24,0,0,330979,7.8292,not_assigned,Q,train,O'Brien,False,False,1,False,1,False,True,False,5
+4613,360,1.0,3,"Mockler, Miss. Helen Mary ""Ellie""",female,20.67,0,0,330980,7.8792,not_assigned,Q,train,Mockler,False,False,1,False,1,False,True,True,4
+4626,630,0.0,3,"O'Connell, Mr. Patrick D",male,37.57,0,0,334912,7.7333,not_assigned,Q,train,O'Connell,False,False,1,False,1,False,True,False,6
 4636,750,0.0,3,"Connaghton, Mr. Michael",male,31.0,0,0,335097,7.75,not_assigned,Q,train,Connaghton,False,False,1,False,1,False,True,False,5
-4647,33,1.0,3,"Glynn, Miss. Mary Agatha",female,26.19,0,0,335677,7.75,not_assigned,Q,train,Glynn,False,False,1,False,1,False,True,True,5
+4647,33,1.0,3,"Glynn, Miss. Mary Agatha",female,27.27,0,0,335677,7.75,not_assigned,Q,train,Glynn,False,False,1,False,1,False,True,True,5
 4661,281,0.0,3,"Duane, Mr. Frank",male,65.0,0,0,336439,7.75,not_assigned,Q,train,Duane,False,False,1,False,1,False,True,False,8
 4669,402,0.0,3,"Adams, Mr. John",male,26.0,0,0,341826,8.05,not_assigned,S,train,Adams,False,False,1,False,1,False,True,False,5
 4679,677,0.0,3,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,8.05,not_assigned,S,train,Sawyer,False,False,1,False,1,False,True,False,4
-4691,416,0.0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,28.955,0,0,343095,8.05,not_assigned,S,train,Meek,False,False,1,False,1,False,True,False,5
+4691,416,0.0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,28.14,0,0,343095,8.05,not_assigned,S,train,Meek,False,False,1,False,1,False,True,False,5
 4701,107,1.0,3,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,343120,7.65,not_assigned,S,train,Salkjelsvik,False,False,1,False,1,False,True,True,4
 4712,90,0.0,3,"Celotti, Mr. Francesco",male,24.0,0,0,343275,8.05,not_assigned,S,train,Celotti,False,False,1,False,1,False,True,False,4
 4724,91,0.0,3,"Christmann, Mr. Emil",male,29.0,0,0,343276,8.05,not_assigned,S,train,Christmann,False,False,1,False,1,False,True,False,5
@@ -442,7 +442,7 @@
 4846,596,0.0,3,"Van Impe, Mr. Jean Baptiste",male,36.0,1,1,345773,24.15,not_assigned,S,train,Van Impe,False,False,3,True,3,False,False,False,6
 4856,800,0.0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,345773,24.15,not_assigned,S,train,Van Impe,False,False,3,True,3,False,False,False,5
 4867,287,1.0,3,"de Mulder, Mr. Theodore",male,30.0,0,0,345774,9.5,not_assigned,S,train,de Mulder,False,False,1,False,1,False,True,False,5
-4878,869,0.0,3,"van Melkebeke, Mr. Philemon",male,28.42,0,0,345777,9.5,not_assigned,S,train,van Melkebeke,False,False,1,False,1,False,True,False,5
+4878,869,0.0,3,"van Melkebeke, Mr. Philemon",male,27.215,0,0,345777,9.5,not_assigned,S,train,van Melkebeke,False,False,1,False,1,False,True,False,5
 4887,283,0.0,3,"de Pelsmaeker, Mr. Alfons",male,16.0,0,0,345778,9.5,not_assigned,S,train,de Pelsmaeker,False,False,1,False,1,False,True,False,3
 4900,82,1.0,3,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,0,345779,9.5,not_assigned,S,train,Sheerlinck,False,False,1,False,1,False,True,False,5
 4911,753,0.0,3,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,0,345780,9.5,not_assigned,S,train,Vande Velde,False,False,1,False,1,False,True,False,5
@@ -498,33 +498,33 @@
 5462,700,0.0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,0,348121,7.65,F G63,S,train,Humblen,False,True,1,False,1,False,True,False,6
 5471,76,0.0,3,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,348123,7.65,F G73,S,train,Moen,False,True,1,False,1,False,True,False,4
 5482,716,0.0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,348124,7.65,F G73,S,train,Soholt,False,True,1,False,1,False,True,False,4
-5494,739,0.0,3,"Ivanoff, Mr. Kanio",male,25.23,0,0,349201,7.8958,not_assigned,S,train,Ivanoff,False,False,1,False,1,False,True,False,5
+5494,739,0.0,3,"Ivanoff, Mr. Kanio",male,25.21,0,0,349201,7.8958,not_assigned,S,train,Ivanoff,False,False,1,False,1,False,True,False,5
 5504,795,0.0,3,"Dantcheff, Mr. Ristiu",male,25.0,0,0,349203,7.8958,not_assigned,S,train,Dantcheff,False,False,1,False,1,False,True,False,4
 5515,754,0.0,3,"Jonkoff, Mr. Lalio",male,23.0,0,0,349204,7.8958,not_assigned,S,train,Jonkoff,False,False,1,False,1,False,True,False,4
 5526,567,0.0,3,"Stoytcheff, Mr. Ilia",male,19.0,0,0,349205,7.8958,not_assigned,S,train,Stoytcheff,False,False,1,False,1,False,True,False,4
 5537,288,0.0,3,"Naidenoff, Mr. Penko",male,22.0,0,0,349206,7.8958,not_assigned,S,train,Naidenoff,False,False,1,False,1,False,True,False,4
 5549,106,0.0,3,"Mionoff, Mr. Stoytcho",male,28.0,0,0,349207,7.8958,not_assigned,S,train,Mionoff,False,False,1,False,1,False,True,False,5
-5560,77,0.0,3,"Staneff, Mr. Ivan",male,25.4,0,0,349208,7.8958,not_assigned,S,train,Staneff,False,False,1,False,1,False,True,False,5
+5560,77,0.0,3,"Staneff, Mr. Ivan",male,25.36,0,0,349208,7.8958,not_assigned,S,train,Staneff,False,False,1,False,1,False,True,False,5
 5570,515,0.0,3,"Coleff, Mr. Satio",male,24.0,0,0,349209,7.4958,not_assigned,S,train,Coleff,False,False,1,False,1,False,True,False,4
 5583,664,0.0,3,"Coleff, Mr. Peju",male,36.0,0,0,349210,7.4958,not_assigned,S,train,Coleff,False,False,1,False,1,False,True,False,6
 5592,878,0.0,3,"Petroff, Mr. Nedelio",male,19.0,0,0,349212,7.8958,not_assigned,S,train,Petroff,False,False,1,False,1,False,True,False,4
 5604,848,0.0,3,"Markoff, Mr. Marin",male,35.0,0,0,349213,7.8958,not_assigned,C,train,Markoff,False,False,1,False,1,False,True,False,5
-5614,602,0.0,3,"Slabenoff, Mr. Petco",male,22.91,0,0,349214,7.8958,not_assigned,S,train,Slabenoff,False,False,1,False,1,False,True,False,4
-5625,102,0.0,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,22.91,0,0,349215,7.8958,not_assigned,S,train,Petroff,False,False,1,False,1,False,True,False,4
-5637,30,0.0,3,"Todoroff, Mr. Lalio",male,25.81,0,0,349216,7.8958,not_assigned,S,train,Todoroff,False,False,1,False,1,False,True,False,5
-5647,879,0.0,3,"Laleff, Mr. Kristo",male,25.0,0,0,349217,7.8958,not_assigned,S,train,Laleff,False,False,1,False,1,False,True,False,4
-5659,740,0.0,3,"Nankoff, Mr. Minko",male,25.4,0,0,349218,7.8958,not_assigned,S,train,Nankoff,False,False,1,False,1,False,True,False,5
+5614,602,0.0,3,"Slabenoff, Mr. Petco",male,23.59,0,0,349214,7.8958,not_assigned,S,train,Slabenoff,False,False,1,False,1,False,True,False,4
+5625,102,0.0,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,23.66,0,0,349215,7.8958,not_assigned,S,train,Petroff,False,False,1,False,1,False,True,False,4
+5637,30,0.0,3,"Todoroff, Mr. Lalio",male,27.1,0,0,349216,7.8958,not_assigned,S,train,Todoroff,False,False,1,False,1,False,True,False,5
+5648,879,0.0,3,"Laleff, Mr. Kristo",male,26.62,0,0,349217,7.8958,not_assigned,S,train,Laleff,False,False,1,False,1,False,True,False,5
+5659,740,0.0,3,"Nankoff, Mr. Minko",male,26.72,0,0,349218,7.8958,not_assigned,S,train,Nankoff,False,False,1,False,1,False,True,False,5
 5670,322,0.0,3,"Danoff, Mr. Yoto",male,27.0,0,0,349219,7.8958,not_assigned,S,train,Danoff,False,False,1,False,1,False,True,False,5
-5681,651,0.0,3,"Mitkoff, Mr. Mito",male,27.79,0,0,349221,7.8958,not_assigned,S,train,Mitkoff,False,False,1,False,1,False,True,False,5
-5692,411,0.0,3,"Sdycoff, Mr. Todor",male,27.39,0,0,349222,7.8958,not_assigned,S,train,Sdycoff,False,False,1,False,1,False,True,False,5
-5703,657,0.0,3,"Radeff, Mr. Alexander",male,29.93,0,0,349223,7.8958,not_assigned,S,train,Radeff,False,False,1,False,1,False,True,False,5
+5681,651,0.0,3,"Mitkoff, Mr. Mito",male,27.88,0,0,349221,7.8958,not_assigned,S,train,Mitkoff,False,False,1,False,1,False,True,False,5
+5692,411,0.0,3,"Sdycoff, Mr. Todor",male,27.63,0,0,349222,7.8958,not_assigned,S,train,Sdycoff,False,False,1,False,1,False,True,False,5
+5703,657,0.0,3,"Radeff, Mr. Alexander",male,30.99,0,0,349223,7.8958,not_assigned,S,train,Radeff,False,False,1,False,1,False,True,False,5
 5714,629,0.0,3,"Bostandyeff, Mr. Guentcho",male,26.0,0,0,349224,7.8958,not_assigned,S,train,Bostandyeff,False,False,1,False,1,False,True,False,5
-5725,336,0.0,3,"Denkoff, Mr. Mitto",male,30.01,0,0,349225,7.8958,not_assigned,S,train,Denkoff,False,False,1,False,1,False,True,False,5
-5737,385,0.0,3,"Plotcharsky, Mr. Vasil",male,37.15,0,0,349227,7.8958,not_assigned,S,train,Plotcharsky,False,False,1,False,1,False,True,False,6
+5725,336,0.0,3,"Denkoff, Mr. Mitto",male,30.89,0,0,349225,7.8958,not_assigned,S,train,Denkoff,False,False,1,False,1,False,True,False,5
+5737,385,0.0,3,"Plotcharsky, Mr. Vasil",male,37.34,0,0,349227,7.8958,not_assigned,S,train,Plotcharsky,False,False,1,False,1,False,True,False,6
 5746,688,0.0,3,"Dakic, Mr. Branko",male,19.0,0,0,349228,10.1708,not_assigned,S,train,Dakic,False,False,1,False,1,False,True,False,4
 5757,647,0.0,3,"Cor, Mr. Liudevit",male,19.0,0,0,349231,7.8958,not_assigned,S,train,Cor,False,False,1,False,1,False,True,False,4
 5768,295,0.0,3,"Mineff, Mr. Ivan",male,24.0,0,0,349233,7.8958,not_assigned,S,train,Mineff,False,False,1,False,1,False,True,False,4
-5779,224,0.0,3,"Nenkoff, Mr. Christo",male,22.61,0,0,349234,7.8958,not_assigned,S,train,Nenkoff,False,False,1,False,1,False,True,False,4
+5779,224,0.0,3,"Nenkoff, Mr. Christo",male,22.27,0,0,349234,7.8958,not_assigned,S,train,Nenkoff,False,False,1,False,1,False,True,False,4
 5790,294,0.0,3,"Haas, Miss. Aloisia",female,24.0,0,0,349236,8.85,not_assigned,S,train,Haas,False,False,1,False,1,False,True,True,4
 5800,50,0.0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,349237,17.8,not_assigned,S,train,Arnold-Franchi,False,False,2,True,2,False,False,False,3
 5812,354,0.0,3,"Arnold-Franchi, Mr. Josef",male,25.0,1,0,349237,17.8,not_assigned,S,train,Arnold-Franchi,False,False,2,True,2,False,False,False,4
@@ -541,8 +541,8 @@
 5935,109,0.0,3,"Rekic, Mr. Tido",male,38.0,0,0,349249,7.8958,not_assigned,S,train,Rekic,False,False,1,False,1,False,True,False,6
 5946,562,0.0,3,"Sivic, Mr. Husein",male,40.0,0,0,349251,7.8958,not_assigned,S,train,Sivic,False,False,1,False,1,False,True,False,6
 5955,522,0.0,3,"Vovk, Mr. Janko",male,22.0,0,0,349252,7.8958,not_assigned,S,train,Vovk,False,False,1,False,1,False,True,False,4
-5967,43,0.0,3,"Kraeff, Mr. Theodor",male,27.885,0,0,349253,7.8958,not_assigned,C,train,Kraeff,False,False,1,False,1,False,True,False,5
-5978,421,0.0,3,"Gheorgheff, Mr. Stanio",male,28.045,0,0,349254,7.8958,not_assigned,C,train,Gheorgheff,False,False,1,False,1,False,True,False,5
+5967,43,0.0,3,"Kraeff, Mr. Theodor",male,28.63,0,0,349253,7.8958,not_assigned,C,train,Kraeff,False,False,1,False,1,False,True,False,5
+5978,421,0.0,3,"Gheorgheff, Mr. Stanio",male,28.65,0,0,349254,7.8958,not_assigned,C,train,Gheorgheff,False,False,1,False,1,False,True,False,5
 5985,692,1.0,3,"Karun, Miss. Manca",female,4.0,0,1,349256,13.4167,not_assigned,C,train,Karun,False,False,2,True,2,False,False,True,1
 6000,882,0.0,3,"Markun, Mr. Johann",male,33.0,0,0,349257,7.8958,not_assigned,S,train,Markun,False,False,1,False,1,False,True,False,5
 6006,8,0.0,3,"Palsson, Master. Gosta Leonard",male,2.0,3,1,349909,21.075,not_assigned,S,train,Palsson,False,False,5,True,5,False,False,True,0
@@ -570,14 +570,14 @@
 6253,397,0.0,3,"Olsson, Miss. Elina",female,31.0,0,0,350407,7.8542,not_assigned,S,train,Olsson,False,False,1,False,1,False,True,True,5
 6264,570,1.0,3,"Jonsson, Mr. Carl",male,32.0,0,0,350417,7.8542,not_assigned,S,train,Jonsson,False,False,1,False,1,False,True,False,5
 6274,576,0.0,3,"Patchett, Mr. George",male,19.0,0,0,358585,14.5,not_assigned,S,train,Patchett,False,False,1,False,2,True,False,False,4
-6286,761,0.0,3,"Garfirth, Mr. John",male,25.71,0,0,358585,14.5,not_assigned,S,train,Garfirth,False,False,1,False,2,True,False,False,5
-6298,251,0.0,3,"Reed, Mr. James George",male,44.205,0,0,362316,7.25,not_assigned,S,train,Reed,False,False,1,False,1,False,True,False,6
+6286,761,0.0,3,"Garfirth, Mr. John",male,26.6625,0,0,358585,14.5,not_assigned,S,train,Garfirth,False,False,1,False,2,True,False,False,5
+6299,251,0.0,3,"Reed, Mr. James George",male,45.51,0,0,362316,7.25,not_assigned,S,train,Reed,False,False,1,False,1,False,True,False,7
 6305,166,1.0,3,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,363291,20.525,not_assigned,S,train,Goldsmith,False,False,3,True,3,False,False,True,2
 6319,329,1.0,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,1,363291,20.525,not_assigned,S,train,Goldsmith,False,False,3,True,3,False,False,False,5
 6330,549,0.0,3,"Goldsmith, Mr. Frank John",male,33.0,1,1,363291,20.525,not_assigned,S,train,Goldsmith,False,False,3,True,3,False,False,False,5
 6341,759,0.0,3,"Theobald, Mr. Thomas Leonard",male,34.0,0,0,363294,8.05,not_assigned,S,train,Theobald,False,False,1,False,1,False,True,False,5
 6353,697,0.0,3,"Kelly, Mr. James",male,44.0,0,0,363592,8.05,not_assigned,S,train,Kelly,False,False,1,False,1,False,True,False,6
-6364,539,0.0,3,"Risien, Mr. Samuel Beard",male,36.495,0,0,364498,14.5,not_assigned,S,train,Risien,False,False,2,True,2,False,False,False,6
+6364,539,0.0,3,"Risien, Mr. Samuel Beard",male,37.27,0,0,364498,14.5,not_assigned,S,train,Risien,False,False,2,True,2,False,False,False,6
 6374,815,0.0,3,"Tomlin, Mr. Ernest Portage",male,30.5,0,0,364499,8.05,not_assigned,S,train,Tomlin,False,False,1,False,1,False,True,False,5
 6388,95,0.0,3,"Coxon, Mr. Daniel",male,59.0,0,0,364500,7.25,not_assigned,S,train,Coxon,False,False,1,False,1,False,True,False,8
 6396,462,0.0,3,"Morley, Mr. William",male,34.0,0,0,364506,8.05,not_assigned,S,train,Morley,False,False,1,False,1,False,True,False,5
@@ -586,64 +586,64 @@
 6429,80,1.0,3,"Dowdell, Miss. Elizabeth",female,30.0,0,0,364516,12.475,not_assigned,S,train,Dowdell,False,False,1,False,2,True,False,True,5
 6436,778,1.0,3,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,364516,12.475,not_assigned,S,train,Emanuel,False,False,1,False,2,True,False,True,1
 6450,502,0.0,3,"Canavan, Miss. Mary",female,21.0,0,0,364846,7.75,not_assigned,Q,train,Canavan,False,False,1,False,1,False,True,True,4
-6461,594,0.0,3,"Bourke, Miss. Mary",female,22.2817,0,2,364848,7.75,not_assigned,Q,train,Bourke,False,False,1,False,1,False,True,True,4
+6461,594,0.0,3,"Bourke, Miss. Mary",female,21.9476,0,2,364848,7.75,not_assigned,Q,train,Bourke,False,False,1,False,1,False,True,True,4
 6474,189,0.0,3,"Bourke, Mr. John",male,40.0,1,1,364849,15.5,not_assigned,Q,train,Bourke,False,False,2,True,2,False,False,False,6
 6484,658,0.0,3,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,364849,15.5,not_assigned,Q,train,Bourke,False,False,2,True,2,False,False,False,5
 6495,768,0.0,3,"Mangan, Miss. Mary",female,30.5,0,0,364850,7.75,not_assigned,Q,train,Mangan,False,False,1,False,1,False,True,True,5
-6506,429,0.0,3,"Flynn, Mr. James",male,29.775,0,0,364851,7.75,not_assigned,Q,train,Flynn,False,False,1,False,1,False,True,False,5
+6506,429,0.0,3,"Flynn, Mr. James",male,28.63,0,0,364851,7.75,not_assigned,Q,train,Flynn,False,False,1,False,1,False,True,False,5
 6516,144,0.0,3,"Burke, Mr. Jeremiah",male,19.0,0,0,365222,6.75,not_assigned,Q,train,Burke,False,False,1,False,1,False,True,False,4
 6526,655,0.0,3,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,0,365226,6.75,not_assigned,Q,train,Hegarty,False,False,1,False,1,False,True,True,3
-6539,302,1.0,3,"McCoy, Mr. Bernard",male,27.95175,2,0,367226,23.25,not_assigned,Q,train,McCoy,False,False,3,True,3,False,False,False,5
-6548,331,1.0,3,"McCoy, Miss. Agnes",female,14.011366666666666,2,0,367226,23.25,not_assigned,Q,train,McCoy,False,False,3,True,3,False,False,True,3
-6562,829,1.0,3,"McCormack, Mr. Thomas Joseph",male,36.3,0,0,367228,7.75,not_assigned,Q,train,McCormack,False,False,1,False,1,False,True,False,6
-6572,215,0.0,3,"Kiernan, Mr. Philip",male,33.635,1,0,367229,7.75,not_assigned,Q,train,Kiernan,False,False,1,False,1,False,True,False,5
-6581,242,1.0,3,"Murphy, Miss. Katherine ""Kate""",female,16.630000000000003,1,0,367230,15.5,not_assigned,Q,train,Murphy,False,False,2,True,2,False,False,True,3
-6592,613,1.0,3,"Murphy, Miss. Margaret Jane",female,16.630000000000003,1,0,367230,15.5,not_assigned,Q,train,Murphy,False,False,2,True,2,False,False,True,3
+6539,302,1.0,3,"McCoy, Mr. Bernard",male,29.453500000000005,2,0,367226,23.25,not_assigned,Q,train,McCoy,False,False,3,True,3,False,False,False,5
+6547,331,1.0,3,"McCoy, Miss. Agnes",female,13.253366666666668,2,0,367226,23.25,not_assigned,Q,train,McCoy,False,False,3,True,3,False,False,True,2
+6562,829,1.0,3,"McCormack, Mr. Thomas Joseph",male,36.32,0,0,367228,7.75,not_assigned,Q,train,McCormack,False,False,1,False,1,False,True,False,6
+6572,215,0.0,3,"Kiernan, Mr. Philip",male,30.875,1,0,367229,7.75,not_assigned,Q,train,Kiernan,False,False,1,False,1,False,True,False,5
+6581,242,1.0,3,"Murphy, Miss. Katherine ""Kate""",female,15.218333333333332,1,0,367230,15.5,not_assigned,Q,train,Murphy,False,False,2,True,2,False,False,True,3
+6592,613,1.0,3,"Murphy, Miss. Margaret Jane",female,15.218333333333332,1,0,367230,15.5,not_assigned,Q,train,Murphy,False,False,2,True,2,False,False,True,3
 6603,209,1.0,3,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,367231,7.75,not_assigned,Q,train,Carr,False,False,1,False,1,False,True,True,3
 6617,526,0.0,3,"Farrell, Mr. James",male,40.5,0,0,367232,7.75,not_assigned,Q,train,Farrell,False,False,1,False,1,False,True,False,6
-6627,389,0.0,3,"Sadlier, Mr. Matthew",male,30.215,0,0,367655,7.7292,not_assigned,Q,train,Sadlier,False,False,1,False,1,False,True,False,5
-6638,826,0.0,3,"Flynn, Mr. John",male,31.42,0,0,368323,6.95,not_assigned,Q,train,Flynn,False,False,1,False,1,False,True,False,5
-6650,197,0.0,3,"Mernagh, Mr. Robert",male,42.07,0,0,368703,7.75,not_assigned,Q,train,Mernagh,False,False,1,False,1,False,True,False,6
+6627,389,0.0,3,"Sadlier, Mr. Matthew",male,30.06,0,0,367655,7.7292,not_assigned,Q,train,Sadlier,False,False,1,False,1,False,True,False,5
+6638,826,0.0,3,"Flynn, Mr. John",male,29.42,0,0,368323,6.95,not_assigned,Q,train,Flynn,False,False,1,False,1,False,True,False,5
+6650,197,0.0,3,"Mernagh, Mr. Robert",male,42.445,0,0,368703,7.75,not_assigned,Q,train,Mernagh,False,False,1,False,1,False,True,False,6
 6661,255,0.0,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,370129,20.2125,not_assigned,S,train,Rosblom,False,False,3,True,3,False,False,False,6
 6669,425,0.0,3,"Rosblom, Mr. Viktor Richard",male,18.0,1,1,370129,20.2125,not_assigned,S,train,Rosblom,False,False,3,True,3,False,False,False,3
-6682,187,1.0,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,34.995,1,0,370365,15.5,not_assigned,Q,train,O'Brien,False,False,2,True,2,False,False,False,5
-6694,365,0.0,3,"O'Brien, Mr. Thomas",male,37.805,1,0,370365,15.5,not_assigned,Q,train,O'Brien,False,False,2,True,2,False,False,False,6
+6683,187,1.0,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,39.23,1,0,370365,15.5,not_assigned,Q,train,O'Brien,False,False,2,True,2,False,False,False,6
+6694,365,0.0,3,"O'Brien, Mr. Thomas",male,42.76,1,0,370365,15.5,not_assigned,Q,train,O'Brien,False,False,2,True,2,False,False,False,6
 6708,117,0.0,3,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,not_assigned,Q,train,Connors,False,False,1,False,1,False,True,False,9
-6714,199,1.0,3,"Madigan, Miss. Margaret ""Maggie""",female,23.955,0,0,370370,7.75,not_assigned,Q,train,Madigan,False,False,1,False,1,False,True,True,4
-6727,47,0.0,3,"Lennon, Mr. Denis",male,38.77,1,0,370371,15.5,not_assigned,Q,train,Lennon,False,False,2,True,2,False,False,False,6
-6740,127,0.0,3,"McMahon, Mr. Martin",male,55.5,0,0,370372,7.75,not_assigned,Q,train,McMahon,False,False,1,False,1,False,True,False,8
+6714,199,1.0,3,"Madigan, Miss. Margaret ""Maggie""",female,23.35,0,0,370370,7.75,not_assigned,Q,train,Madigan,False,False,1,False,1,False,True,True,4
+6727,47,0.0,3,"Lennon, Mr. Denis",male,43.435,1,0,370371,15.5,not_assigned,Q,train,Lennon,False,False,2,True,2,False,False,False,6
+6740,127,0.0,3,"McMahon, Mr. Martin",male,59.52,0,0,370372,7.75,not_assigned,Q,train,McMahon,False,False,1,False,1,False,True,False,8
 6747,290,1.0,3,"Connolly, Miss. Kate",female,22.0,0,0,370373,7.75,not_assigned,Q,train,Connolly,False,False,1,False,1,False,True,True,4
-6758,275,1.0,3,"Healy, Miss. Hanora ""Nora""",female,23.615,0,0,370375,7.75,not_assigned,Q,train,Healy,False,False,1,False,1,False,True,True,4
+6758,275,1.0,3,"Healy, Miss. Hanora ""Nora""",female,23.59,0,0,370375,7.75,not_assigned,Q,train,Healy,False,False,1,False,1,False,True,True,4
 6770,891,0.0,3,"Dooley, Mr. Patrick",male,32.0,0,0,370376,7.75,not_assigned,Q,train,Dooley,False,False,1,False,1,False,True,False,5
-6782,614,0.0,3,"Horgan, Mr. John",male,36.08,0,0,370377,7.75,not_assigned,Q,train,Horgan,False,False,1,False,1,False,True,False,6
-6793,460,0.0,3,"O'Connor, Mr. Maurice",male,35.255,0,0,371060,7.75,not_assigned,Q,train,O'Connor,False,False,1,False,1,False,True,False,6
-6801,110,1.0,3,"Moran, Miss. Bertha",female,14.792933333333336,1,0,371110,24.15,not_assigned,Q,train,Moran,False,False,2,True,3,False,False,True,3
-6815,518,0.0,3,"Ryan, Mr. Patrick",male,36.57535714285714,0,0,371110,24.15,not_assigned,Q,train,Ryan,False,False,1,False,3,True,False,False,6
-6825,769,0.0,3,"Moran, Mr. Daniel J",male,32.961666666666666,1,0,371110,24.15,not_assigned,Q,train,Moran,False,False,2,True,3,False,False,False,5
+6782,614,0.0,3,"Horgan, Mr. John",male,36.875,0,0,370377,7.75,not_assigned,Q,train,Horgan,False,False,1,False,1,False,True,False,6
+6793,460,0.0,3,"O'Connor, Mr. Maurice",male,35.455,0,0,371060,7.75,not_assigned,Q,train,O'Connor,False,False,1,False,1,False,True,False,6
+6801,110,1.0,3,"Moran, Miss. Bertha",female,14.058366666666668,1,0,371110,24.15,not_assigned,Q,train,Moran,False,False,2,True,3,False,False,True,3
+6815,518,0.0,3,"Ryan, Mr. Patrick",male,35.4325,0,0,371110,24.15,not_assigned,Q,train,Ryan,False,False,1,False,3,True,False,False,6
+6825,769,0.0,3,"Moran, Mr. Daniel J",male,32.59,1,0,371110,24.15,not_assigned,Q,train,Moran,False,False,2,True,3,False,False,False,5
 6837,161,0.0,3,"Cribb, Mr. John Hatfield",male,44.0,0,1,371362,16.1,not_assigned,S,train,Cribb,False,False,2,True,2,False,False,False,6
-6847,561,0.0,3,"Morrow, Mr. Thomas Rowan",male,31.6,0,0,372622,7.75,not_assigned,Q,train,Morrow,False,False,1,False,1,False,True,False,5
+6847,561,0.0,3,"Morrow, Mr. Thomas Rowan",male,32.44,0,0,372622,7.75,not_assigned,Q,train,Morrow,False,False,1,False,1,False,True,False,5
 6858,5,0.0,3,"Allen, Mr. William Henry",male,35.0,0,0,373450,8.05,not_assigned,S,train,Allen,False,False,1,False,1,False,True,False,5
-6870,78,0.0,3,"Moutal, Mr. Rahamin Haim",male,35.535,0,0,374746,8.05,not_assigned,S,train,Moutal,False,False,1,False,1,False,True,False,6
+6870,78,0.0,3,"Moutal, Mr. Rahamin Haim",male,35.58,0,0,374746,8.05,not_assigned,S,train,Moutal,False,False,1,False,1,False,True,False,6
 6879,786,0.0,3,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,0,374887,7.25,not_assigned,S,train,Harmer,False,False,1,False,1,False,True,False,4
-6891,96,0.0,3,"Shorney, Mr. Charles Joseph",male,34.725,0,0,374910,8.05,not_assigned,S,train,Shorney,False,False,1,False,1,False,True,False,5
-6901,432,1.0,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,22.52,1,0,376564,16.1,not_assigned,S,train,Thorneycroft,False,False,2,True,2,False,False,False,4
-6913,640,0.0,3,"Thorneycroft, Mr. Percival",male,25.455,1,0,376564,16.1,not_assigned,S,train,Thorneycroft,False,False,2,True,2,False,False,False,5
+6891,96,0.0,3,"Shorney, Mr. Charles Joseph",male,34.25,0,0,374910,8.05,not_assigned,S,train,Shorney,False,False,1,False,1,False,True,False,5
+6901,432,1.0,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,22.43,1,0,376564,16.1,not_assigned,S,train,Thorneycroft,False,False,2,True,2,False,False,False,4
+6913,640,0.0,3,"Thorneycroft, Mr. Percival",male,25.045,1,0,376564,16.1,not_assigned,S,train,Thorneycroft,False,False,2,True,2,False,False,False,5
 6923,744,0.0,3,"McNamee, Mr. Neal",male,24.0,1,0,376566,16.1,not_assigned,S,train,McNamee,False,False,2,True,2,False,False,False,4
-6935,265,0.0,3,"Henry, Miss. Delia",female,25.04,0,0,382649,7.75,not_assigned,Q,train,Henry,False,False,1,False,1,False,True,True,5
+6934,265,0.0,3,"Henry, Miss. Delia",female,24.91,0,0,382649,7.75,not_assigned,Q,train,Henry,False,False,1,False,1,False,True,True,4
 6946,511,1.0,3,"Daly, Mr. Eugene Patrick",male,29.0,0,0,382651,7.75,not_assigned,Q,train,Daly,False,False,1,False,1,False,True,False,5
 6952,17,0.0,3,"Rice, Master. Eugene",male,2.0,4,1,382652,29.125,not_assigned,Q,train,Rice,False,False,6,True,6,False,False,True,0
 6964,172,0.0,3,"Rice, Master. Arthur",male,4.0,4,1,382652,29.125,not_assigned,Q,train,Rice,False,False,6,True,6,False,False,True,1
 6975,279,0.0,3,"Rice, Master. Eric",male,7.0,4,1,382652,29.125,not_assigned,Q,train,Rice,False,False,6,True,6,False,False,True,1
 6987,788,0.0,3,"Rice, Master. George Hugh",male,8.0,4,1,382652,29.125,not_assigned,Q,train,Rice,False,False,6,True,6,False,False,True,2
 7002,886,0.0,3,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,382652,29.125,not_assigned,Q,train,Rice,False,False,6,True,6,False,False,False,6
-7012,777,0.0,3,"Tobin, Mr. Roger",male,30.79,0,0,383121,7.75,F38,Q,train,Tobin,True,False,1,False,1,False,True,False,5
-7023,261,0.0,3,"Smith, Mr. Thomas",male,30.78,0,0,384461,7.75,not_assigned,Q,train,Smith,False,False,1,False,1,False,True,False,5
-7033,348,1.0,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,22.96,1,0,386525,16.1,not_assigned,S,train,Davison,False,False,2,True,2,False,False,False,4
+7012,777,0.0,3,"Tobin, Mr. Roger",male,30.91,0,0,383121,7.75,F38,Q,train,Tobin,True,False,1,False,1,False,True,False,5
+7023,261,0.0,3,"Smith, Mr. Thomas",male,30.84,0,0,384461,7.75,not_assigned,Q,train,Smith,False,False,1,False,1,False,True,False,5
+7033,348,1.0,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,22.7475,1,0,386525,16.1,not_assigned,S,train,Davison,False,False,2,True,2,False,False,False,4
 7043,856,1.0,3,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,392091,9.35,not_assigned,S,train,Aks,False,False,2,True,2,False,False,False,3
-7056,838,0.0,3,"Sirota, Mr. Maurice",male,34.675,0,0,392092,8.05,not_assigned,S,train,Sirota,False,False,1,False,1,False,True,False,5
+7056,838,0.0,3,"Sirota, Mr. Maurice",male,33.335,0,0,392092,8.05,not_assigned,S,train,Sirota,False,False,1,False,1,False,True,False,5
 7063,752,1.0,3,"Moor, Master. Meier",male,6.0,0,1,392096,12.475,E121,S,train,Moor,True,False,2,True,2,False,False,True,1
 7078,824,1.0,3,"Moor, Mrs. (Beila)",female,27.0,0,1,392096,12.475,E121,S,train,Moor,True,False,2,True,2,False,False,False,5
-7089,412,0.0,3,"Hart, Mr. Henry",male,27.12,0,0,394140,6.8583,not_assigned,Q,train,Hart,False,False,1,False,1,False,True,False,5
+7089,412,0.0,3,"Hart, Mr. Henry",male,25.88,0,0,394140,6.8583,not_assigned,Q,train,Hart,False,False,1,False,1,False,True,False,5
 7100,203,0.0,3,"Johanson, Mr. Jakob Alfred",male,34.0,0,0,3101264,6.4958,not_assigned,S,train,Johanson,False,False,1,False,1,False,True,False,5
 7109,787,1.0,3,"Sjoblom, Miss. Anna Sofia",female,18.0,0,0,3101265,7.4958,not_assigned,S,train,Sjoblom,False,False,1,False,1,False,True,True,3
 7120,372,0.0,3,"Wiklund, Mr. Jakob Alfred",male,18.0,1,0,3101267,6.4958,not_assigned,S,train,Wiklund,False,False,1,False,1,False,True,False,3
@@ -661,21 +661,21 @@
 7255,529,0.0,3,"Salonen, Mr. Johan Werner",male,39.0,0,0,3101296,7.925,not_assigned,S,train,Salonen,False,False,1,False,1,False,True,False,6
 7260,480,1.0,3,"Hirvonen, Miss. Hildur E",female,2.0,0,1,3101298,12.2875,not_assigned,S,train,Hirvonen,False,False,2,True,2,False,False,True,0
 7275,38,0.0,3,"Cann, Mr. Ernest Charles",male,21.0,0,0,A./5. 2152,8.05,not_assigned,S,train,Cann,False,False,1,False,1,False,True,False,4
-7287,590,0.0,3,"Murdlin, Mr. Joseph",male,25.25,0,0,A./5. 3235,8.05,not_assigned,S,train,Murdlin,False,False,1,False,1,False,True,False,5
+7287,590,0.0,3,"Murdlin, Mr. Joseph",male,28.56,0,0,A./5. 3235,8.05,not_assigned,S,train,Murdlin,False,False,1,False,1,False,True,False,5
 7301,153,0.0,3,"Meo, Mr. Alfonzo",male,55.5,0,0,A.5. 11206,8.05,not_assigned,S,train,Meo,False,False,1,False,1,False,True,False,8
 7309,489,0.0,3,"Somerton, Mr. Francis William",male,30.0,0,0,A.5. 18509,8.05,not_assigned,S,train,Somerton,False,False,1,False,1,False,True,False,5
 7319,495,0.0,3,"Stanley, Mr. Edward Roland",male,21.0,0,0,A/4 45380,8.05,not_assigned,S,train,Stanley,False,False,1,False,1,False,True,False,4
 7330,566,0.0,3,"Davies, Mr. Alfred J",male,24.0,2,0,A/4 48871,24.15,not_assigned,S,train,Davies,False,False,2,True,3,False,False,False,4
 7343,812,0.0,3,"Lester, Mr. James",male,39.0,0,0,A/4 48871,24.15,not_assigned,S,train,Lester,False,False,1,False,3,True,False,False,6
 7351,575,0.0,3,"Rush, Mr. Alfred George John",male,16.0,0,0,A/4. 20589,8.05,not_assigned,S,train,Rush,False,False,1,False,1,False,True,False,3
-7363,426,0.0,3,"Wiseman, Mr. Phillippe",male,21.165,0,0,A/4. 34244,7.25,not_assigned,S,train,Wiseman,False,False,1,False,1,False,True,False,4
+7363,426,0.0,3,"Wiseman, Mr. Phillippe",male,21.435,0,0,A/4. 34244,7.25,not_assigned,S,train,Wiseman,False,False,1,False,1,False,True,False,4
 7374,52,0.0,3,"Nosworthy, Mr. Richard Cater",male,21.0,0,0,A/4. 39886,7.8,not_assigned,S,train,Nosworthy,False,False,1,False,1,False,True,False,4
 7385,1,0.0,3,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7.25,not_assigned,S,train,Braund,False,False,1,False,1,False,True,False,4
 7396,321,0.0,3,"Dennis, Mr. Samuel",male,22.0,0,0,A/5 21172,7.25,not_assigned,S,train,Dennis,False,False,1,False,1,False,True,False,4
 7407,228,0.0,3,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,A/5 21173,7.25,not_assigned,S,train,Lovell,False,False,1,False,1,False,True,False,4
 7418,213,0.0,3,"Perkin, Mr. John Henry",male,22.0,0,0,A/5 21174,7.25,not_assigned,S,train,Perkin,False,False,1,False,1,False,True,False,4
-7430,305,0.0,3,"Williams, Mr. Howard Hugh ""Harry""",male,34.13,0,0,A/5 2466,8.05,not_assigned,S,train,Williams,False,False,1,False,1,False,True,False,5
-7442,455,0.0,3,"Peduzzi, Mr. Joseph",male,36.71,0,0,A/5 2817,8.05,not_assigned,S,train,Peduzzi,False,False,1,False,1,False,True,False,6
+7430,305,0.0,3,"Williams, Mr. Howard Hugh ""Harry""",male,32.51,0,0,A/5 2466,8.05,not_assigned,S,train,Williams,False,False,1,False,1,False,True,False,5
+7442,455,0.0,3,"Peduzzi, Mr. Joseph",male,36.26,0,0,A/5 2817,8.05,not_assigned,S,train,Peduzzi,False,False,1,False,1,False,True,False,6
 7453,669,0.0,3,"Cook, Mr. Jacob",male,43.0,0,0,A/5 3536,8.05,not_assigned,S,train,Cook,False,False,1,False,1,False,True,False,6
 7461,205,1.0,3,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,A/5 3540,8.05,not_assigned,S,train,Cohen,False,False,1,False,1,False,True,False,3
 7476,483,0.0,3,"Rouse, Mr. Richard Henry",male,50.0,0,0,A/5 3594,8.05,not_assigned,S,train,Rouse,False,False,1,False,1,False,True,False,7
@@ -687,8 +687,8 @@
 7540,618,0.0,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1,0,A/5. 3336,16.1,not_assigned,S,train,Lobb,False,False,2,True,2,False,False,False,5
 7553,133,0.0,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,0,A/5. 3337,14.5,not_assigned,S,train,Robins,False,False,2,True,2,False,False,False,7
 7563,154,0.0,3,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,14.5,not_assigned,S,train,van Billiard,False,False,3,True,3,False,False,False,6
-7572,465,0.0,3,"Maisner, Mr. Simon",male,23.275,0,0,A/S 2816,8.05,not_assigned,S,train,Maisner,False,False,1,False,1,False,True,False,4
-7583,122,0.0,3,"Moore, Mr. Leonard Charles",male,23.585,0,0,A4. 54510,8.05,not_assigned,S,train,Moore,False,False,1,False,1,False,True,False,4
+7572,465,0.0,3,"Maisner, Mr. Simon",male,24.915,0,0,A/S 2816,8.05,not_assigned,S,train,Maisner,False,False,1,False,1,False,True,False,4
+7583,122,0.0,3,"Moore, Mr. Leonard Charles",male,24.985,0,0,A4. 54510,8.05,not_assigned,S,train,Moore,False,False,1,False,1,False,True,False,4
 7594,128,1.0,3,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,C 17369,7.1417,not_assigned,S,train,Madsen,False,False,1,False,1,False,True,False,4
 7606,509,0.0,3,"Olsen, Mr. Henry Margido",male,28.0,0,0,C 4001,22.525,not_assigned,S,train,Olsen,False,False,1,False,3,True,False,False,5
 7618,819,0.0,3,"Holm, Mr. John Fredrik Alexander",male,43.0,0,0,C 7075,6.45,not_assigned,S,train,Holm,False,False,1,False,1,False,True,False,6
@@ -720,7 +720,7 @@
 7898,349,1.0,3,"Coutts, Master. William Loch ""William""",male,3.0,1,1,C.A. 37671,15.9,not_assigned,S,train,Coutts,False,False,3,True,3,False,False,True,0
 7911,490,1.0,3,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,C.A. 37671,15.9,not_assigned,S,train,Coutts,False,False,3,True,3,False,False,True,2
 7926,846,0.0,3,"Abbing, Mr. Anthony",male,42.0,0,0,C.A. 5547,7.55,not_assigned,S,train,Abbing,False,False,1,False,1,False,True,False,6
-7937,498,0.0,3,"Shellard, Mr. Frederick William",male,35.27583333333333,0,0,C.A. 6212,15.1,not_assigned,S,train,Shellard,False,False,1,False,2,True,False,False,6
+7937,498,0.0,3,"Shellard, Mr. Frederick William",male,36.82,0,0,C.A. 6212,15.1,not_assigned,S,train,Shellard,False,False,1,False,2,True,False,False,6
 7947,884,0.0,2,"Banfield, Mr. Frederick James",male,28.0,0,0,C.A./SOTON 34068,10.5,not_assigned,S,train,Banfield,False,False,1,False,1,False,True,False,5
 7955,60,0.0,3,"Goodwin, Master. William Frederick",male,11.0,5,2,CA 2144,46.9,not_assigned,S,train,Goodwin,False,False,8,True,8,False,False,True,2
 7967,72,0.0,3,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,CA 2144,46.9,not_assigned,S,train,Goodwin,False,False,8,True,8,False,False,True,3
@@ -729,27 +729,27 @@
 8003,679,0.0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,6,CA 2144,46.9,not_assigned,S,train,Goodwin,False,False,8,True,8,False,False,False,6
 8010,684,0.0,3,"Goodwin, Mr. Charles Edward",male,14.0,5,2,CA 2144,46.9,not_assigned,S,train,Goodwin,False,False,8,True,8,False,False,False,2
 8023,650,1.0,3,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,0,CA. 2314,7.55,not_assigned,S,train,Stanley,False,False,1,False,1,False,True,True,4
-8033,160,0.0,3,"Sage, Master. Thomas Henry",male,14.135866666666669,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,True,3
-8045,181,0.0,3,"Sage, Miss. Constance Gladys",female,20.91666666666667,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,True,4
-8056,202,0.0,3,"Sage, Mr. Frederick",male,18.848333333333333,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,False,4
-8067,325,0.0,3,"Sage, Mr. George John Jr",male,18.848333333333333,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,False,4
-8078,793,0.0,3,"Sage, Miss. Stella Anna",female,20.91666666666667,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,True,4
-8089,847,0.0,3,"Sage, Mr. Douglas Bullen",male,18.848333333333333,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,False,4
-8100,864,0.0,3,"Sage, Miss. Dorothy Edith ""Dolly""",female,20.91666666666667,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,True,4
+8032,160,0.0,3,"Sage, Master. Thomas Henry",male,13.378666666666666,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,True,2
+8045,181,0.0,3,"Sage, Miss. Constance Gladys",female,21.045,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,True,4
+8055,202,0.0,3,"Sage, Mr. Frederick",male,17.694666666666667,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,False,3
+8066,325,0.0,3,"Sage, Mr. George John Jr",male,17.694666666666667,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,False,3
+8078,793,0.0,3,"Sage, Miss. Stella Anna",female,21.045,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,True,4
+8088,847,0.0,3,"Sage, Mr. Douglas Bullen",male,17.694666666666667,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,False,3
+8100,864,0.0,3,"Sage, Miss. Dorothy Edith ""Dolly""",female,21.045,8,2,CA. 2343,69.55,not_assigned,S,train,Sage,False,False,11,True,11,False,False,True,4
 8112,672,0.0,1,"Davidson, Mr. Thornton",male,31.0,1,0,F.C. 12750,52.0,B71,S,train,Davidson,True,False,2,True,2,False,False,False,5
 8123,212,1.0,2,"Cameron, Miss. Clear Annie",female,35.0,0,0,F.C.C. 13528,21.0,not_assigned,S,train,Cameron,False,False,1,False,2,True,False,True,5
 8135,315,0.0,2,"Hart, Mr. Benjamin",male,43.0,1,1,F.C.C. 13529,26.25,not_assigned,S,train,Hart,False,False,3,True,3,False,False,False,6
 8146,441,1.0,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,F.C.C. 13529,26.25,not_assigned,S,train,Hart,False,False,3,True,3,False,False,False,6
 8152,536,1.0,2,"Hart, Miss. Eva Miriam",female,7.0,0,2,F.C.C. 13529,26.25,not_assigned,S,train,Hart,False,False,3,True,3,False,False,True,1
 8169,459,1.0,2,"Toomey, Miss. Ellen",female,50.0,0,0,F.C.C. 13531,10.5,not_assigned,S,train,Toomey,False,False,1,False,1,False,True,True,7
-8178,155,0.0,3,"Olsen, Mr. Ole Martin",male,33.34166666666667,0,0,Fa 265302,7.3125,not_assigned,S,train,Olsen,False,False,1,False,1,False,True,False,5
+8178,155,0.0,3,"Olsen, Mr. Ole Martin",male,32.20916666666667,0,0,Fa 265302,7.3125,not_assigned,S,train,Olsen,False,False,1,False,1,False,True,False,5
 8190,180,0.0,3,"Leonard, Mr. Lionel",male,36.0,0,0,LINE,0.0,not_assigned,S,train,Leonard,False,False,1,False,4,True,False,False,6
 8199,272,1.0,3,"Tornquist, Mr. William Henry",male,25.0,0,0,LINE,0.0,not_assigned,S,train,Tornquist,False,False,1,False,4,True,False,False,4
 8210,303,0.0,3,"Johnson, Mr. William Cahoone Jr",male,19.0,0,0,LINE,0.0,not_assigned,S,train,Johnson,False,False,2,True,4,False,False,False,4
 8224,598,0.0,3,"Johnson, Mr. Alfred",male,49.0,0,0,LINE,0.0,not_assigned,S,train,Johnson,False,False,2,True,4,False,False,False,7
 8233,309,0.0,2,"Abelson, Mr. Samuel",male,30.0,1,0,P/PP 3381,24.0,not_assigned,C,train,Abelson,False,False,2,True,2,False,False,False,5
 8244,875,1.0,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,0,P/PP 3381,24.0,not_assigned,C,train,Abelson,False,False,2,True,2,False,False,False,5
-8256,169,0.0,1,"Baumann, Mr. John D",male,39.775,0,0,PC 17318,25.925,not_assigned,S,train,Baumann,False,False,1,False,1,False,True,False,6
+8256,169,0.0,1,"Baumann, Mr. John D",male,41.3,0,0,PC 17318,25.925,not_assigned,S,train,Baumann,False,False,1,False,1,False,True,False,6
 8267,513,1.0,1,"McGough, Mr. James Robert",male,36.0,0,0,PC 17473,26.2875,E25,S,train,McGough,True,False,1,False,1,False,True,False,6
 8278,573,1.0,1,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,0,PC 17474,26.3875,E25,S,train,Flynn,True,False,1,False,1,False,True,False,6
 8288,702,1.0,1,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,PC 17475,26.2875,E24,S,train,Silverthorne,True,False,1,False,1,False,True,False,5
@@ -757,12 +757,12 @@
 8309,370,1.0,1,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,PC 17477,69.3,B35,C,train,Aubart,True,False,1,False,2,True,False,False,4
 8320,642,1.0,1,"Sagesser, Mlle. Emma",female,24.0,0,0,PC 17477,69.3,B35,C,train,Sagesser,True,False,1,False,2,True,False,False,4
 8331,711,1.0,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,PC 17482,49.5042,C90,C,train,Mayne,True,False,1,False,1,False,True,False,4
-8345,528,0.0,1,"Farthing, Mr. John",male,45.7675,0,0,PC 17483,221.7792,C95,S,train,Farthing,True,False,1,False,4,True,False,False,7
+8345,528,0.0,1,"Farthing, Mr. John",male,45.995,0,0,PC 17483,221.7792,C95,S,train,Farthing,True,False,1,False,4,True,False,False,7
 8354,310,1.0,1,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,56.9292,E36,C,train,Francatelli,True,False,1,False,2,True,False,True,5
 8367,600,1.0,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,PC 17485,56.9292,A20,C,train,Duff Gordon,True,False,1,False,2,True,False,False,7
 8375,119,0.0,1,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,247.5208,B58 B60,C,train,Baxter,False,True,2,True,3,False,False,False,4
 8389,300,1.0,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,247.5208,B58 B60,C,train,Baxter,False,True,2,True,3,False,False,False,7
-8400,32,1.0,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,46.91,1,0,PC 17569,146.5208,B78,C,train,Spencer,True,False,2,True,3,False,False,False,7
+8400,32,1.0,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,49.66,1,0,PC 17569,146.5208,B78,C,train,Spencer,True,False,2,True,3,False,False,False,7
 8412,196,1.0,1,"Lurette, Miss. Elise",female,58.0,0,0,PC 17569,146.5208,B80,C,train,Lurette,True,False,1,False,3,True,False,True,8
 8422,53,1.0,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,76.7292,D33,C,train,Harper,True,False,2,True,3,False,False,False,7
 8433,646,1.0,1,"Harper, Mr. Henry Sleeper",male,48.0,1,0,PC 17572,76.7292,D33,C,train,Harper,True,False,2,True,3,False,False,False,7
@@ -770,7 +770,7 @@
 8456,269,1.0,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,PC 17582,153.4625,C125,S,train,Graham,True,False,2,True,3,False,False,False,8
 8465,333,0.0,1,"Graham, Mr. George Edward",male,38.0,0,1,PC 17582,153.4625,C91,S,train,Graham,True,False,2,True,3,False,False,False,6
 8476,610,1.0,1,"Shutes, Miss. Elizabeth W",female,40.0,0,0,PC 17582,153.4625,C125,S,train,Shutes,True,False,1,False,3,True,False,True,6
-8487,257,1.0,1,"Thorne, Mrs. Gertrude Maybelle",female,43.42,0,0,PC 17585,79.2,not_assigned,C,train,Thorne,False,False,1,False,2,True,False,False,6
+8487,257,1.0,1,"Thorne, Mrs. Gertrude Maybelle",female,44.49,0,0,PC 17585,79.2,not_assigned,C,train,Thorne,False,False,1,False,2,True,False,False,6
 8497,868,0.0,1,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,PC 17590,50.4958,A24,S,train,Roebling,True,False,1,False,1,False,True,False,5
 8506,854,1.0,1,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,39.4,D28,S,train,Lines,True,False,2,True,2,False,False,True,3
 8518,140,0.0,1,"Giglio, Mr. Victor",male,24.0,0,0,PC 17593,79.2,B86,C,train,Giglio,True,False,1,False,2,True,False,False,4
@@ -779,26 +779,26 @@
 8553,274,0.0,1,"Natsch, Mr. Charles H",male,37.0,0,1,PC 17596,29.7,C118,C,train,Natsch,True,False,1,False,1,False,True,False,6
 8565,156,0.0,1,"Williams, Mr. Charles Duane",male,51.0,0,1,PC 17597,61.3792,not_assigned,C,train,Williams,False,False,2,True,2,False,False,False,7
 8575,2,1.0,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,C85,C,train,Cumings,True,False,2,True,2,False,False,False,6
-8586,794,0.0,1,"Hoyt, Mr. William Fisher",male,42.31,0,0,PC 17600,30.6958,not_assigned,C,train,Hoyt,False,False,1,False,1,False,True,False,6
+8586,794,0.0,1,"Hoyt, Mr. William Fisher",male,42.59,0,0,PC 17600,30.6958,not_assigned,C,train,Hoyt,False,False,1,False,1,False,True,False,6
 8597,31,0.0,1,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,27.7208,not_assigned,C,train,Uruchurtu,False,False,1,False,1,False,True,False,6
 8609,514,1.0,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,0,PC 17603,59.4,not_assigned,C,train,Rothschild,False,False,2,True,2,False,False,False,7
 8618,35,0.0,1,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,PC 17604,82.1708,not_assigned,C,train,Meyer,False,False,2,True,2,False,False,False,5
-8630,376,1.0,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,39.98,1,0,PC 17604,82.1708,not_assigned,C,train,Meyer,False,False,2,True,2,False,False,False,6
-8641,65,0.0,1,"Stewart, Mr. Albert A",male,44.765,0,0,PC 17605,27.7208,not_assigned,C,train,Stewart,False,False,1,False,1,False,True,False,6
+8630,376,1.0,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,36.56,1,0,PC 17604,82.1708,not_assigned,C,train,Meyer,False,False,2,True,2,False,False,False,6
+8642,65,0.0,1,"Stewart, Mr. Albert A",male,46.04,0,0,PC 17605,27.7208,not_assigned,C,train,Stewart,False,False,1,False,1,False,True,False,7
 8649,312,1.0,1,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,train,Ryerson,False,True,5,True,7,False,False,True,3
 8661,743,1.0,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,train,Ryerson,False,True,5,True,7,False,False,True,4
 8677,494,0.0,1,"Artagaveytia, Mr. Ramon",male,71.0,0,0,PC 17609,49.5042,not_assigned,C,train,Artagaveytia,False,False,1,False,1,False,True,False,9
 8685,195,1.0,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,PC 17610,27.7208,B4,C,train,Brown,True,False,1,False,1,False,True,False,6
-8697,335,1.0,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,45.69,1,0,PC 17611,133.65,not_assigned,S,train,Frauenthal,False,False,2,True,2,False,False,False,7
+8697,335,1.0,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,45.13,1,0,PC 17611,133.65,not_assigned,S,train,Frauenthal,False,False,2,True,2,False,False,False,7
 8708,661,1.0,1,"Frauenthal, Dr. Henry William",male,50.0,2,0,PC 17611,133.65,not_assigned,S,train,Frauenthal,False,False,2,True,2,False,False,False,7
-8719,296,0.0,1,"Lewy, Mr. Ervin G",male,52.775,0,0,PC 17612,27.7208,not_assigned,C,train,Lewy,False,False,1,False,1,False,True,False,7
+8720,296,0.0,1,"Lewy, Mr. Ervin G",male,57.36,0,0,PC 17612,27.7208,not_assigned,C,train,Lewy,False,False,1,False,1,False,True,False,8
 8732,97,0.0,1,"Goldschmidt, Mr. George B",male,71.0,0,0,PC 17754,34.6542,A5,C,train,Goldschmidt,True,False,1,False,1,False,True,False,9
 8739,259,1.0,1,"Ward, Miss. Anna",female,35.0,0,0,PC 17755,512.3292,not_assigned,C,train,Ward,False,False,1,False,4,True,False,True,5
 8751,680,1.0,1,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,512.3292,B51 B53 B55,C,train,Cardeza,False,True,2,True,4,False,False,False,6
 8761,738,1.0,1,"Lesurer, Mr. Gustave J",male,35.0,0,0,PC 17755,512.3292,B101,C,train,Lesurer,True,False,1,False,4,True,False,False,5
 8773,836,1.0,1,"Compton, Miss. Sara Rebecca",female,39.0,1,1,PC 17756,83.1583,E49,C,train,Compton,True,False,3,True,3,False,False,True,6
 8784,381,1.0,1,"Bidois, Miss. Rosalie",female,42.0,0,0,PC 17757,227.525,not_assigned,C,train,Bidois,False,False,1,False,5,True,False,True,6
-8795,558,0.0,1,"Robbins, Mr. Victor",male,37.31,0,0,PC 17757,227.525,not_assigned,C,train,Robbins,False,False,1,False,5,True,False,False,6
+8794,558,0.0,1,"Robbins, Mr. Victor",male,34.595,0,0,PC 17757,227.525,not_assigned,C,train,Robbins,False,False,1,False,5,True,False,False,5
 8803,701,1.0,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,PC 17757,227.525,C62 C64,C,train,Astor,False,True,2,True,5,False,False,False,3
 8817,717,1.0,1,"Endres, Miss. Caroline Louise",female,38.0,0,0,PC 17757,227.525,C45,C,train,Endres,True,False,1,False,5,True,False,True,6
 8825,308,1.0,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,PC 17758,108.9,C65,C,train,Penasco y Castellana,True,False,2,True,3,False,False,False,3
@@ -812,12 +812,12 @@
 8914,226,0.0,3,"Berglund, Mr. Karl Ivar Sven",male,22.0,0,0,PP 4348,9.35,not_assigned,S,train,Berglund,False,False,1,False,1,False,True,False,4
 8922,11,1.0,3,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,16.7,G6,S,train,Sandstrom,True,False,3,True,3,False,False,True,1
 8936,395,1.0,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,PP 9549,16.7,G6,S,train,Sandstrom,True,False,3,True,3,False,False,False,4
-8947,46,0.0,3,"Rogers, Mr. William John",male,22.771666666666665,0,0,S.C./A.4. 23567,8.05,not_assigned,S,train,Rogers,False,False,1,False,1,False,True,False,4
+8947,46,0.0,3,"Rogers, Mr. William John",male,23.425,0,0,S.C./A.4. 23567,8.05,not_assigned,S,train,Rogers,False,False,1,False,1,False,True,False,4
 8959,818,0.0,2,"Mallet, Mr. Albert",male,31.0,1,1,S.C./PARIS 2079,37.0042,not_assigned,C,train,Mallet,False,False,3,True,3,False,False,False,5
 8965,828,1.0,2,"Mallet, Master. Andre",male,1.0,0,2,S.C./PARIS 2079,37.0042,not_assigned,C,train,Mallet,False,False,3,True,3,False,False,True,0
 8984,773,0.0,2,"Mack, Mrs. (Mary)",female,57.0,0,0,S.O./P.P. 3,10.5,E77,S,train,Mack,True,False,1,False,2,True,False,False,8
 8990,842,0.0,2,"Mudd, Mr. Thomas Charles",male,16.0,0,0,S.O./P.P. 3,10.5,not_assigned,S,train,Mudd,False,False,1,False,2,True,False,False,3
-9003,649,0.0,3,"Willey, Mr. Edward",male,29.42,0,0,S.O./P.P. 751,7.55,not_assigned,S,train,Willey,False,False,1,False,1,False,True,False,5
+9003,649,0.0,3,"Willey, Mr. Edward",male,29.405,0,0,S.O./P.P. 751,7.55,not_assigned,S,train,Willey,False,False,1,False,1,False,True,False,5
 9013,73,0.0,2,"Hood, Mr. Ambrose Jr",male,21.0,0,0,S.O.C. 14879,73.5,not_assigned,S,train,Hood,False,False,1,False,7,True,False,False,4
 9024,121,0.0,2,"Hickman, Mr. Stanley George",male,21.0,2,0,S.O.C. 14879,73.5,not_assigned,S,train,Hickman,False,False,3,True,7,False,False,False,4
 9034,386,0.0,2,"Davies, Mr. Charles Henry",male,18.0,0,0,S.O.C. 14879,73.5,not_assigned,S,train,Davies,False,False,1,False,7,True,False,False,3
@@ -833,29 +833,29 @@
 9141,44,1.0,2,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,41.5792,not_assigned,C,train,Laroche,False,False,4,True,4,False,False,True,0
 9156,609,1.0,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,2,SC/Paris 2123,41.5792,not_assigned,C,train,Laroche,False,False,4,True,4,False,False,False,4
 9167,686,0.0,2,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,SC/Paris 2123,41.5792,not_assigned,C,train,Laroche,False,False,4,True,4,False,False,False,4
-9179,182,0.0,2,"Pernot, Mr. Rene",male,25.2425,0,0,SC/PARIS 2131,15.05,not_assigned,C,train,Pernot,False,False,1,False,1,False,True,False,5
+9178,182,0.0,2,"Pernot, Mr. Rene",male,24.96,0,0,SC/PARIS 2131,15.05,not_assigned,C,train,Pernot,False,False,1,False,1,False,True,False,4
 9189,136,0.0,2,"Richard, Mr. Emile",male,23.0,0,0,SC/PARIS 2133,15.0458,not_assigned,C,train,Richard,False,False,1,False,1,False,True,False,4
-9201,548,1.0,2,"Padro y Manent, Mr. Julian",male,25.8125,0,0,SC/PARIS 2146,13.8625,not_assigned,C,train,Padro y Manent,False,False,1,False,1,False,True,False,5
+9201,548,1.0,2,"Padro y Manent, Mr. Julian",male,25.51,0,0,SC/PARIS 2146,13.8625,not_assigned,C,train,Padro y Manent,False,False,1,False,1,False,True,False,5
 9212,867,1.0,2,"Duran y More, Miss. Asuncion",female,27.0,1,0,SC/PARIS 2149,13.8583,not_assigned,C,train,Duran y More,False,False,1,False,1,False,True,True,5
 9224,293,0.0,2,"Levy, Mr. Rene Jacques",male,36.0,0,0,SC/Paris 2163,12.875,D,C,train,Levy,False,False,1,False,1,False,True,False,6
 9234,362,0.0,2,"del Carlo, Mr. Sebastiano",male,29.0,1,0,SC/PARIS 2167,27.7208,not_assigned,C,train,del Carlo,False,False,2,True,2,False,False,False,5
 9245,240,0.0,2,"Hunt, Mr. George Henry",male,33.0,0,0,SCO/W 1585,12.275,not_assigned,S,train,Hunt,False,False,1,False,1,False,True,False,5
 9254,85,1.0,2,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,10.5,not_assigned,S,train,Ilett,False,False,1,False,1,False,True,True,3
-9267,612,0.0,3,"Jardin, Mr. Jose Neto",male,34.665,0,0,SOTON/O.Q. 3101305,7.05,not_assigned,S,train,Jardin,False,False,1,False,1,False,True,False,5
+9267,612,0.0,3,"Jardin, Mr. Jose Neto",male,34.875,0,0,SOTON/O.Q. 3101305,7.05,not_assigned,S,train,Jardin,False,False,1,False,1,False,True,False,5
 9279,466,0.0,3,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,0,SOTON/O.Q. 3101306,7.05,not_assigned,S,train,Goncalves,False,False,1,False,1,False,True,False,6
 9288,132,0.0,3,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,0,SOTON/O.Q. 3101307,7.05,not_assigned,S,train,Coelho,False,False,1,False,1,False,True,False,4
 9300,364,0.0,3,"Asim, Mr. Adola",male,35.0,0,0,SOTON/O.Q. 3101310,7.05,not_assigned,S,train,Asim,False,False,1,False,1,False,True,False,5
 9310,211,0.0,3,"Ali, Mr. Ahmed",male,24.0,0,0,SOTON/O.Q. 3101311,7.05,not_assigned,S,train,Ali,False,False,1,False,1,False,True,False,4
 9321,785,0.0,3,"Ali, Mr. William",male,25.0,0,0,SOTON/O.Q. 3101312,7.05,not_assigned,S,train,Ali,False,False,1,False,1,False,True,False,4
 9333,430,1.0,3,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,0,SOTON/O.Q. 392078,8.05,E10,S,train,Pickard,True,False,1,False,1,False,True,False,5
-9343,565,0.0,3,"Meanwell, Miss. (Marion Ogden)",female,23.16,0,0,SOTON/O.Q. 392087,8.05,not_assigned,S,train,Meanwell,False,False,1,False,1,False,True,True,4
+9343,565,0.0,3,"Meanwell, Miss. (Marion Ogden)",female,23.15,0,0,SOTON/O.Q. 392087,8.05,not_assigned,S,train,Meanwell,False,False,1,False,1,False,True,True,4
 9356,762,0.0,3,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0,0,SOTON/O2 3101272,7.125,not_assigned,S,train,Nirva,False,False,1,False,1,False,True,False,6
 9365,841,0.0,3,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,0,SOTON/O2 3101287,7.925,not_assigned,S,train,Alhomaki,False,False,1,False,1,False,True,False,4
-9376,512,0.0,3,"Webber, Mr. James",male,20.76,0,0,SOTON/OQ 3101316,8.05,not_assigned,S,train,Webber,False,False,1,False,1,False,True,False,4
+9376,512,0.0,3,"Webber, Mr. James",male,20.07,0,0,SOTON/OQ 3101316,8.05,not_assigned,S,train,Webber,False,False,1,False,1,False,True,False,4
 9387,492,0.0,3,"Windelov, Mr. Einar",male,21.0,0,0,SOTON/OQ 3101317,7.25,not_assigned,S,train,Windelov,False,False,1,False,1,False,True,False,4
 9398,885,0.0,3,"Sutehall, Mr. Henry Jr",male,25.0,0,0,SOTON/OQ 392076,7.05,not_assigned,S,train,Sutehall,False,False,1,False,1,False,True,False,4
-9409,564,0.0,3,"Simmons, Mr. John",male,20.4,0,0,SOTON/OQ 392082,8.05,not_assigned,S,train,Simmons,False,False,1,False,1,False,True,False,4
-9420,88,0.0,3,"Slocovski, Mr. Selman Francis",male,21.54,0,0,SOTON/OQ 392086,8.05,not_assigned,S,train,Slocovski,False,False,1,False,1,False,True,False,4
+9409,564,0.0,3,"Simmons, Mr. John",male,19.84,0,0,SOTON/OQ 392082,8.05,not_assigned,S,train,Simmons,False,False,1,False,1,False,True,False,4
+9420,88,0.0,3,"Slocovski, Mr. Selman Francis",male,20.66,0,0,SOTON/OQ 392086,8.05,not_assigned,S,train,Slocovski,False,False,1,False,1,False,True,False,4
 9430,221,1.0,3,"Sunderland, Mr. Victor Francis",male,16.0,0,0,SOTON/OQ 392089,8.05,not_assigned,S,train,Sunderland,False,False,1,False,1,False,True,False,3
 9443,158,0.0,3,"Corn, Mr. Harry",male,30.0,0,0,SOTON/OQ 392090,8.05,not_assigned,S,train,Corn,False,False,1,False,1,False,True,False,5
 9455,415,1.0,3,"Sundman, Mr. Johan Julian",male,44.0,0,0,STON/O 2. 3101269,7.925,not_assigned,S,train,Sundman,False,False,1,False,1,False,True,False,6
@@ -879,13 +879,13 @@
 9651,227,1.0,2,"Mellors, Mr. William John",male,19.0,0,0,SW/PP 751,10.5,not_assigned,S,train,Mellors,False,False,1,False,1,False,True,False,4
 9665,527,1.0,2,"Ridsdale, Miss. Lucy",female,50.0,0,0,W./C. 14258,10.5,not_assigned,S,train,Ridsdale,False,False,1,False,1,False,True,True,7
 9674,243,0.0,2,"Coleridge, Mr. Reginald Charles",male,29.0,0,0,W./C. 14263,10.5,not_assigned,S,train,Coleridge,False,False,1,False,1,False,True,False,5
-9685,784,0.0,3,"Johnston, Mr. Andrew G",male,28.415,1,2,W./C. 6607,23.45,not_assigned,S,train,Johnston,False,False,4,True,4,False,False,False,5
-9693,889,0.0,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,9.999461904761903,1,2,W./C. 6607,23.45,not_assigned,S,train,Johnston,False,False,4,True,4,False,False,True,2
+9685,784,0.0,3,"Johnston, Mr. Andrew G",male,26.425,1,2,W./C. 6607,23.45,not_assigned,S,train,Johnston,False,False,4,True,4,False,False,False,5
+9693,889,0.0,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,10.091499999999998,1,2,W./C. 6607,23.45,not_assigned,S,train,Johnston,False,False,4,True,4,False,False,True,2
 9705,87,0.0,3,"Ford, Mr. William Neal",male,16.0,1,3,W./C. 6608,34.375,not_assigned,S,train,Ford,False,False,5,True,5,False,False,False,3
 9715,148,0.0,3,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,W./C. 6608,34.375,not_assigned,S,train,Ford,False,False,5,True,5,False,False,True,2
 9728,437,0.0,3,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,2,W./C. 6608,34.375,not_assigned,S,train,Ford,False,False,5,True,5,False,False,True,4
 9742,737,0.0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,3,W./C. 6608,34.375,not_assigned,S,train,Ford,False,False,5,True,5,False,False,False,7
-9751,236,0.0,3,"Harknett, Miss. Alice Phoebe",female,30.16,0,0,W./C. 6609,7.55,not_assigned,S,train,Harknett,False,False,1,False,1,False,True,True,5
+9751,236,0.0,3,"Harknett, Miss. Alice Phoebe",female,28.64,0,0,W./C. 6609,7.55,not_assigned,S,train,Harknett,False,False,1,False,1,False,True,True,5
 9764,93,0.0,1,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,61.175,E31,S,train,Chaffee,True,False,2,True,2,False,False,False,7
 9773,220,0.0,2,"Harris, Mr. Walter",male,30.0,0,0,W/C 14208,10.5,not_assigned,S,train,Harris,False,False,1,False,1,False,True,False,5
 9785,541,1.0,1,"Crosby, Miss. Harriet R",female,36.0,0,2,WE/P 5735,71.0,B22,S,train,Crosby,True,False,2,True,2,False,False,True,6
@@ -900,7 +900,7 @@
 9883,899,,2,"Caldwell, Mr. Albert Francis",male,26.0,1,1,248738,29.0,not_assigned,S,test,Caldwell,False,False,3,True,3,False,False,False,5
 9892,900,,3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18.0,0,0,2657,7.2292,not_assigned,C,test,Abrahim,False,False,1,False,1,False,True,False,3
 9904,901,,3,"Davies, Mr. John Samuel",male,21.0,2,0,A/4 48871,24.15,not_assigned,S,test,Davies,False,False,2,True,3,False,False,False,4
-9916,902,,3,"Ilieff, Mr. Ylio",male,27.66,0,0,349220,7.8958,not_assigned,S,test,Ilieff,False,False,1,False,1,False,True,False,5
+9916,902,,3,"Ilieff, Mr. Ylio",male,27.88,0,0,349220,7.8958,not_assigned,S,test,Ilieff,False,False,1,False,1,False,True,False,5
 9929,903,,1,"Jones, Mr. Charles Cresson",male,46.0,0,0,694,26.0,not_assigned,S,test,Jones,False,False,1,False,1,False,True,False,7
 9937,904,,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23.0,1,0,21228,82.2667,B45,S,test,Snyder,True,False,2,True,2,False,False,False,4
 9952,905,,2,"Howard, Mr. Benjamin",male,63.0,1,0,24065,26.0,not_assigned,S,test,Howard,False,False,2,True,2,False,False,False,8
@@ -912,50 +912,50 @@
 10016,911,,3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,45.0,0,0,2696,7.225,not_assigned,C,test,Assaf Khalil,False,False,1,False,1,False,True,False,6
 10028,912,,1,"Rothschild, Mr. Martin",male,55.0,1,0,PC 17603,59.4,not_assigned,C,test,Rothschild,False,False,2,True,2,False,False,False,7
 10034,913,,3,"Olsen, Master. Artur Karl",male,9.0,0,1,C 17368,3.1708,not_assigned,S,test,Olsen,False,False,1,False,1,False,True,True,2
-10049,914,,1,"Flegenheim, Mrs. Alfred (Antoinette)",female,44.43,0,0,PC 17598,31.6833,not_assigned,S,test,Flegenheim,False,False,1,False,1,False,True,False,6
+10050,914,,1,"Flegenheim, Mrs. Alfred (Antoinette)",female,45.89,0,0,PC 17598,31.6833,not_assigned,S,test,Flegenheim,False,False,1,False,1,False,True,False,7
 10058,915,,1,"Williams, Mr. Richard Norris II",male,21.0,0,1,PC 17597,61.3792,not_assigned,C,test,Williams,False,False,2,True,2,False,False,False,4
 10072,916,,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48.0,1,3,PC 17608,262.375,B57 B59 B63 B66,C,test,Ryerson,False,True,5,True,7,False,False,False,7
 10083,917,,3,"Robins, Mr. Alexander A",male,50.0,1,0,A/5. 3337,14.5,not_assigned,S,test,Robins,False,False,2,True,2,False,False,False,7
 10091,918,,1,"Ostby, Miss. Helene Ragnhild",female,22.0,0,1,113509,61.9792,B36,C,test,Ostby,True,False,2,True,2,False,False,True,4
 10102,919,,3,"Daher, Mr. Shedid",male,22.5,0,0,2698,7.225,not_assigned,C,test,Daher,False,False,1,False,1,False,True,False,4
 10115,920,,1,"Brady, Mr. John Bertram",male,41.0,0,0,113054,30.5,A21,S,test,Brady,True,False,1,False,1,False,True,False,6
-10124,921,,3,"Samaan, Mr. Elias",male,24.947000000000003,2,0,2662,21.6792,not_assigned,C,test,Samaan,False,False,3,True,3,False,False,False,4
+10125,921,,3,"Samaan, Mr. Elias",male,25.50671428571429,2,0,2662,21.6792,not_assigned,C,test,Samaan,False,False,3,True,3,False,False,False,5
 10138,922,,2,"Louch, Mr. Charles Alexander",male,50.0,1,0,SC/AH 3085,26.0,not_assigned,S,test,Louch,False,False,2,True,2,False,False,False,7
 10146,923,,2,"Jefferys, Mr. Clifford Thomas",male,24.0,2,0,C.A. 31029,31.5,not_assigned,S,test,Jefferys,False,False,2,True,3,False,False,False,4
 10158,924,,3,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33.0,1,2,C.A. 2315,20.575,not_assigned,S,test,Dean,False,False,4,True,4,False,False,False,5
-10169,925,,3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,31.7,1,2,W./C. 6607,23.45,not_assigned,S,test,Johnston,False,False,4,True,4,False,False,False,5
+10169,925,,3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,29.69,1,2,W./C. 6607,23.45,not_assigned,S,test,Johnston,False,False,4,True,4,False,False,False,5
 10180,926,,1,"Mock, Mr. Philipp Edmund",male,30.0,1,0,13236,57.75,C78,C,test,Mock,True,False,1,False,2,True,False,False,5
 10190,927,,3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,18.5,0,0,2682,7.2292,not_assigned,C,test,Katavelas,False,False,1,False,1,False,True,False,4
-10201,928,,3,"Roth, Miss. Sarah A",female,20.1,0,0,342712,8.05,not_assigned,S,test,Roth,False,False,1,False,1,False,True,True,4
+10201,928,,3,"Roth, Miss. Sarah A",female,20.42,0,0,342712,8.05,not_assigned,S,test,Roth,False,False,1,False,1,False,True,True,4
 10212,929,,3,"Cacic, Miss. Manda",female,21.0,0,0,315087,8.6625,not_assigned,S,test,Cacic,False,False,1,False,1,False,True,True,4
 10223,930,,3,"Sap, Mr. Julius",male,25.0,0,0,345768,9.5,not_assigned,S,test,Sap,False,False,1,False,1,False,True,False,4
-10235,931,,3,"Hee, Mr. Ling",male,29.522111111111112,0,0,1601,56.4958,not_assigned,S,test,Hee,False,False,1,False,8,True,False,False,5
+10235,931,,3,"Hee, Mr. Ling",male,29.538722222222212,0,0,1601,56.4958,not_assigned,S,test,Hee,False,False,1,False,8,True,False,False,5
 10247,932,,3,"Karun, Mr. Franz",male,39.0,0,1,349256,13.4167,not_assigned,C,test,Karun,False,False,2,True,2,False,False,False,6
-10259,933,,1,"Franklin, Mr. Thomas Parham",male,47.975,0,0,113778,26.55,D34,S,test,Franklin,True,False,1,False,1,False,True,False,7
+10259,933,,1,"Franklin, Mr. Thomas Parham",male,47.79,0,0,113778,26.55,D34,S,test,Franklin,True,False,1,False,1,False,True,False,7
 10269,934,,3,"Goldsmith, Mr. Nathan",male,41.0,0,0,SOTON/O.Q. 3101263,7.85,not_assigned,S,test,Goldsmith,False,False,1,False,1,False,True,False,6
 10279,935,,2,"Corbett, Mrs. Walter H (Irene Colvin)",female,30.0,0,0,237249,13.0,not_assigned,S,test,Corbett,False,False,1,False,1,False,True,False,5
 10291,936,,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45.0,1,0,11753,52.5542,D19,S,test,Kimball,True,False,2,True,2,False,False,False,6
 10300,937,,3,"Peltomaki, Mr. Nikolai Johannes",male,25.0,0,0,STON/O 2. 3101291,7.925,not_assigned,S,test,Peltomaki,False,False,1,False,1,False,True,False,4
 10313,938,,1,"Chevre, Mr. Paul Romaine",male,45.0,0,0,PC 17594,29.7,A9,C,test,Chevre,True,False,1,False,1,False,True,False,6
-10324,939,,3,"Shaughnessy, Mr. Patrick",male,39.42,0,0,370374,7.75,not_assigned,Q,test,Shaughnessy,False,False,1,False,1,False,True,False,6
+10325,939,,3,"Shaughnessy, Mr. Patrick",male,45.02,0,0,370374,7.75,not_assigned,Q,test,Shaughnessy,False,False,1,False,1,False,True,False,7
 10337,940,,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60.0,0,0,11813,76.2917,D15,C,test,Bucknell,True,False,1,False,2,True,False,False,8
 10346,941,,3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,36.0,0,2,C.A. 37671,15.9,not_assigned,S,test,Coutts,False,False,3,True,3,False,False,False,6
 10355,942,,1,"Smith, Mr. Lucien Philip",male,24.0,1,0,13695,60.0,C31,S,test,Smith,True,False,2,True,2,False,False,False,4
 10367,943,,2,"Pulbaum, Mr. Franz",male,27.0,0,0,SC/PARIS 2168,15.0333,not_assigned,C,test,Pulbaum,False,False,1,False,1,False,True,False,5
 10377,944,,2,"Hocking, Miss. Ellen Nellie""""",female,20.0,2,1,29105,23.0,not_assigned,S,test,Hocking,False,False,2,True,2,False,False,True,4
 10389,945,,1,"Fortune, Miss. Ethel Flora",female,28.0,3,2,19950,263.0,C23 C25 C27,S,test,Fortune,False,True,6,True,6,False,False,True,5
-10400,946,,2,"Mangiavacchi, Mr. Serafino Emilio",male,31.185,0,0,SC/A.3 2861,15.5792,not_assigned,C,test,Mangiavacchi,False,False,1,False,1,False,True,False,5
+10400,946,,2,"Mangiavacchi, Mr. Serafino Emilio",male,30.11,0,0,SC/A.3 2861,15.5792,not_assigned,C,test,Mangiavacchi,False,False,1,False,1,False,True,False,5
 10408,947,,3,"Rice, Master. Albert",male,10.0,4,1,382652,29.125,not_assigned,Q,test,Rice,False,False,6,True,6,False,False,True,2
 10422,948,,3,"Cor, Mr. Bartol",male,35.0,0,0,349230,7.8958,not_assigned,S,test,Cor,False,False,1,False,1,False,True,False,5
 10432,949,,3,"Abelseth, Mr. Olaus Jorgensen",male,25.0,0,0,348122,7.65,F G63,S,test,Abelseth,False,True,1,False,1,False,True,False,4
-10444,950,,3,"Davison, Mr. Thomas Henry",male,25.775,1,0,386525,16.1,not_assigned,S,test,Davison,False,False,2,True,2,False,False,False,5
+10444,950,,3,"Davison, Mr. Thomas Henry",male,25.0275,1,0,386525,16.1,not_assigned,S,test,Davison,False,False,2,True,2,False,False,False,5
 10456,951,,1,"Chaudanson, Miss. Victorine",female,36.0,0,0,PC 17608,262.375,B61,C,test,Chaudanson,True,False,1,False,7,True,False,True,6
 10464,952,,3,"Dika, Mr. Mirko",male,17.0,0,0,349232,7.8958,not_assigned,S,test,Dika,False,False,1,False,1,False,True,False,3
 10477,953,,2,"McCrae, Mr. Arthur Gordon",male,32.0,0,0,237216,13.5,not_assigned,S,test,McCrae,False,False,1,False,1,False,True,False,5
 10486,954,,3,"Bjorklund, Mr. Ernst Herbert",male,18.0,0,0,347090,7.75,not_assigned,S,test,Bjorklund,False,False,1,False,1,False,True,False,3
 10498,955,,3,"Bradley, Miss. Bridget Delia",female,22.0,0,0,334914,7.725,not_assigned,Q,test,Bradley,False,False,1,False,1,False,True,True,4
 10507,956,,1,"Ryerson, Master. John Borie",male,13.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,test,Ryerson,False,True,5,True,7,False,False,True,2
-10521,957,,2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,25.029,0,0,F.C.C. 13534,21.0,not_assigned,S,test,Corey,False,False,1,False,2,True,False,False,5
+10521,957,,2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,27.575,0,0,F.C.C. 13534,21.0,not_assigned,S,test,Corey,False,False,1,False,2,True,False,False,5
 10530,958,,3,"Burns, Miss. Mary Delia",female,18.0,0,0,330963,7.8792,not_assigned,Q,test,Burns,False,False,1,False,1,False,True,True,3
 10545,959,,1,"Moore, Mr. Clarence Bloomfield",male,47.0,0,0,113796,42.4,not_assigned,S,test,Moore,False,False,1,False,2,True,False,False,7
 10554,960,,1,"Tucker, Mr. Gilbert Milligan Jr",male,31.0,0,0,2543,28.5375,C53,C,test,Tucker,True,False,1,False,1,False,True,False,5
@@ -966,24 +966,24 @@
 10609,965,,1,"Ovies y Rodriguez, Mr. Servando",male,28.5,0,0,PC 17562,27.7208,D43,C,test,Ovies y Rodriguez,True,False,1,False,1,False,True,False,5
 10620,966,,1,"Geiger, Miss. Amalie",female,35.0,0,0,113503,211.5,C130,C,test,Geiger,True,False,1,False,5,True,False,True,5
 10631,967,,1,"Keeping, Mr. Edwin",male,32.5,0,0,113503,211.5,C132,C,test,Keeping,True,False,1,False,5,True,False,False,5
-10642,968,,3,"Miles, Mr. Frank",male,33.76,0,0,359306,8.05,not_assigned,S,test,Miles,False,False,1,False,1,False,True,False,5
+10642,968,,3,"Miles, Mr. Frank",male,32.04,0,0,359306,8.05,not_assigned,S,test,Miles,False,False,1,False,1,False,True,False,5
 10655,969,,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55.0,2,0,11770,25.7,C101,S,test,Cornell,True,False,1,False,1,False,True,False,7
 10664,970,,2,"Aldworth, Mr. Charles Augustus",male,30.0,0,0,248744,13.0,not_assigned,S,test,Aldworth,False,False,1,False,1,False,True,False,5
 10674,971,,3,"Doyle, Miss. Elizabeth",female,24.0,0,0,368702,7.75,not_assigned,Q,test,Doyle,False,False,1,False,1,False,True,True,4
 10682,972,,3,"Boulos, Master. Akar",male,6.0,1,1,2678,15.2458,not_assigned,C,test,Boulos,False,False,3,True,3,False,False,True,1
 10701,973,,1,"Straus, Mr. Isidor",male,67.0,1,0,PC 17483,221.7792,C55 C57,S,test,Straus,False,True,2,True,4,False,False,False,9
 10710,974,,1,"Case, Mr. Howard Brown",male,49.0,0,0,19924,26.0,not_assigned,S,test,Case,False,False,1,False,1,False,True,False,7
-10719,975,,3,"Demetri, Mr. Marinko",male,28.5,0,0,349238,7.8958,not_assigned,S,test,Demetri,False,False,1,False,1,False,True,False,5
-10731,976,,2,"Lamb, Mr. John Joseph",male,40.025,0,0,240261,10.7083,not_assigned,Q,test,Lamb,False,False,1,False,1,False,True,False,6
-10740,977,,3,"Khalil, Mr. Betros",male,23.97833333333333,1,0,2660,14.4542,not_assigned,C,test,Khalil,False,False,2,True,2,False,False,False,4
+10719,975,,3,"Demetri, Mr. Marinko",male,27.88,0,0,349238,7.8958,not_assigned,S,test,Demetri,False,False,1,False,1,False,True,False,5
+10731,976,,2,"Lamb, Mr. John Joseph",male,40.443000000000005,0,0,240261,10.7083,not_assigned,Q,test,Lamb,False,False,1,False,1,False,True,False,6
+10740,977,,3,"Khalil, Mr. Betros",male,24.53166666666667,1,0,2660,14.4542,not_assigned,C,test,Khalil,False,False,2,True,2,False,False,False,4
 10752,978,,3,"Barry, Miss. Julia",female,27.0,0,0,330844,7.8792,not_assigned,Q,test,Barry,False,False,1,False,1,False,True,True,5
 10761,979,,3,"Badman, Miss. Emily Louisa",female,18.0,0,0,A/4 31416,8.05,not_assigned,S,test,Badman,False,False,1,False,1,False,True,True,3
-10774,980,,3,"O'Donoghue, Ms. Bridget",female,30.385,0,0,364856,7.75,not_assigned,Q,test,O'Donoghue,False,False,1,False,1,False,True,False,5
+10774,980,,3,"O'Donoghue, Ms. Bridget",female,31.52,0,0,364856,7.75,not_assigned,Q,test,O'Donoghue,False,False,1,False,1,False,True,False,5
 10780,981,,2,"Wells, Master. Ralph Lester",male,2.0,1,1,29103,23.0,not_assigned,S,test,Wells,False,False,3,True,3,False,False,True,0
 10795,982,,3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22.0,1,0,347072,13.9,not_assigned,S,test,Dyker,False,False,2,True,2,False,False,False,4
-10807,983,,3,"Pedersen, Mr. Olaf",male,32.26,0,0,345498,7.775,not_assigned,S,test,Pedersen,False,False,1,False,1,False,True,False,5
+10807,983,,3,"Pedersen, Mr. Olaf",male,31.195,0,0,345498,7.775,not_assigned,S,test,Pedersen,False,False,1,False,1,False,True,False,5
 10818,984,,1,"Davidson, Mrs. Thornton (Orian Hays)",female,27.0,1,2,F.C. 12750,52.0,B71,S,test,Davidson,True,False,2,True,2,False,False,False,5
-10829,985,,3,"Guest, Mr. Robert",male,34.455,0,0,376563,8.05,not_assigned,S,test,Guest,False,False,1,False,1,False,True,False,5
+10829,985,,3,"Guest, Mr. Robert",male,33.95,0,0,376563,8.05,not_assigned,S,test,Guest,False,False,1,False,1,False,True,False,5
 10839,986,,1,"Birnbaum, Mr. Jakob",male,25.0,0,0,13905,26.0,not_assigned,C,test,Birnbaum,False,False,1,False,1,False,True,False,4
 10850,987,,3,"Tenglin, Mr. Gunnar Isidor",male,25.0,0,0,350033,7.7958,not_assigned,S,test,Tenglin,False,False,1,False,1,False,True,False,4
 10867,988,,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76.0,1,0,19877,78.85,C46,S,test,Cavendish,True,False,2,True,3,False,False,False,10
@@ -992,38 +992,38 @@
 10895,991,,3,"Nancarrow, Mr. William Henry",male,33.0,0,0,A./5. 3338,8.05,not_assigned,S,test,Nancarrow,False,False,1,False,1,False,True,False,5
 10907,992,,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43.0,1,0,11778,55.4417,C116,C,test,Stengel,True,False,2,True,2,False,False,False,6
 10917,993,,2,"Weisz, Mr. Leopold",male,27.0,1,0,228414,26.0,not_assigned,S,test,Weisz,False,False,2,True,2,False,False,False,5
-10928,994,,3,"Foley, Mr. William",male,28.52,0,0,365235,7.75,not_assigned,Q,test,Foley,False,False,1,False,1,False,True,False,5
+10928,994,,3,"Foley, Mr. William",male,28.195,0,0,365235,7.75,not_assigned,Q,test,Foley,False,False,1,False,1,False,True,False,5
 10939,995,,3,"Johansson Palmquist, Mr. Oskar Leander",male,26.0,0,0,347070,7.775,not_assigned,S,test,Johansson Palmquist,False,False,1,False,1,False,True,False,5
 10948,996,,3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,16.0,1,1,2625,8.5167,not_assigned,C,test,Thomas,False,False,2,True,2,False,False,False,3
 10961,997,,3,"Holthen, Mr. Johan Martin",male,28.0,0,0,C 4001,22.525,not_assigned,S,test,Holthen,False,False,1,False,3,True,False,False,5
 10971,998,,3,"Buckley, Mr. Daniel",male,21.0,0,0,330920,7.8208,not_assigned,Q,test,Buckley,False,False,1,False,1,False,True,False,4
-10983,999,,3,"Ryan, Mr. Edward",male,30.79,0,0,383162,7.75,not_assigned,Q,test,Ryan,False,False,1,False,1,False,True,False,5
-10994,1000,,3,"Willer, Mr. Aaron (Abi Weller"")""",male,31.29,0,0,3410,8.7125,not_assigned,S,test,Willer,False,False,1,False,1,False,True,False,5
+10983,999,,3,"Ryan, Mr. Edward",male,30.91,0,0,383162,7.75,not_assigned,Q,test,Ryan,False,False,1,False,1,False,True,False,5
+10994,1000,,3,"Willer, Mr. Aaron (Abi Weller"")""",male,31.16,0,0,3410,8.7125,not_assigned,S,test,Willer,False,False,1,False,1,False,True,False,5
 11004,1001,,2,"Swane, Mr. George",male,18.5,0,0,248734,13.0,F,S,test,Swane,False,False,1,False,1,False,True,False,4
 11017,1002,,2,"Stanton, Mr. Samuel Ward",male,41.0,0,0,237734,15.0458,not_assigned,C,test,Stanton,False,False,1,False,1,False,True,False,6
-11026,1003,,3,"Shine, Miss. Ellen Natalia",female,19.415,0,0,330968,7.7792,not_assigned,Q,test,Shine,False,False,1,False,1,False,True,True,4
+11026,1003,,3,"Shine, Miss. Ellen Natalia",female,20.57,0,0,330968,7.7792,not_assigned,Q,test,Shine,False,False,1,False,1,False,True,True,4
 11039,1004,,1,"Evans, Miss. Edith Corse",female,36.0,0,0,PC 17531,31.6792,A29,C,test,Evans,True,False,1,False,1,False,True,True,6
 11048,1005,,3,"Buckley, Miss. Katherine",female,18.5,0,0,329944,7.2833,not_assigned,Q,test,Buckley,False,False,1,False,1,False,True,True,4
 11063,1006,,1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63.0,1,0,PC 17483,221.7792,C55 C57,S,test,Straus,False,True,2,True,4,False,False,False,8
 11069,1007,,3,"Chronopoulos, Mr. Demetrios",male,18.0,1,0,2680,14.4542,not_assigned,C,test,Chronopoulos,False,False,2,True,2,False,False,False,3
-11082,1008,,3,"Thomas, Mr. John",male,27.73,0,0,2681,6.4375,not_assigned,C,test,Thomas,False,False,1,False,1,False,True,False,5
+11082,1008,,3,"Thomas, Mr. John",male,27.70833333333333,0,0,2681,6.4375,not_assigned,C,test,Thomas,False,False,1,False,1,False,True,False,5
 11088,1009,,3,"Sandstrom, Miss. Beatrice Irene",female,1.0,1,1,PP 9549,16.7,G6,S,test,Sandstrom,True,False,3,True,3,False,False,True,0
 11105,1010,,1,"Beattie, Mr. Thomson",male,36.0,0,0,13050,75.2417,C6,C,test,Beattie,True,False,1,False,2,True,False,False,6
 11115,1011,,2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29.0,1,0,SC/AH 29037,26.0,not_assigned,S,test,Chapman,False,False,2,True,2,False,False,False,5
 11123,1012,,2,"Watt, Miss. Bertha J",female,12.0,0,0,C.A. 33595,15.75,not_assigned,S,test,Watt,False,False,2,True,2,False,False,True,2
-11137,1013,,3,"Kiernan, Mr. John",male,33.355,1,0,367227,7.75,not_assigned,Q,test,Kiernan,False,False,1,False,1,False,True,False,5
+11137,1013,,3,"Kiernan, Mr. John",male,30.835,1,0,367227,7.75,not_assigned,Q,test,Kiernan,False,False,1,False,1,False,True,False,5
 11148,1014,,1,"Schabert, Mrs. Paul (Emma Mock)",female,35.0,1,0,13236,57.75,C28,C,test,Schabert,True,False,1,False,2,True,False,False,5
 11159,1015,,3,"Carver, Mr. Alfred John",male,28.0,0,0,392095,7.25,not_assigned,S,test,Carver,False,False,1,False,1,False,True,False,5
-11172,1016,,3,"Kennedy, Mr. John",male,48.67,0,0,368783,7.75,not_assigned,Q,test,Kennedy,False,False,1,False,1,False,True,False,7
+11172,1016,,3,"Kennedy, Mr. John",male,50.545,0,0,368783,7.75,not_assigned,Q,test,Kennedy,False,False,1,False,1,False,True,False,7
 11179,1017,,3,"Cribb, Miss. Laura Alice",female,17.0,0,1,371362,16.1,not_assigned,S,test,Cribb,False,False,2,True,2,False,False,True,3
 11191,1018,,3,"Brobeck, Mr. Karl Rudolf",male,22.0,0,0,350045,7.7958,not_assigned,S,test,Brobeck,False,False,1,False,1,False,True,False,4
-11201,1019,,3,"McCoy, Miss. Alicia",female,14.011366666666666,2,0,367226,23.25,not_assigned,Q,test,McCoy,False,False,3,True,3,False,False,True,3
+11200,1019,,3,"McCoy, Miss. Alicia",female,13.253366666666668,2,0,367226,23.25,not_assigned,Q,test,McCoy,False,False,3,True,3,False,False,True,2
 11215,1020,,2,"Bowenur, Mr. Solomon",male,42.0,0,0,211535,13.0,not_assigned,S,test,Bowenur,False,False,1,False,1,False,True,False,6
 11224,1021,,3,"Petersen, Mr. Marius",male,24.0,0,0,342441,8.05,not_assigned,S,test,Petersen,False,False,1,False,1,False,True,False,4
 11236,1022,,3,"Spinner, Mr. Henry John",male,32.0,0,0,STON/OQ. 369943,8.05,not_assigned,S,test,Spinner,False,False,1,False,1,False,True,False,5
 11249,1023,,1,"Gracie, Col. Archibald IV",male,53.0,0,0,113780,28.5,C51,C,test,Gracie,True,False,1,False,1,False,True,False,7
-11259,1024,,3,"Lefebre, Mrs. Frank (Frances)",female,38.54,0,4,4133,25.4667,not_assigned,S,test,Lefebre,False,False,5,True,5,False,False,False,6
-11269,1025,,3,"Thomas, Mr. Charles P",male,28.82,1,0,2621,6.4375,not_assigned,C,test,Thomas,False,False,1,False,1,False,True,False,5
+11259,1024,,3,"Lefebre, Mrs. Frank (Frances)",female,39.345,0,4,4133,25.4667,not_assigned,S,test,Lefebre,False,False,5,True,5,False,False,False,6
+11269,1025,,3,"Thomas, Mr. Charles P",male,26.61,1,0,2621,6.4375,not_assigned,C,test,Thomas,False,False,1,False,1,False,True,False,5
 11281,1026,,3,"Dintcheff, Mr. Valtcho",male,43.0,0,0,349226,7.8958,not_assigned,S,test,Dintcheff,False,False,1,False,1,False,True,False,6
 11290,1027,,3,"Carlsson, Mr. Carl Robert",male,24.0,0,0,350409,7.8542,not_assigned,S,test,Carlsson,False,False,1,False,1,False,True,False,4
 11302,1028,,3,"Zakarian, Mr. Mapriededer",male,26.5,0,0,2656,7.225,not_assigned,C,test,Zakarian,False,False,1,False,1,False,True,False,5
@@ -1036,13 +1036,13 @@
 11379,1035,,2,"Beauchamp, Mr. Henry James",male,28.0,0,0,244358,26.0,not_assigned,S,test,Beauchamp,False,False,1,False,2,True,False,False,5
 11391,1036,,1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,42.0,0,0,17475,26.55,not_assigned,S,test,Lindeberg-Lind,False,False,1,False,1,False,True,False,6
 11401,1037,,3,"Vander Planke, Mr. Julius",male,31.0,3,0,345763,18.0,not_assigned,S,test,Vander Planke,False,False,2,True,2,False,False,False,5
-11414,1038,,1,"Hilliard, Mr. Herbert Henry",male,49.2025,0,0,17463,51.8625,E46,S,test,Hilliard,True,False,1,False,2,True,False,False,7
+11414,1038,,1,"Hilliard, Mr. Herbert Henry",male,51.43,0,0,17463,51.8625,E46,S,test,Hilliard,True,False,1,False,2,True,False,False,7
 11422,1039,,3,"Davies, Mr. Evan",male,22.0,0,0,SC/A4 23568,8.05,not_assigned,S,test,Davies,False,False,1,False,1,False,True,False,4
-11435,1040,,1,"Crafton, Mr. John Bertram",male,41.0,0,0,113791,26.55,not_assigned,S,test,Crafton,False,False,1,False,1,False,True,False,6
+11435,1040,,1,"Crafton, Mr. John Bertram",male,39.06,0,0,113791,26.55,not_assigned,S,test,Crafton,False,False,1,False,1,False,True,False,6
 11445,1041,,2,"Lahtinen, Rev. William",male,30.0,1,1,250651,26.0,not_assigned,S,test,Lahtinen,False,False,2,True,2,False,False,False,5
 11455,1042,,1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23.0,0,1,11767,83.1583,C54,C,test,Earnshaw,True,False,1,False,3,True,False,False,4
-11467,1043,,3,"Matinoff, Mr. Nicola",male,31.285,0,0,349255,7.8958,not_assigned,C,test,Matinoff,False,False,1,False,1,False,True,False,5
-11481,1044,,3,"Storey, Mr. Thomas",male,60.5,0,0,3701,8.353749999999998,not_assigned,S,test,Storey,False,False,1,False,1,False,True,False,8
+11467,1043,,3,"Matinoff, Mr. Nicola",male,31.23,0,0,349255,7.8958,not_assigned,C,test,Matinoff,False,False,1,False,1,False,True,False,5
+11481,1044,,3,"Storey, Mr. Thomas",male,60.5,0,0,3701,8.293249999999997,not_assigned,S,test,Storey,False,False,1,False,1,False,True,False,8
 11490,1045,,3,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36.0,0,2,350405,12.1833,not_assigned,S,test,Klasen,False,False,2,True,2,False,False,False,6
 11497,1046,,3,"Asplund, Master. Filip Oscar",male,13.0,4,2,347077,31.3875,not_assigned,S,test,Asplund,False,False,7,True,7,False,False,True,2
 11510,1047,,3,"Duquemin, Mr. Joseph",male,24.0,0,0,S.O./P.P. 752,7.55,not_assigned,S,test,Duquemin,False,False,1,False,1,False,True,False,4
@@ -1050,20 +1050,20 @@
 11532,1049,,3,"Lundin, Miss. Olga Elida",female,23.0,0,0,347469,7.8542,not_assigned,S,test,Lundin,False,False,1,False,1,False,True,True,4
 11545,1050,,1,"Borebank, Mr. John James",male,42.0,0,0,110489,26.55,D22,S,test,Borebank,True,False,1,False,1,False,True,False,6
 11555,1051,,3,"Peacock, Mrs. Benjamin (Edith Nile)",female,26.0,0,2,SOTON/O.Q. 3101315,13.775,not_assigned,S,test,Peacock,False,False,3,True,3,False,False,False,5
-11565,1052,,3,"Smyth, Miss. Julia",female,21.965,0,0,335432,7.7333,not_assigned,Q,test,Smyth,False,False,1,False,1,False,True,True,4
+11565,1052,,3,"Smyth, Miss. Julia",female,21.475,0,0,335432,7.7333,not_assigned,Q,test,Smyth,False,False,1,False,1,False,True,True,4
 11573,1053,,3,"Touma, Master. Georges Youssef",male,7.0,1,1,2650,15.2458,not_assigned,C,test,Touma,False,False,3,True,3,False,False,True,1
 11588,1054,,2,"Wright, Miss. Marion",female,26.0,0,0,220844,13.5,not_assigned,S,test,Wright,False,False,1,False,1,False,True,True,5
-11600,1055,,3,"Pearce, Mr. Ernest",male,41.645,0,0,343271,7.0,not_assigned,S,test,Pearce,False,False,1,False,1,False,True,False,6
+11600,1055,,3,"Pearce, Mr. Ernest",male,41.555,0,0,343271,7.0,not_assigned,S,test,Pearce,False,False,1,False,1,False,True,False,6
 11611,1056,,2,"Peruschitz, Rev. Joseph Maria",male,41.0,0,0,237393,13.0,not_assigned,S,test,Peruschitz,False,False,1,False,1,False,True,False,6
 11621,1057,,3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26.0,1,1,315153,22.025,not_assigned,S,test,Kink-Heilmann,False,False,3,True,3,False,False,False,5
 11634,1058,,1,"Brandeis, Mr. Emil",male,48.0,0,0,PC 17591,50.4958,B10,C,test,Brandeis,True,False,1,False,1,False,True,False,7
 11641,1059,,3,"Ford, Mr. Edward Watson",male,18.0,2,2,W./C. 6608,34.375,not_assigned,S,test,Ford,False,False,5,True,5,False,False,False,3
-11655,1060,,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,43.325,0,0,17770,27.7208,not_assigned,C,test,Cassebeer,False,False,1,False,1,False,True,False,6
+11655,1060,,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,43.025,0,0,17770,27.7208,not_assigned,C,test,Cassebeer,False,False,1,False,1,False,True,False,6
 11664,1061,,3,"Hellstrom, Miss. Hilda Maria",female,22.0,0,0,7548,8.9625,not_assigned,S,test,Hellstrom,False,False,1,False,1,False,True,True,4
-11676,1062,,3,"Lithman, Mr. Simon",male,29.45,0,0,S.O./P.P. 251,7.55,not_assigned,S,test,Lithman,False,False,1,False,1,False,True,False,5
+11676,1062,,3,"Lithman, Mr. Simon",male,28.805,0,0,S.O./P.P. 251,7.55,not_assigned,S,test,Lithman,False,False,1,False,1,False,True,False,5
 11687,1063,,3,"Zakarian, Mr. Ortin",male,27.0,0,0,2670,7.225,not_assigned,C,test,Zakarian,False,False,1,False,1,False,True,False,5
 11697,1064,,3,"Dyker, Mr. Adolf Fredrik",male,23.0,1,0,347072,13.9,not_assigned,S,test,Dyker,False,False,2,True,2,False,False,False,4
-11708,1065,,3,"Torfa, Mr. Assad",male,23.375,0,0,2673,7.2292,not_assigned,C,test,Torfa,False,False,1,False,1,False,True,False,4
+11708,1065,,3,"Torfa, Mr. Assad",male,23.41666666666667,0,0,2673,7.2292,not_assigned,C,test,Torfa,False,False,1,False,1,False,True,False,4
 11721,1066,,3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40.0,1,5,347077,31.3875,not_assigned,S,test,Asplund,False,False,7,True,7,False,False,False,6
 11729,1067,,2,"Brown, Miss. Edith Eileen",female,15.0,0,2,29750,39.0,not_assigned,S,test,Brown,False,False,3,True,3,False,False,True,3
 11741,1068,,2,"Sincock, Miss. Maude",female,20.0,0,0,C.A. 33112,36.75,not_assigned,S,test,Sincock,False,False,1,False,4,True,False,True,4
@@ -1073,15 +1073,15 @@
 11786,1072,,2,"McCrie, Mr. James Matthew",male,30.0,0,0,233478,13.0,not_assigned,S,test,McCrie,False,False,1,False,1,False,True,False,5
 11798,1073,,1,"Compton, Mr. Alexander Taylor Jr",male,37.0,1,1,PC 17756,83.1583,E52,C,test,Compton,True,False,3,True,3,False,False,False,6
 11806,1074,,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18.0,1,0,113773,53.1,D30,S,test,Marvin,True,False,2,True,2,False,False,False,3
-11819,1075,,3,"Lane, Mr. Patrick",male,32.335,0,0,7935,7.75,not_assigned,Q,test,Lane,False,False,1,False,1,False,True,False,5
+11819,1075,,3,"Lane, Mr. Patrick",male,31.865,0,0,7935,7.75,not_assigned,Q,test,Lane,False,False,1,False,1,False,True,False,5
 11830,1076,,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27.0,1,1,PC 17558,247.5208,B58 B60,C,test,Douglas,False,True,1,False,3,True,False,False,5
 11842,1077,,2,"Maybery, Mr. Frank Hubert",male,40.0,0,0,239059,16.0,not_assigned,S,test,Maybery,False,False,1,False,1,False,True,False,6
 11851,1078,,2,"Phillips, Miss. Alice Frances Louisa",female,21.0,0,1,S.O./P.P. 2,21.0,not_assigned,S,test,Phillips,False,False,2,True,2,False,False,True,4
 11861,1079,,3,"Davies, Mr. Joseph",male,17.0,2,0,A/4 48873,8.05,not_assigned,S,test,Davies,False,False,1,False,1,False,True,False,3
-11873,1080,,3,"Sage, Miss. Ada",female,20.91666666666667,8,2,CA. 2343,69.55,not_assigned,S,test,Sage,False,False,11,True,11,False,False,True,4
+11873,1080,,3,"Sage, Miss. Ada",female,21.045,8,2,CA. 2343,69.55,not_assigned,S,test,Sage,False,False,11,True,11,False,False,True,4
 11886,1081,,2,"Veal, Mr. James",male,40.0,0,0,28221,13.0,not_assigned,S,test,Veal,False,False,1,False,1,False,True,False,6
 11896,1082,,2,"Angle, Mr. William A",male,34.0,1,0,226875,26.0,not_assigned,S,test,Angle,False,False,2,True,2,False,False,False,5
-11908,1083,,1,"Salomon, Mr. Abraham L",male,42.49,0,0,111163,26.0,not_assigned,S,test,Salomon,False,False,1,False,1,False,True,False,6
+11908,1083,,1,"Salomon, Mr. Abraham L",male,43.02,0,0,111163,26.0,not_assigned,S,test,Salomon,False,False,1,False,1,False,True,False,6
 11915,1084,,3,"van Billiard, Master. Walter John",male,11.5,1,1,A/5. 851,14.5,not_assigned,S,test,van Billiard,False,False,3,True,3,False,False,True,2
 11932,1085,,2,"Lingane, Mr. John",male,61.0,0,0,235509,12.35,not_assigned,Q,test,Lingane,False,False,1,False,1,False,True,False,8
 11937,1086,,2,"Drew, Master. Marshall Brines",male,8.0,0,2,28220,32.5,not_assigned,S,test,Drew,False,False,3,True,3,False,False,True,2
@@ -1089,41 +1089,41 @@
 11958,1088,,1,"Spedden, Master. Robert Douglas",male,6.0,0,2,16966,134.5,E34,C,test,Spedden,True,False,3,True,5,False,False,True,1
 11971,1089,,3,"Nilsson, Miss. Berta Olivia",female,18.0,0,0,347066,7.775,not_assigned,S,test,Nilsson,False,False,1,False,1,False,True,True,3
 11983,1090,,2,"Baimbrigge, Mr. Charles Robert",male,23.0,0,0,C.A. 31030,10.5,not_assigned,S,test,Baimbrigge,False,False,1,False,1,False,True,False,4
-11996,1091,,3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,36.695,0,0,65305,8.1125,not_assigned,S,test,Rasmussen,False,False,1,False,1,False,True,False,6
-12005,1092,,3,"Murphy, Miss. Nora",female,20.028333333333336,0,0,36568,15.5,not_assigned,Q,test,Murphy,False,False,1,False,2,True,False,True,4
+11996,1091,,3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,36.685,0,0,65305,8.1125,not_assigned,S,test,Rasmussen,False,False,1,False,1,False,True,False,6
+12005,1092,,3,"Murphy, Miss. Nora",female,19.53833333333333,0,0,36568,15.5,not_assigned,Q,test,Murphy,False,False,1,False,2,True,False,True,4
 12012,1093,,3,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.33,0,2,347080,14.4,not_assigned,S,test,Danbom,False,False,3,True,3,False,False,True,0
 12030,1094,,1,"Astor, Col. John Jacob",male,47.0,1,0,PC 17757,227.525,C62 C64,C,test,Astor,False,True,2,True,5,False,False,False,7
 12036,1095,,2,"Quick, Miss. Winifred Vera",female,8.0,1,1,26360,26.0,not_assigned,S,test,Quick,False,False,3,True,3,False,False,True,2
 12049,1096,,2,"Andrew, Mr. Frank Thomas",male,25.0,0,0,C.A. 34050,10.5,not_assigned,S,test,Andrew,False,False,1,False,1,False,True,False,4
-12062,1097,,1,"Omont, Mr. Alfred Fernand",male,35.555,0,0,F.C. 12998,25.7417,not_assigned,C,test,Omont,False,False,1,False,1,False,True,False,6
+12062,1097,,1,"Omont, Mr. Alfred Fernand",male,36.995,0,0,F.C. 12998,25.7417,not_assigned,C,test,Omont,False,False,1,False,1,False,True,False,6
 12072,1098,,3,"McGowan, Miss. Katherine",female,35.0,0,0,9232,7.75,not_assigned,Q,test,McGowan,False,False,1,False,1,False,True,True,5
 12082,1099,,2,"Collett, Mr. Sidney C Stuart",male,24.0,0,0,28034,10.5,not_assigned,S,test,Collett,False,False,1,False,1,False,True,False,4
 12094,1100,,1,"Rosenbaum, Miss. Edith Louise",female,33.0,0,0,PC 17613,27.7208,A11,C,test,Rosenbaum,True,False,1,False,1,False,True,True,5
 12104,1101,,3,"Delalic, Mr. Redjo",male,25.0,0,0,349250,7.8958,not_assigned,S,test,Delalic,False,False,1,False,1,False,True,False,4
 12116,1102,,3,"Andersen, Mr. Albert Karvin",male,32.0,0,0,C 4001,22.525,not_assigned,S,test,Andersen,False,False,1,False,3,True,False,False,5
-12126,1103,,3,"Finoli, Mr. Luigi",male,23.635,0,0,SOTON/O.Q. 3101308,7.05,not_assigned,S,test,Finoli,False,False,1,False,1,False,True,False,4
+12126,1103,,3,"Finoli, Mr. Luigi",male,23.54,0,0,SOTON/O.Q. 3101308,7.05,not_assigned,S,test,Finoli,False,False,1,False,1,False,True,False,4
 12136,1104,,2,"Deacon, Mr. Percy William",male,17.0,0,0,S.O.C. 14879,73.5,not_assigned,S,test,Deacon,False,False,1,False,7,True,False,False,3
 12152,1105,,2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60.0,1,0,24065,26.0,not_assigned,S,test,Howard,False,False,2,True,2,False,False,False,8
 12161,1106,,3,"Andersson, Miss. Ida Augusta Margareta",female,38.0,4,2,347091,7.775,not_assigned,S,test,Andersson,False,False,1,False,1,False,True,True,6
 12172,1107,,1,"Head, Mr. Christopher",male,42.0,0,0,113038,42.5,B11,S,test,Head,True,False,1,False,1,False,True,False,6
-12181,1108,,3,"Mahon, Miss. Bridget Delia",female,18.285,0,0,330924,7.8792,not_assigned,Q,test,Mahon,False,False,1,False,1,False,True,True,4
+12181,1108,,3,"Mahon, Miss. Bridget Delia",female,18.59,0,0,330924,7.8792,not_assigned,Q,test,Mahon,False,False,1,False,1,False,True,True,4
 12196,1109,,1,"Wick, Mr. George Dennick",male,57.0,1,1,36928,164.8667,not_assigned,S,test,Wick,False,False,3,True,4,False,False,False,8
 12206,1110,,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50.0,1,1,113503,211.5,C80,C,test,Widener,True,False,3,True,5,False,False,False,7
-12214,1111,,3,"Thomson, Mr. Alexander Morrison",male,22.56,0,0,32302,8.05,not_assigned,S,test,Thomson,False,False,1,False,1,False,True,False,4
+12214,1111,,3,"Thomson, Mr. Alexander Morrison",male,22.535,0,0,32302,8.05,not_assigned,S,test,Thomson,False,False,1,False,1,False,True,False,4
 12226,1112,,2,"Duran y More, Miss. Florentina",female,30.0,1,0,SC/PARIS 2148,13.8583,not_assigned,C,test,Duran y More,False,False,1,False,1,False,True,True,5
 12236,1113,,3,"Reynolds, Mr. Harold J",male,21.0,0,0,342684,8.05,not_assigned,S,test,Reynolds,False,False,1,False,1,False,True,False,4
 12247,1114,,2,"Cook, Mrs. (Selena Rogers)",female,22.0,0,0,W./C. 14266,10.5,F33,S,test,Cook,True,False,1,False,1,False,True,False,4
 12258,1115,,3,"Karlsson, Mr. Einar Gervasius",male,21.0,0,0,350053,7.7958,not_assigned,S,test,Karlsson,False,False,1,False,1,False,True,False,4
 12272,1116,,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53.0,0,0,PC 17606,27.4458,not_assigned,C,test,Candee,False,False,1,False,1,False,True,False,7
-12281,1117,,3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,25.24,0,2,2661,15.2458,not_assigned,C,test,Moubarek,False,False,3,True,3,False,False,False,5
+12281,1117,,3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,26.25,0,2,2661,15.2458,not_assigned,C,test,Moubarek,False,False,3,True,3,False,False,False,5
 12291,1118,,3,"Asplund, Mr. Johan Charles",male,23.0,0,0,350054,7.7958,not_assigned,S,test,Asplund,False,False,1,False,1,False,True,False,4
-12302,1119,,3,"McNeill, Miss. Bridget",female,23.875,0,0,370368,7.75,not_assigned,Q,test,McNeill,False,False,1,False,1,False,True,True,4
+12302,1119,,3,"McNeill, Miss. Bridget",female,23.07,0,0,370368,7.75,not_assigned,Q,test,McNeill,False,False,1,False,1,False,True,True,4
 12315,1120,,3,"Everett, Mr. Thomas James",male,40.5,0,0,C.A. 6212,15.1,not_assigned,S,test,Everett,False,False,1,False,2,True,False,False,6
 12326,1121,,2,"Hocking, Mr. Samuel James Metcalfe",male,36.0,0,0,242963,13.0,not_assigned,S,test,Hocking,False,False,1,False,1,False,True,False,6
 12333,1122,,2,"Sweet, Mr. George Frederick",male,14.0,0,0,220845,65.0,not_assigned,S,test,Sweet,False,False,1,False,5,True,False,False,2
 12346,1123,,1,"Willard, Miss. Constance",female,21.0,0,0,113795,26.55,not_assigned,S,test,Willard,False,False,1,False,1,False,True,True,4
 12357,1124,,3,"Wiklund, Mr. Karl Johan",male,21.0,1,0,3101266,6.4958,not_assigned,S,test,Wiklund,False,False,1,False,1,False,True,False,4
-12369,1125,,3,"Linehan, Mr. Michael",male,29.65,0,0,330971,7.8792,not_assigned,Q,test,Linehan,False,False,1,False,1,False,True,False,5
+12369,1125,,3,"Linehan, Mr. Michael",male,28.8,0,0,330971,7.8792,not_assigned,Q,test,Linehan,False,False,1,False,1,False,True,False,5
 12381,1126,,1,"Cumings, Mr. John Bradley",male,39.0,1,0,PC 17599,71.2833,C85,C,test,Cumings,True,False,2,True,2,False,False,False,6
 12390,1127,,3,"Vendel, Mr. Olof Edvin",male,20.0,0,0,350416,7.8542,not_assigned,S,test,Vendel,False,False,1,False,1,False,True,False,4
 12405,1128,,1,"Warren, Mr. Frank Manley",male,64.0,1,0,110813,75.25,D37,C,test,Warren,True,False,2,True,2,False,False,False,8
@@ -1133,20 +1133,20 @@
 12448,1132,,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55.0,0,0,112377,27.7208,not_assigned,C,test,Lindstrom,False,False,1,False,1,False,True,False,7
 12458,1133,,2,"Christy, Mrs. (Alice Frances)",female,45.0,0,2,237789,30.0,not_assigned,S,test,Christy,False,False,2,True,2,False,False,False,6
 12469,1134,,1,"Spedden, Mr. Frederic Oakley",male,45.0,1,1,16966,134.5,E34,C,test,Spedden,True,False,3,True,5,False,False,False,6
-12480,1135,,3,"Hyman, Mr. Abraham",male,39.47,0,0,3470,7.8875,not_assigned,S,test,Hyman,False,False,1,False,1,False,True,False,6
-12487,1136,,3,"Johnston, Master. William Arthur Willie""""",male,9.927028571428572,1,2,W./C. 6607,23.45,not_assigned,S,test,Johnston,False,False,4,True,4,False,False,True,2
+12480,1135,,3,"Hyman, Mr. Abraham",male,37.75,0,0,3470,7.8875,not_assigned,S,test,Hyman,False,False,1,False,1,False,True,False,6
+12487,1136,,3,"Johnston, Master. William Arthur Willie""""",male,9.71318,1,2,W./C. 6607,23.45,not_assigned,S,test,Johnston,False,False,4,True,4,False,False,True,2
 12502,1137,,1,"Kenyon, Mr. Frederick R",male,41.0,1,0,17464,51.8625,D21,S,test,Kenyon,True,False,2,True,2,False,False,False,6
 12511,1138,,2,"Karnes, Mrs. J Frank (Claire Bennett)",female,22.0,0,0,F.C.C. 13534,21.0,not_assigned,S,test,Karnes,False,False,1,False,2,True,False,False,4
 12524,1139,,2,"Drew, Mr. James Vivian",male,42.0,1,1,28220,32.5,not_assigned,S,test,Drew,False,False,3,True,3,False,False,False,6
 12534,1140,,2,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29.0,1,0,26707,26.0,not_assigned,S,test,Hold,False,False,2,True,2,False,False,False,5
-12544,1141,,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,19.46,1,0,2660,14.4542,not_assigned,C,test,Khalil,False,False,2,True,2,False,False,False,4
+12544,1141,,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,18.523333333333333,1,0,2660,14.4542,not_assigned,C,test,Khalil,False,False,2,True,2,False,False,False,4
 12551,1142,,2,"West, Miss. Barbara J",female,0.92,1,2,C.A. 34651,27.75,not_assigned,S,test,West,False,False,4,True,4,False,False,True,0
 12566,1143,,3,"Abrahamsson, Mr. Abraham August Johannes",male,20.0,0,0,SOTON/O2 3101284,7.925,not_assigned,S,test,Abrahamsson,False,False,1,False,1,False,True,False,4
 12578,1144,,1,"Clark, Mr. Walter Miller",male,27.0,1,0,13508,136.7792,C89,C,test,Clark,True,False,2,True,2,False,False,False,5
 12588,1145,,3,"Salander, Mr. Karl Johan",male,24.0,0,0,7266,9.325,not_assigned,S,test,Salander,False,False,1,False,1,False,True,False,4
 12600,1146,,3,"Wenzel, Mr. Linhart",male,32.5,0,0,345775,9.5,not_assigned,S,test,Wenzel,False,False,1,False,1,False,True,False,5
-12612,1147,,3,"MacKay, Mr. George William",male,36.895,0,0,C.A. 42795,7.55,not_assigned,S,test,MacKay,False,False,1,False,1,False,True,False,6
-12622,1148,,3,"Mahon, Mr. John",male,27.245,0,0,AQ/4 3130,7.75,not_assigned,Q,test,Mahon,False,False,1,False,1,False,True,False,5
+12612,1147,,3,"MacKay, Mr. George William",male,37.0975,0,0,C.A. 42795,7.55,not_assigned,S,test,MacKay,False,False,1,False,1,False,True,False,6
+12622,1148,,3,"Mahon, Mr. John",male,27.38,0,0,AQ/4 3130,7.75,not_assigned,Q,test,Mahon,False,False,1,False,1,False,True,False,5
 12633,1149,,3,"Niklasson, Mr. Samuel",male,28.0,0,0,363611,8.05,not_assigned,S,test,Niklasson,False,False,1,False,1,False,True,False,5
 12643,1150,,2,"Bentham, Miss. Lilian W",female,19.0,0,0,28404,13.0,not_assigned,S,test,Bentham,False,False,1,False,1,False,True,True,4
 12654,1151,,3,"Midtsjo, Mr. Karl Albert",male,21.0,0,0,345501,7.775,not_assigned,S,test,Midtsjo,False,False,1,False,1,False,True,False,4
@@ -1155,16 +1155,16 @@
 12688,1154,,2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,29.0,0,2,29103,23.0,not_assigned,S,test,Wells,False,False,3,True,3,False,False,False,5
 12694,1155,,3,"Klasen, Miss. Gertrud Emilia",female,1.0,1,1,350405,12.1833,not_assigned,S,test,Klasen,False,False,2,True,2,False,False,True,0
 12710,1156,,2,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30.0,0,0,C.A. 34644,12.7375,not_assigned,C,test,Portaluppi,False,False,1,False,1,False,True,False,5
-12720,1157,,3,"Lyntakoff, Mr. Stanko",male,22.81,0,0,349235,7.8958,not_assigned,S,test,Lyntakoff,False,False,1,False,1,False,True,False,4
-12733,1158,,1,"Chisholm, Mr. Roderick Robert Crispin",male,42.92,0,0,112051,0.0,not_assigned,S,test,Chisholm,False,False,1,False,1,False,True,False,6
-12744,1159,,3,"Warren, Mr. Charles William",male,37.075,0,0,C.A. 49867,7.55,not_assigned,S,test,Warren,False,False,1,False,1,False,True,False,6
-12753,1160,,3,"Howard, Miss. May Elizabeth",female,22.33,0,0,A. 2. 39186,8.05,not_assigned,S,test,Howard,False,False,1,False,1,False,True,True,4
+12720,1157,,3,"Lyntakoff, Mr. Stanko",male,22.44,0,0,349235,7.8958,not_assigned,S,test,Lyntakoff,False,False,1,False,1,False,True,False,4
+12733,1158,,1,"Chisholm, Mr. Roderick Robert Crispin",male,43.55,0,0,112051,0.0,not_assigned,S,test,Chisholm,False,False,1,False,1,False,True,False,6
+12744,1159,,3,"Warren, Mr. Charles William",male,37.2775,0,0,C.A. 49867,7.55,not_assigned,S,test,Warren,False,False,1,False,1,False,True,False,6
+12753,1160,,3,"Howard, Miss. May Elizabeth",female,21.61,0,0,A. 2. 39186,8.05,not_assigned,S,test,Howard,False,False,1,False,1,False,True,True,4
 12763,1161,,3,"Pokrnic, Mr. Mate",male,17.0,0,0,315095,8.6625,not_assigned,S,test,Pokrnic,False,False,1,False,1,False,True,False,3
 12778,1162,,1,"McCaffry, Mr. Thomas Francis",male,46.0,0,0,13050,75.2417,C6,C,test,McCaffry,True,False,1,False,2,True,False,False,7
-12788,1163,,3,"Fox, Mr. Patrick",male,40.06,0,0,368573,7.75,not_assigned,Q,test,Fox,False,False,1,False,1,False,True,False,6
+12788,1163,,3,"Fox, Mr. Patrick",male,40.625,0,0,368573,7.75,not_assigned,Q,test,Fox,False,False,1,False,1,False,True,False,6
 12798,1164,,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26.0,1,0,13508,136.7792,C89,C,test,Clark,True,False,2,True,2,False,False,False,5
-12807,1165,,3,"Lennon, Miss. Mary",female,17.096666666666668,1,0,370371,15.5,not_assigned,Q,test,Lennon,False,False,2,True,2,False,False,True,3
-12819,1166,,3,"Saade, Mr. Jean Nassr",male,21.895,0,0,2676,7.225,not_assigned,C,test,Saade,False,False,1,False,1,False,True,False,4
+12807,1165,,3,"Lennon, Miss. Mary",female,15.008333333333333,1,0,370371,15.5,not_assigned,Q,test,Lennon,False,False,2,True,2,False,False,True,3
+12819,1166,,3,"Saade, Mr. Jean Nassr",male,21.835,0,0,2676,7.225,not_assigned,C,test,Saade,False,False,1,False,1,False,True,False,4
 12830,1167,,2,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,20.0,1,0,236853,26.0,not_assigned,S,test,Bryhl,False,False,2,True,2,False,False,True,4
 12842,1168,,2,"Parker, Mr. Clifford Richard",male,28.0,0,0,SC 14888,10.5,not_assigned,S,test,Parker,False,False,1,False,1,False,True,False,5
 12854,1169,,2,"Faunthorpe, Mr. Harry",male,40.0,1,0,2926,26.0,not_assigned,S,test,Faunthorpe,False,False,2,True,2,False,False,False,6
@@ -1172,29 +1172,29 @@
 12874,1171,,2,"Oxenham, Mr. Percy Thomas",male,22.0,0,0,W./C. 14260,10.5,not_assigned,S,test,Oxenham,False,False,1,False,1,False,True,False,4
 12885,1172,,3,"Oreskovic, Miss. Jelka",female,23.0,0,0,315085,8.6625,not_assigned,S,test,Oreskovic,False,False,1,False,1,False,True,True,4
 12892,1173,,3,"Peacock, Master. Alfred Edward",male,0.75,1,1,SOTON/O.Q. 3101315,13.775,not_assigned,S,test,Peacock,False,False,3,True,3,False,False,True,0
-12908,1174,,3,"Fleming, Miss. Honora",female,26.21,0,0,364859,7.75,not_assigned,Q,test,Fleming,False,False,1,False,1,False,True,True,5
+12908,1174,,3,"Fleming, Miss. Honora",female,26.265,0,0,364859,7.75,not_assigned,Q,test,Fleming,False,False,1,False,1,False,True,True,5
 12916,1175,,3,"Touma, Miss. Maria Youssef",female,9.0,1,1,2650,15.2458,not_assigned,C,test,Touma,False,False,3,True,3,False,False,True,2
 12925,1176,,3,"Rosblom, Miss. Salli Helena",female,2.0,1,1,370129,20.2125,not_assigned,S,test,Rosblom,False,False,3,True,3,False,False,True,0
 12942,1177,,3,"Dennis, Mr. William",male,36.0,0,0,A/5 21175,7.25,not_assigned,S,test,Dennis,False,False,1,False,1,False,True,False,6
-12952,1178,,3,"Franklin, Mr. Charles (Charles Fardon)",male,29.245,0,0,SOTON/O.Q. 3101314,7.25,not_assigned,S,test,Franklin,False,False,1,False,1,False,True,False,5
+12952,1178,,3,"Franklin, Mr. Charles (Charles Fardon)",male,28.835,0,0,SOTON/O.Q. 3101314,7.25,not_assigned,S,test,Franklin,False,False,1,False,1,False,True,False,5
 12962,1179,,1,"Snyder, Mr. John Pillsbury",male,24.0,1,0,21228,82.2667,B45,S,test,Snyder,True,False,2,True,2,False,False,False,4
-12973,1180,,3,"Mardirosian, Mr. Sarkis",male,24.655,0,0,2655,7.2292,F E46,C,test,Mardirosian,False,True,1,False,1,False,True,False,4
-12984,1181,,3,"Ford, Mr. Arthur",male,18.56,0,0,A/5 1478,8.05,not_assigned,S,test,Ford,False,False,1,False,1,False,True,False,4
-12998,1182,,1,"Rheims, Mr. George Alexander Lucien",male,52.24,0,0,PC 17607,39.6,not_assigned,S,test,Rheims,False,False,1,False,1,False,True,False,7
+12973,1180,,3,"Mardirosian, Mr. Sarkis",male,24.63,0,0,2655,7.2292,F E46,C,test,Mardirosian,False,True,1,False,1,False,True,False,4
+12984,1181,,3,"Ford, Mr. Arthur",male,19.67,0,0,A/5 1478,8.05,not_assigned,S,test,Ford,False,False,1,False,1,False,True,False,4
+12998,1182,,1,"Rheims, Mr. George Alexander Lucien",male,54.615,0,0,PC 17607,39.6,not_assigned,S,test,Rheims,False,False,1,False,1,False,True,False,7
 13007,1183,,3,"Daly, Miss. Margaret Marcella Maggie""""",female,30.0,0,0,382650,6.95,not_assigned,Q,test,Daly,False,False,1,False,1,False,True,True,5
-13017,1184,,3,"Nasr, Mr. Mustafa",male,22.72,0,0,2652,7.2292,not_assigned,C,test,Nasr,False,False,1,False,1,False,True,False,4
+13017,1184,,3,"Nasr, Mr. Mustafa",male,23.835,0,0,2652,7.2292,not_assigned,C,test,Nasr,False,False,1,False,1,False,True,False,4
 13031,1185,,1,"Dodge, Dr. Washington",male,53.0,1,1,33638,81.8583,A34,S,test,Dodge,True,False,3,True,3,False,False,False,7
 13041,1186,,3,"Wittevrongel, Mr. Camille",male,36.0,0,0,345771,9.5,not_assigned,S,test,Wittevrongel,False,False,1,False,1,False,True,False,6
 13051,1187,,3,"Angheloff, Mr. Minko",male,26.0,0,0,349202,7.8958,not_assigned,S,test,Angheloff,False,False,1,False,1,False,True,False,5
 13057,1188,,2,"Laroche, Miss. Louise",female,1.0,1,2,SC/Paris 2123,41.5792,not_assigned,C,test,Laroche,False,False,4,True,4,False,False,True,0
-13072,1189,,3,"Samaan, Mr. Hanna",male,24.947000000000003,2,0,2662,21.6792,not_assigned,C,test,Samaan,False,False,3,True,3,False,False,False,4
+13073,1189,,3,"Samaan, Mr. Hanna",male,25.50671428571429,2,0,2662,21.6792,not_assigned,C,test,Samaan,False,False,3,True,3,False,False,False,5
 13084,1190,,1,"Loring, Mr. Joseph Holland",male,30.0,0,0,113801,45.5,not_assigned,S,test,Loring,False,False,1,False,1,False,True,False,5
 13095,1191,,3,"Johansson, Mr. Nils",male,29.0,0,0,347467,7.8542,not_assigned,S,test,Johansson,False,False,1,False,1,False,True,False,5
 13106,1192,,3,"Olsson, Mr. Oscar Wilhelm",male,32.0,0,0,347079,7.775,not_assigned,S,test,Olsson,False,False,1,False,1,False,True,False,5
-13118,1193,,2,"Malachard, Mr. Noel",male,36.335,0,0,237735,15.0458,D,C,test,Malachard,False,False,1,False,1,False,True,False,6
+13118,1193,,2,"Malachard, Mr. Noel",male,38.485,0,0,237735,15.0458,D,C,test,Malachard,False,False,1,False,1,False,True,False,6
 13129,1194,,2,"Phillips, Mr. Escott Robert",male,43.0,0,1,S.O./P.P. 2,21.0,not_assigned,S,test,Phillips,False,False,2,True,2,False,False,False,6
 13138,1195,,3,"Pokrnic, Mr. Tome",male,24.0,0,0,315092,8.6625,not_assigned,S,test,Pokrnic,False,False,1,False,1,False,True,False,4
-13149,1196,,3,"McCarthy, Miss. Catherine Katie""""",female,24.58,0,0,383123,7.75,not_assigned,Q,test,McCarthy,False,False,1,False,1,False,True,True,4
+13150,1196,,3,"McCarthy, Miss. Catherine Katie""""",female,25.03,0,0,383123,7.75,not_assigned,Q,test,McCarthy,False,False,1,False,1,False,True,True,5
 13164,1197,,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64.0,1,1,112901,26.55,B26,S,test,Crosby,True,False,1,False,1,False,True,False,8
 13172,1198,,1,"Allison, Mr. Hudson Joshua Creighton",male,30.0,1,2,113781,151.55,C22 C26,S,test,Allison,False,True,4,True,6,False,False,False,5
 13178,1199,,3,"Aks, Master. Philip Frank",male,0.83,0,1,392091,9.35,not_assigned,S,test,Aks,False,False,2,True,2,False,False,True,0
@@ -1202,7 +1202,7 @@
 13206,1201,,3,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45.0,1,0,350026,14.1083,not_assigned,S,test,Hansen,False,False,2,True,2,False,False,False,6
 13214,1202,,3,"Cacic, Mr. Jego Grga",male,18.0,0,0,315091,8.6625,not_assigned,S,test,Cacic,False,False,1,False,1,False,True,False,3
 13226,1203,,3,"Vartanian, Mr. David",male,22.0,0,0,2658,7.225,not_assigned,C,test,Vartanian,False,False,1,False,1,False,True,False,4
-13238,1204,,3,"Sadowitz, Mr. Harry",male,34.825,0,0,LP 1588,7.575,not_assigned,S,test,Sadowitz,False,False,1,False,1,False,True,False,5
+13238,1204,,3,"Sadowitz, Mr. Harry",male,33.26166666666667,0,0,LP 1588,7.575,not_assigned,S,test,Sadowitz,False,False,1,False,1,False,True,False,5
 13250,1205,,3,"Carr, Miss. Jeannie",female,37.0,0,0,368364,7.75,not_assigned,Q,test,Carr,False,False,1,False,1,False,True,True,6
 13262,1206,,1,"White, Mrs. John Stuart (Ella Holmes)",female,55.0,0,0,PC 17760,135.6333,C32,C,test,White,True,False,1,False,3,True,False,False,7
 13269,1207,,3,"Hagardon, Miss. Kate",female,17.0,0,0,AQ/3. 30631,7.7333,not_assigned,Q,test,Hagardon,False,False,1,False,1,False,True,True,3
@@ -1222,19 +1222,19 @@
 13424,1221,,2,"Enander, Mr. Ingvar",male,21.0,0,0,236854,13.0,not_assigned,S,test,Enander,False,False,1,False,1,False,True,False,4
 13438,1222,,2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48.0,0,2,C.A. 33112,36.75,not_assigned,S,test,Davies,False,False,2,True,4,False,False,False,7
 13448,1223,,1,"Dulles, Mr. William Crothers",male,39.0,0,0,PC 17580,29.7,A18,C,test,Dulles,True,False,1,False,1,False,True,False,6
-13458,1224,,3,"Thomas, Mr. Tannous",male,26.25,0,0,2684,7.225,not_assigned,C,test,Thomas,False,False,1,False,1,False,True,False,5
+13458,1224,,3,"Thomas, Mr. Tannous",male,25.5,0,0,2684,7.225,not_assigned,C,test,Thomas,False,False,1,False,1,False,True,False,5
 13468,1225,,3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,19.0,1,1,2653,15.7417,not_assigned,C,test,Nakid,False,False,3,True,3,False,False,False,4
 13480,1226,,3,"Cor, Mr. Ivan",male,27.0,0,0,349229,7.8958,not_assigned,S,test,Cor,False,False,1,False,1,False,True,False,5
 13491,1227,,1,"Maguire, Mr. John Edward",male,30.0,0,0,110469,26.0,C106,S,test,Maguire,True,False,1,False,1,False,True,False,5
 13502,1228,,2,"de Brito, Mr. Jose Joaquim",male,32.0,0,0,244360,13.0,not_assigned,S,test,de Brito,False,False,1,False,1,False,True,False,5
 13514,1229,,3,"Elias, Mr. Joseph",male,39.0,0,2,2675,7.2292,not_assigned,C,test,Elias,False,False,1,False,1,False,True,False,6
 13523,1230,,2,"Denbury, Mr. Herbert",male,25.0,0,0,C.A. 31029,31.5,not_assigned,S,test,Denbury,False,False,1,False,3,True,False,False,4
-13533,1231,,3,"Betros, Master. Seman",male,15.26,0,0,2622,7.2292,not_assigned,C,test,Betros,False,False,1,False,1,False,True,True,3
+13533,1231,,3,"Betros, Master. Seman",male,15.285,0,0,2622,7.2292,not_assigned,C,test,Betros,False,False,1,False,1,False,True,True,3
 13544,1232,,2,"Fillbrook, Mr. Joseph Charles",male,18.0,0,0,C.A. 15185,10.5,not_assigned,S,test,Fillbrook,False,False,1,False,1,False,True,False,3
 13557,1233,,3,"Lundstrom, Mr. Thure Edvin",male,32.0,0,0,350403,7.5792,not_assigned,S,test,Lundstrom,False,False,1,False,1,False,True,False,5
-13569,1234,,3,"Sage, Mr. John George",male,35.41325,1,9,CA. 2343,69.55,not_assigned,S,test,Sage,False,False,11,True,11,False,False,False,6
+13569,1234,,3,"Sage, Mr. John George",male,37.00083333333333,1,9,CA. 2343,69.55,not_assigned,S,test,Sage,False,False,11,True,11,False,False,False,6
 13582,1235,,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58.0,0,1,PC 17755,512.3292,B51 B53 B55,C,test,Cardeza,False,True,2,True,4,False,False,False,8
-13587,1236,,3,"van Billiard, Master. James William",male,8.3974,1,1,A/5. 851,14.5,not_assigned,S,test,van Billiard,False,False,3,True,3,False,False,True,2
+13587,1236,,3,"van Billiard, Master. James William",male,8.1683,1,1,A/5. 851,14.5,not_assigned,S,test,van Billiard,False,False,3,True,3,False,False,True,2
 13599,1237,,3,"Abelseth, Miss. Karen Marie",female,16.0,0,0,348125,7.65,not_assigned,S,test,Abelseth,False,False,1,False,1,False,True,True,3
 13612,1238,,2,"Botsford, Mr. William Hull",male,26.0,0,0,237670,13.0,not_assigned,S,test,Botsford,False,False,1,False,1,False,True,False,5
 13624,1239,,3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38.0,0,0,2688,7.2292,not_assigned,C,test,Whabee,False,False,1,False,1,False,True,False,6
@@ -1247,16 +1247,16 @@
 13695,1246,,3,"Dean, Miss. Elizabeth Gladys Millvina""""",female,0.17,1,2,C.A. 2315,20.575,not_assigned,S,test,Dean,False,False,4,True,4,False,False,True,0
 13713,1247,,1,"Julian, Mr. Henry Forbes",male,50.0,0,0,113044,26.0,E60,S,test,Julian,True,False,1,False,1,False,True,False,7
 13725,1248,,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59.0,2,0,11769,51.4792,C101,S,test,Brown,True,False,1,False,2,True,False,False,8
-13733,1249,,3,"Lockyer, Mr. Edward",male,28.8575,0,0,1222,7.8792,not_assigned,S,test,Lockyer,False,False,1,False,1,False,True,False,5
-13745,1250,,3,"O'Keefe, Mr. Patrick",male,39.545,0,0,368402,7.75,not_assigned,Q,test,O'Keefe,False,False,1,False,1,False,True,False,6
+13733,1249,,3,"Lockyer, Mr. Edward",male,29.16,0,0,1222,7.8792,not_assigned,S,test,Lockyer,False,False,1,False,1,False,True,False,5
+13745,1250,,3,"O'Keefe, Mr. Patrick",male,39.615,0,0,368402,7.75,not_assigned,Q,test,O'Keefe,False,False,1,False,1,False,True,False,6
 13755,1251,,3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30.0,1,0,349910,15.55,not_assigned,S,test,Lindell,False,False,2,True,2,False,False,False,5
 13764,1252,,3,"Sage, Master. William Henry",male,14.5,8,2,CA. 2343,69.55,not_assigned,S,test,Sage,False,False,11,True,11,False,False,True,3
 13776,1253,,2,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24.0,1,1,S.C./PARIS 2079,37.0042,not_assigned,C,test,Mallet,False,False,3,True,3,False,False,False,4
 13788,1254,,2,"Ware, Mrs. John James (Florence Louise Long)",female,31.0,0,0,CA 31352,21.0,not_assigned,S,test,Ware,False,False,2,True,2,False,False,False,5
 13799,1255,,3,"Strilic, Mr. Ivan",male,27.0,0,0,315083,8.6625,not_assigned,S,test,Strilic,False,False,1,False,1,False,True,False,5
 13809,1256,,1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25.0,1,0,11765,55.4417,E50,C,test,Harder,True,False,2,True,2,False,False,False,4
-13822,1257,,3,"Sage, Mrs. John (Annie Bullen)",female,39.930749999999996,1,9,CA. 2343,69.55,not_assigned,S,test,Sage,False,False,11,True,11,False,False,False,6
-13832,1258,,3,"Caram, Mr. Joseph",male,28.49666666666667,1,0,2689,14.4583,not_assigned,C,test,Caram,False,False,2,True,2,False,False,False,5
+13822,1257,,3,"Sage, Mrs. John (Annie Bullen)",female,38.670833333333334,1,9,CA. 2343,69.55,not_assigned,S,test,Sage,False,False,11,True,11,False,False,False,6
+13832,1258,,3,"Caram, Mr. Joseph",male,26.37666666666667,1,0,2689,14.4583,not_assigned,C,test,Caram,False,False,2,True,2,False,False,False,5
 13842,1259,,3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,22.0,0,0,3101295,39.6875,not_assigned,S,test,Riihivouri,False,False,1,False,7,True,False,True,4
 13855,1260,,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45.0,0,1,112378,59.4,not_assigned,C,test,Gibson,False,False,2,True,2,False,False,False,6
 13865,1261,,2,"Pallas y Castello, Mr. Emilio",male,29.0,0,0,SC/PARIS 2147,13.8583,not_assigned,C,test,Pallas y Castello,False,False,1,False,1,False,True,False,5
@@ -1270,11 +1270,11 @@
 13952,1269,,2,"Cotterill, Mr. Henry Harry""""",male,21.0,0,0,29107,11.5,not_assigned,S,test,Cotterill,False,False,1,False,1,False,True,False,4
 13966,1270,,1,"Hipkins, Mr. William Edward",male,55.0,0,0,680,50.0,C39,S,test,Hipkins,True,False,1,False,1,False,True,False,7
 13971,1271,,3,"Asplund, Master. Carl Edgar",male,5.0,4,2,347077,31.3875,not_assigned,S,test,Asplund,False,False,7,True,7,False,False,True,1
-13986,1272,,3,"O'Connor, Mr. Patrick",male,28.225,0,0,366713,7.75,not_assigned,Q,test,O'Connor,False,False,1,False,1,False,True,False,5
+13986,1272,,3,"O'Connor, Mr. Patrick",male,28.2,0,0,366713,7.75,not_assigned,Q,test,O'Connor,False,False,1,False,1,False,True,False,5
 13997,1273,,3,"Foley, Mr. Joseph",male,26.0,0,0,330910,7.8792,not_assigned,Q,test,Foley,False,False,1,False,1,False,True,False,5
-14009,1274,,3,"Risien, Mrs. Samuel (Emma)",female,37.48,0,0,364498,14.5,not_assigned,S,test,Risien,False,False,2,True,2,False,False,False,6
+14009,1274,,3,"Risien, Mrs. Samuel (Emma)",female,37.495,0,0,364498,14.5,not_assigned,S,test,Risien,False,False,2,True,2,False,False,False,6
 14018,1275,,3,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19.0,1,0,376566,16.1,not_assigned,S,test,McNamee,False,False,2,True,2,False,False,False,4
-14030,1276,,2,"Wheeler, Mr. Edwin Frederick""""",male,33.0,0,0,SC/PARIS 2159,12.875,not_assigned,S,test,Wheeler,False,False,1,False,1,False,True,False,5
+14030,1276,,2,"Wheeler, Mr. Edwin Frederick""""",male,32.485,0,0,SC/PARIS 2159,12.875,not_assigned,S,test,Wheeler,False,False,1,False,1,False,True,False,5
 14040,1277,,2,"Herman, Miss. Kate",female,24.0,1,2,220845,65.0,not_assigned,S,test,Herman,False,False,4,True,5,False,False,True,4
 14051,1278,,3,"Aronsson, Mr. Ernst Axel Algot",male,24.0,0,0,349911,7.775,not_assigned,S,test,Aronsson,False,False,1,False,1,False,True,False,4
 14066,1279,,2,"Ashby, Mr. John",male,57.0,0,0,244346,13.0,not_assigned,S,test,Ashby,False,False,1,False,1,False,True,False,8
@@ -1298,13 +1298,13 @@
 14260,1297,,2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,20.0,0,0,SC/PARIS 2166,13.8625,D38,C,test,Nourney,True,False,1,False,1,False,True,False,4
 14271,1298,,2,"Ware, Mr. William Jeffery",male,23.0,1,0,28666,10.5,not_assigned,S,test,Ware,False,False,1,False,1,False,True,False,4
 14285,1299,,1,"Widener, Mr. George Dunton",male,50.0,1,1,113503,211.5,C80,C,test,Widener,True,False,3,True,5,False,False,False,7
-14293,1300,,3,"Riordan, Miss. Johanna Hannah""""",female,22.265,0,0,334915,7.7208,not_assigned,Q,test,Riordan,False,False,1,False,1,False,True,True,4
+14293,1300,,3,"Riordan, Miss. Johanna Hannah""""",female,22.105,0,0,334915,7.7208,not_assigned,Q,test,Riordan,False,False,1,False,1,False,True,True,4
 14300,1301,,3,"Peacock, Miss. Treasteall",female,3.0,1,1,SOTON/O.Q. 3101315,13.775,not_assigned,S,test,Peacock,False,False,3,True,3,False,False,True,0
-14316,1302,,3,"Naughton, Miss. Hannah",female,26.06,0,0,365237,7.75,not_assigned,Q,test,Naughton,False,False,1,False,1,False,True,True,5
+14316,1302,,3,"Naughton, Miss. Hannah",female,25.525,0,0,365237,7.75,not_assigned,Q,test,Naughton,False,False,1,False,1,False,True,True,5
 14328,1303,,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37.0,1,0,19928,90.0,C78,Q,test,Minahan,True,False,3,True,3,False,False,False,6
 14338,1304,,3,"Henriksson, Miss. Jenny Lovisa",female,28.0,0,0,347086,7.775,not_assigned,S,test,Henriksson,False,False,1,False,1,False,True,True,5
-14350,1305,,3,"Spector, Mr. Woolf",male,36.365,0,0,A.5. 3236,8.05,not_assigned,S,test,Spector,False,False,1,False,1,False,True,False,6
+14349,1305,,3,"Spector, Mr. Woolf",male,34.47,0,0,A.5. 3236,8.05,not_assigned,S,test,Spector,False,False,1,False,1,False,True,False,5
 14361,1306,,1,"Oliva y Ocana, Dona. Fermina",female,39.0,0,0,PC 17758,108.9,C105,C,test,Oliva y Ocana,True,False,1,False,3,True,False,False,6
 14372,1307,,3,"Saether, Mr. Simon Sivertsen",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,not_assigned,S,test,Saether,False,False,1,False,1,False,True,False,6
-14382,1308,,3,"Ware, Mr. Frederick",male,34.71,0,0,359309,8.05,not_assigned,S,test,Ware,False,False,1,False,1,False,True,False,5
-14389,1309,,3,"Peter, Master. Michael J",male,3.1763833333333333,1,1,2668,22.3583,not_assigned,C,test,Peter,False,False,3,True,3,False,False,True,1
+14382,1308,,3,"Ware, Mr. Frederick",male,33.43,0,0,359309,8.05,not_assigned,S,test,Ware,False,False,1,False,1,False,True,False,5
+14389,1309,,3,"Peter, Master. Michael J",male,3.406663333333333,1,1,2668,22.3583,not_assigned,C,test,Peter,False,False,3,True,3,False,False,True,1
